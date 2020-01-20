@@ -4,8 +4,8 @@ class MyNews(object):
         self.title = title
         self.url = url
 
-def checkIfExists(label, newsFlow):
+def checkIfExists(title, newsFlow):
     for item in newsFlow:
-        if item.label == label:
+        if item.title in title:
             return True
     return False

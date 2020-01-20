@@ -64,3 +64,18 @@
 2020-01-20,19:11,Vapenaktivister i protest oroar i Virginia,https://gp.se/nyheter/v%C3%A4rlden/vapenaktivister-i-protest-oroar-i-virginia-1.22851431
 2020-01-20,19:05,Här är domarna i mutfallen i Sverige 2019,https://gp.se/ekonomi/h%C3%A4r-%C3%A4r-domarna-i-mutfallen-i-sverige-2019-1.22871705
 2020-01-20,18:49,Pulverlarm ledde till misstänkt knarkfynd,https://gp.se/nyheter/sverige/pulverlarm-ledde-till-misst%C3%A4nkt-knarkfynd-1.22871382
+2020-01-20,19:22,Kina: Lungsjukdomen smittar mellan människor,https://gp.se/nyheter/v%C3%A4rlden/kina-lungsjukdomen-smittar-mellan-m%C3%A4nniskor-1.22833625
+2020-01-20,19:14,Svårt skadad i krock med lastbil,https://gp.se/nyheter/sverige/sv%C3%A5rt-skadad-i-krock-med-lastbil-1.22872007
+2020-01-20,19:11,Vapenaktivister i protest oroar i Virginia,https://gp.se/nyheter/v%C3%A4rlden/vapenaktivister-i-protest-oroar-i-virginia-1.22851431
+2020-01-20,19:05,Här är domarna i mutfallen i Sverige 2019,https://gp.se/ekonomi/h%C3%A4r-%C3%A4r-domarna-i-mutfallen-i-sverige-2019-1.22871705
+2020-01-20,18:49,Pulverlarm ledde till misstänkt knarkfynd,https://gp.se/nyheter/sverige/pulverlarm-ledde-till-misst%C3%A4nkt-knarkfynd-1.22871382
+2020-01-20,19:22,Kina: Lungsjukdomen smittar mellan människor,https://gp.se/nyheter/v%C3%A4rlden/kina-lungsjukdomen-smittar-mellan-m%C3%A4nniskor-1.22833625
+2020-01-20,19:14,Svårt skadad i krock med lastbil,https://gp.se/nyheter/sverige/sv%C3%A5rt-skadad-i-krock-med-lastbil-1.22872007
+2020-01-20,19:11,Vapenaktivister i protest oroar i Virginia,https://gp.se/nyheter/v%C3%A4rlden/vapenaktivister-i-protest-oroar-i-virginia-1.22851431
+2020-01-20,19:05,Här är domarna i mutfallen i Sverige 2019,https://gp.se/ekonomi/h%C3%A4r-%C3%A4r-domarna-i-mutfallen-i-sverige-2019-1.22871705
+2020-01-20,19:25,Statsvetare: V vill inte vara dörrmatta,https://gp.se/nyheter/sverige/statsvetare-v-vill-inte-vara-d%C3%B6rrmatta-1.22872268
+2020-01-20,19:30,Greta Thunberg i tungsviktsmöte i Davos,https://gp.se/nyheter/greta-thunberg-i-tungsviktsm%C3%B6te-i-davos-1.22859315
+2020-01-20,19:30,Greta Thunberg i tungsviktsmöte i Davos,https://gp.se/nyheter/greta-thunberg-i-tungsviktsm%C3%B6te-i-davos-1.22859315
+2020-01-20,19:25,Statsvetare: V vill inte vara dörrmatta,https://gp.se/nyheter/sverige/statsvetare-v-vill-inte-vara-d%C3%B6rrmatta-1.22872268
+2020-01-20,19:22,Kina: Lungsjukdomen smittar mellan människor,https://gp.se/nyheter/v%C3%A4rlden/kina-lungsjukdomen-smittar-mellan-m%C3%A4nniskor-1.22833625
+2020-01-20,19:14,Svårt skadad i krock med lastbil,https://gp.se/nyheter/sverige/sv%C3%A5rt-skadad-i-krock-med-lastbil-1.22872007

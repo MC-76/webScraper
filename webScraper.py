@@ -18,8 +18,9 @@
 # TODO Publicera i Flask
 # OK Markera om en artikel finns med i register
 # TODO Hämta inställningar från en ini fil
-# TODO Ändra så att man kollar efter title och inte label
+# OK Ändra så att man kollar efter title och inte label
 # TODO Fixa hjälpmeny
+# OK Fixa folder om den inte finns
 
 # Moved to public GIT: https://github.com/MC-76/webScraper
 
@@ -50,16 +51,17 @@ try:
 except: # Ignore wrong arguments
     pass
 
+# Check application arguments
 for opt, arg in opts:
-    if opt=='-s':
+    if opt=='-s':                   # Silent
         flagSilent = True
-    if opt=='-i':
+    if opt=='-i':                   # Only highlights
         flagOnlyHiglights = True
 
 if not flagSilent:
     print('Latest news from https://gp.se:')
     if flagOnlyHiglights:
-        print('Only showing highlights')
+        print('Only showing highlights:')
 counter = 0
 lastFileDate = datetime.date.today()
 
@@ -84,12 +86,11 @@ while True: # Run forever
             url = link.get('href')
 
         newsInfo = MyNews(label,title,url)
-        if not checkIfExists(label,newsFlow):
+        if not checkIfExists(title,newsFlow):
             newsFlow.append(newsInfo)
 
             if flagOnlyHiglights:
                 for word in highLights:
-                    #print(word)
                     if word in title:
                         if not flagSilent:
                             print('\007')       # Print sound?!?
