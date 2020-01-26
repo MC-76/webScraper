@@ -1,0 +1,48 @@
+while True: # Run forever
+    # what?
+    # getPageInfo(inputURL,inputClass,inputLabel,inputTitle):
+    # get list of news, check if they have been showned
+
+    page = requests.get('https://gp.se')
+    soup = BeautifulSoup(page.text, 'html.parser')
+
+    for headlines in soup.find_all(class_='c-teaser-list__item'):
+        for label in headlines.find_all(class_='c-teaser-list__item__label'):
+            label = label.text.strip()
+        for item in headlines.find_all(class_='c-teaser-list__item__title'):
+            title = item.text.strip()
+        for link in headlines.find_all('a'):
+            url = link.get('href')
+
+        newsInfo = MyNews(label,title,url)
+        if not checkIfExists(title,newsFlow):
+            newsFlow.append(newsInfo)
+    #def checkPage(webURL,inputLabel,inputTitle, newsInfo):
+    #checkPage('https://gp.se','c-teaser-list__item','c-teaser-list__item__title',newsFlow)
+
+            if flagOnlyHiglights:
+                for word in highLights:
+                    if word in title:
+                        if not flagSilent:
+                            print('\007')       # Print sound?!?
+                            print(f'{label}   {title}   https://{url}')
+                    #print(f'*** {word} is found! ***')
+            else:
+                if not flagSilent:
+                    if not flagLinks:
+                            print(f'{label}   {title}')
+                    else:
+                            print(f'{label}   {title}   https://gp.se{url}')    
+            
+            
+            # Clear buffer when new date
+            if lastFileDate != datetime.date.today():
+                newsFlow.clear()
+                #print('Buffer cleared!')
+
+            with open(f'{path}{datetime.date.today()}-newsLog.txt','a') as fp:
+                lastFileDate = datetime.date.today()
+                fp.write(str(f'{lastFileDate},{label},{title},https://gp.se{url}\n'))
+                
+   
+    time.sleep(waitTime)

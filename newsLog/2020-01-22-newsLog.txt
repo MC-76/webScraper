@@ -1,0 +1,133 @@
+2020-01-22,03:41,Osaka vidare i Australian Open,https://gp.se/sport/osaka-vidare-i-australian-open-1.22928594
+2020-01-22,03:35,Kina varnar: Viruset kan mutera,https://gp.se/nyheter/v%C3%A4rlden/kina-varnar-viruset-kan-mutera-1.22928523
+2020-01-22,03:19,Möra senatorer vid riksrättsrättegång,https://gp.se/nyheter/v%C3%A4rlden/m%C3%B6ra-senatorer-vid-riksr%C3%A4ttsr%C3%A4tteg%C3%A5ng-1.22927874
+2020-01-22,08:11,FN utlovar stöd till Libanons nya styre,https://gp.se/nyheter/v%C3%A4rlden/fn-utlovar-st%C3%B6d-till-libanons-nya-styre-1.22926498
+2020-01-22,08:07,Så blev Adam Schiff "Mr Riksrätt",https://gp.se/nyheter/v%C3%A4rlden/s%C3%A5-blev-adam-schiff-mr-riksr%C3%A4tt-1.22936223
+2020-01-22,08:02,Fler anhållna efter mord i Mellerud,https://gp.se/nyheter/sverige/fler-anh%C3%A5llna-efter-mord-i-mellerud-1.22936075
+2020-01-22,08:17,Över 13 timmars riksrätt – första dagen,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6ver-13-timmars-riksr%C3%A4tt-f%C3%B6rsta-dagen-1.22927874
+2020-01-22,08:29,Handelsbanken räknar med mild lågkonjunktur,https://gp.se/ekonomi/handelsbanken-r%C3%A4knar-med-mild-l%C3%A5gkonjunktur-1.22937461
+2020-01-22,08:26,Flera skadade i explosion i Norrköping,https://gp.se/nyheter/sverige/flera-skadade-i-explosion-i-norrk%C3%B6ping-1.22932951
+2020-01-22,08:23,Han springer mot tårgasen,https://gp.se/nyheter/v%C3%A4rlden/han-springer-mot-t%C3%A5rgasen-1.22929661
+2020-01-22,08:29,Handelsbanken räknar med mild lågkonjunktur,https://gp.se/ekonomi/handelsbanken-r%C3%A4knar-med-mild-l%C3%A5gkonjunktur-1.22937461
+2020-01-22,08:26,Flera skadade i explosion i Norrköping,https://gp.se/nyheter/sverige/flera-skadade-i-explosion-i-norrk%C3%B6ping-1.22932951
+2020-01-22,08:23,Han springer mot tårgasen,https://gp.se/nyheter/v%C3%A4rlden/han-springer-mot-t%C3%A5rgasen-1.22929661
+2020-01-22,08:29,Handelsbanken räknar med mild lågkonjunktur,https://gp.se/ekonomi/handelsbanken-r%C3%A4knar-med-mild-l%C3%A5gkonjunktur-1.22937461
+2020-01-22,08:26,Flera skadade i explosion i Norrköping,https://gp.se/nyheter/sverige/flera-skadade-i-explosion-i-norrk%C3%B6ping-1.22932951
+2020-01-22,08:23,Han springer mot tårgasen,https://gp.se/nyheter/v%C3%A4rlden/han-springer-mot-t%C3%A5rgasen-1.22929661
+2020-01-22,08:29,Handelsbanken räknar med mild lågkonjunktur,https://gp.se/ekonomi/handelsbanken-r%C3%A4knar-med-mild-l%C3%A5gkonjunktur-1.22937461
+2020-01-22,08:26,Flera skadade i explosion i Norrköping,https://gp.se/nyheter/sverige/flera-skadade-i-explosion-i-norrk%C3%B6ping-1.22932951
+2020-01-22,08:23,Han springer mot tårgasen,https://gp.se/nyheter/v%C3%A4rlden/han-springer-mot-t%C3%A5rgasen-1.22929661
+2020-01-22,08:34,Cecilia Wikström går till pr-byrå,https://gp.se/nyheter/sverige/cecilia-wikstr%C3%B6m-g%C3%A5r-till-pr-byr%C3%A5-1.22938887
+2020-01-22,08:41,Investor ser köpläge i svackan,https://gp.se/ekonomi/investor-ser-k%C3%B6pl%C3%A4ge-i-svackan-1.22939339
+2020-01-22,08:49,Lister ersatte svenskorna i dubbel,https://gp.se/sport/lister-ersatte-svenskorna-i-dubbel-1.22939661
+2020-01-22,09:13,Över 13 timmars riksrätt – första dagen,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6ver-13-timmars-riksr%C3%A4tt-f%C3%B6rsta-dagen-1.22927874
+2020-01-22,09:13,Rapportfall för Essity,https://gp.se/ekonomi/rapportfall-f%C3%B6r-essity-1.22934855
+2020-01-22,09:04,Oväntat stark vinst för Hyundai,https://gp.se/ekonomi/ov%C3%A4ntat-stark-vinst-f%C3%B6r-hyundai-1.22941049
+2020-01-22,09:23,Årets bästa sjukhus,https://gp.se/nyheter/sverige/%C3%A5rets-b%C3%A4sta-sjukhus-1.22942179
+2020-01-22,09:22,Uppåt på börsen i linje med omvärlden,https://gp.se/ekonomi/upp%C3%A5t-p%C3%A5-b%C3%B6rsen-i-linje-med-omv%C3%A4rlden-1.22941905
+2020-01-22,09:22,Efter tårarna – nu möts de i en ny stormatch,https://gp.se/sport/efter-t%C3%A5rarna-nu-m%C3%B6ts-de-i-en-ny-stormatch-1.22928594
+2020-01-22,09:28,Tencent lägger bud på resten av norska Funcom,https://gp.se/ekonomi/tencent-l%C3%A4gger-bud-p%C3%A5-resten-av-norska-funcom-1.22942412
+2020-01-22,09:31,Ericssonchefer frias i grekiskt korruptionsmål,https://gp.se/ekonomi/ericssonchefer-frias-i-grekiskt-korruptionsm%C3%A5l-1.22942513
+2020-01-22,09:34,Filmrecension: Korkad anka räddar storyn,https://gp.se/kultur/kultur-n%C3%B6je/filmrecension-korkad-anka-r%C3%A4ddar-storyn-1.22942704
+2020-01-22,09:40,Detonation i Norrköping – flera evakuerade,https://gp.se/nyheter/sverige/detonation-i-norrk%C3%B6ping-flera-evakuerade-1.22932951
+2020-01-22,09:49,Säpochef varnar för datalagringsförslag,https://gp.se/nyheter/sverige/s%C3%A4pochef-varnar-f%C3%B6r-datalagringsf%C3%B6rslag-1.22932377
+2020-01-22,09:49,Daimler ser oväntat svagt resultat,https://gp.se/ekonomi/daimler-ser-ov%C3%A4ntat-svagt-resultat-1.22943297
+2020-01-22,09:57,Tröttsamt bombastiskt med Robert Downey Jr,https://gp.se/kultur/film/recension-dolittle-1.22943660
+2020-01-22,10:13,Så mycket kostar dig dina felköp årligen,https://gp.se/livsstil/konsument/s%C3%A5-mycket-kostar-dig-dina-felk%C3%B6p-%C3%A5rligen-1.22942556
+2020-01-22,10:20,Uppges lämna allsvenskan – för Indien,https://gp.se/sport/fotboll/uppges-l%C3%A4mna-allsvenskan-f%C3%B6r-indien-1.22944831
+2020-01-22,10:25,Burgården ska skära ner med 13 miljoner,https://gp.se/nyheter/g%C3%B6teborg/burg%C3%A5rdens-gymnasium-tvingas-kapa-budgeten-med-13-miljoner-1.22909230
+2020-01-22,10:22,Stora lägenheter hetast på bomarknaden,https://gp.se/ekonomi/stora-l%C3%A4genheter-hetast-p%C3%A5-bomarknaden-1.22944944
+2020-01-22,10:32,Bergqvist: "Grannarna tror jag odlar marijuana",https://gp.se/sport/kajsa-bergkvist-uppladdning-inf%C3%B6r-v%C3%A4rldsrekordet-semla-och-en-kaffe-1.22942949
+2020-01-22,10:31,Han blir ny chef på Dansens hus,https://gp.se/kultur/kultur-n%C3%B6je/han-blir-ny-chef-p%C3%A5-dansens-hus-1.22945283
+2020-01-22,10:41,Radhus brinner i Fiskebäck,https://gp.se/nyheter/g%C3%B6teborg/radhus-brinner-i-fiskeb%C3%A4ck-1.22945710
+2020-01-22,10:37,Brasilien vill förhandla om Opec-medlemskap,https://gp.se/ekonomi/brasilien-vill-f%C3%B6rhandla-om-opec-medlemskap-1.22945536
+2020-01-22,10:43,Stjärnan om autismen: Liten del av mina pojkar,https://gp.se/sport/stj%C3%A4rnan-om-autismen-liten-del-av-mina-pojkar-1.22932833
+2020-01-22,10:43,Guaidó om kontorsräd: "Feg diktatur!",https://gp.se/nyheter/v%C3%A4rlden/guaid%C3%B3-om-kontorsr%C3%A4d-feg-diktatur-1.22946006
+2020-01-22,10:56,Här firar NHL-laget – med spökboll,https://gp.se/sport/ishockey/nhl-laget-firade-segern-med-sp%C3%B6kboll-1.22946257
+2020-01-22,10:55,Första kvinnan på Greklands presidentpost,https://gp.se/nyheter/v%C3%A4rlden/f%C3%B6rsta-kvinnan-p%C3%A5-greklands-presidentpost-1.22940226
+2020-01-22,11:32,Säpo vill att Facebook tvingas lagra data,https://gp.se/nyheter/sverige/s%C3%A4po-vill-att-facebook-tvingas-lagra-data-1.22932377
+2020-01-22,11:31,Ny Stena-linje kan vara ett steg närmare verklighet,https://gp.se/ekonomi/ny-stena-linje-kan-vara-ett-steg-n%C3%A4rmare-verklighet-1.22909529
+2020-01-22,11:22,En gripen för explosionen på Östermalm,https://gp.se/nyheter/sverige/en-gripen-f%C3%B6r-explosionen-p%C3%A5-%C3%B6stermalm-1.22948051
+2020-01-22,12:07,Sänkta papperspriser får Essity på fall,https://gp.se/ekonomi/s%C3%A4nkta-papperspriser-f%C3%A5r-essity-p%C3%A5-fall-1.22934855
+2020-01-22,12:07,Stockholmsbörsen tappar fart,https://gp.se/ekonomi/stockholmsb%C3%B6rsen-tappar-fart-1.22941905
+2020-01-22,12:04,Fotbollsprofil tillfångatagen och dödshotad – åtal väcks,https://gp.se/sport/fotboll/fotbollsprofil-tillf%C3%A5ngatagen-och-d%C3%B6dshotad-%C3%A5tal-v%C3%A4cks-1.22950416
+2020-01-22,12:20,Dubbelmord i Bergen: 56-åring erkänner,https://gp.se/nyheter/v%C3%A4rlden/dubbelmord-i-bergen-56-%C3%A5ring-erk%C3%A4nner-1.22951177
+2020-01-22,12:20,Dubbelmord i Bergen: 56-åring erkänner,https://gp.se/nyheter/v%C3%A4rlden/dubbelmord-i-bergen-56-%C3%A5ring-erk%C3%A4nner-1.22951177
+2020-01-22,12:10,Säpo vill att Facebook tvingas lagra data,https://gp.se/nyheter/sverige/s%C3%A4po-vill-att-facebook-tvingas-lagra-data-1.22932377
+2020-01-22,12:07,Sänkta papperspriser får Essity på fall,https://gp.se/ekonomi/s%C3%A4nkta-papperspriser-f%C3%A5r-essity-p%C3%A5-fall-1.22934855
+2020-01-22,12:20,Dubbelmord i Bergen: 56-åring erkänner,https://gp.se/nyheter/v%C3%A4rlden/dubbelmord-i-bergen-56-%C3%A5ring-erk%C3%A4nner-1.22951177
+2020-01-22,12:10,Säpo vill att Facebook tvingas lagra data,https://gp.se/nyheter/sverige/s%C3%A4po-vill-att-facebook-tvingas-lagra-data-1.22932377
+2020-01-22,12:07,Sänkta papperspriser får Essity på fall,https://gp.se/ekonomi/s%C3%A4nkta-papperspriser-f%C3%A5r-essity-p%C3%A5-fall-1.22934855
+2020-01-22,12:37,Lister ersatte svenskorna i dubbel,https://gp.se/sport/lister-ersatte-svenskorna-i-dubbel-1.22939661
+2020-01-22,12:20,Dubbelmord i Bergen: 56-åring erkänner,https://gp.se/nyheter/v%C3%A4rlden/dubbelmord-i-bergen-56-%C3%A5ring-erk%C3%A4nner-1.22951177
+2020-01-22,12:10,Säpo vill att Facebook tvingas lagra data,https://gp.se/nyheter/sverige/s%C3%A4po-vill-att-facebook-tvingas-lagra-data-1.22932377
+2020-01-22,12:43,Källa: Di Maio har avgått som M5S-ledare,https://gp.se/nyheter/v%C3%A4rlden/k%C3%A4lla-di-maio-har-avg%C3%A5tt-som-m5s-ledare-1.22940870
+2020-01-22,12:41,Serneke vill flytta Lisebergshallen till Kviberg,https://gp.se/nyheter/g%C3%B6teborg/serneke-vill-flytta-lisebergshallen-till-kviberg-1.22949728
+2020-01-22,12:40,Federer och Djokovic lätt vidare i Melbourne,https://gp.se/sport/federer-och-djokovic-l%C3%A4tt-vidare-i-melbourne-1.22951740
+2020-01-22,12:43,Källa: Di Maio har avgått som M5S-ledare,https://gp.se/nyheter/v%C3%A4rlden/k%C3%A4lla-di-maio-har-avg%C3%A5tt-som-m5s-ledare-1.22940870
+2020-01-22,12:41,Serneke vill flytta Lisebergshallen till Kviberg,https://gp.se/nyheter/g%C3%B6teborg/serneke-vill-flytta-lisebergshallen-till-kviberg-1.22949728
+2020-01-22,12:40,Federer och Djokovic lätt vidare i Melbourne,https://gp.se/sport/federer-och-djokovic-l%C3%A4tt-vidare-i-melbourne-1.22951740
+2020-01-22,12:43,Källa: Di Maio har avgått som M5S-ledare,https://gp.se/nyheter/v%C3%A4rlden/k%C3%A4lla-di-maio-har-avg%C3%A5tt-som-m5s-ledare-1.22940870
+2020-01-22,12:41,Serneke vill flytta Lisebergshallen till Kviberg,https://gp.se/nyheter/g%C3%B6teborg/serneke-vill-flytta-lisebergshallen-till-kviberg-1.22949728
+2020-01-22,12:40,Federer och Djokovic lätt vidare i Melbourne,https://gp.se/sport/federer-och-djokovic-l%C3%A4tt-vidare-i-melbourne-1.22951740
+2020-01-22,12:58,Ostindiefararen söker besättning för sommaren,https://gp.se/nyheter/g%C3%B6teborg/ostindiefararen-s%C3%B6ker-bes%C3%A4ttning-f%C3%B6r-sommaren-1.22905385
+2020-01-22,13:01,Munskydd – inget skydd mot virus,https://gp.se/nyheter/v%C3%A4rlden/munskydd-inget-skydd-mot-virus-1.22952126
+2020-01-22,13:05,M, V och KD överens,https://gp.se/nyheter/sverige/m-v-och-kd-%C3%B6verens-1.22952343
+2020-01-22,13:07,Google-chefen vill satsa på AI i sjukvården,https://gp.se/ekonomi/google-chefen-vill-satsa-p%C3%A5-ai-i-sjukv%C3%A5rden-1.22952499
+2020-01-22,13:11,Ny "Hungerspelen"-bok på gång,https://gp.se/kultur/kultur-n%C3%B6je/ny-hungerspelen-bok-p%C3%A5-g%C3%A5ng-1.22952770
+2020-01-22,13:10,Södertäljebron avstängd efter fartygskrock,https://gp.se/nyheter/sverige/s%C3%B6dert%C3%A4ljebron-avst%C3%A4ngd-efter-fartygskrock-1.22952627
+2020-01-22,13:10,Investor stärker kassan – redo för köp,https://gp.se/ekonomi/investor-st%C3%A4rker-kassan-redo-f%C3%B6r-k%C3%B6p-1.22939339
+2020-01-22,13:18,M, V och KD eniga om extrabudget,https://gp.se/nyheter/sverige/m-v-och-kd-eniga-om-extrabudget-1.22953122
+2020-01-22,13:19,JVM-spelaren till Färjestad,https://gp.se/sport/jvm-spelaren-till-f%C3%A4rjestad-1.22953218
+2020-01-22,13:24,Trump: Jag hade älskat att träffa Greta,https://gp.se/nyheter/v%C3%A4rlden/trump-jag-hade-%C3%A4lskat-att-tr%C3%A4ffa-greta-1.22953817
+2020-01-22,13:22,EU: Okej att porta högriskbolag från 5G,https://gp.se/ekonomi/eu-okej-att-porta-h%C3%B6griskbolag-fr%C3%A5n-5g-1.22953489
+2020-01-22,13:41,Södertäljebron stängdes av efter fartygskrock,https://gp.se/nyheter/sverige/s%C3%B6dert%C3%A4ljebron-st%C3%A4ngdes-av-efter-fartygskrock-1.22952627
+2020-01-22,13:40,Känd kriminell gripen för Östermalmdådet,https://gp.se/nyheter/sverige/k%C3%A4nd-kriminell-gripen-f%C3%B6r-%C3%B6stermalmd%C3%A5det-1.22948051
+2020-01-22,13:40,Orlando Bloom spelar prins Harry,https://gp.se/kultur/kultur-n%C3%B6je/orlando-bloom-spelar-prins-harry-1.22954600
+2020-01-22,14:37,Monty Python-stjärnan Terry Jones är död,https://gp.se/kultur/kultur-n%C3%B6je/monty-python-stj%C3%A4rnan-terry-jones-%C3%A4r-d%C3%B6d-1.22955633
+2020-01-22,14:31,Maktkamp om EU:s framtid,https://gp.se/nyheter/v%C3%A4rlden/maktkamp-om-eu-s-framtid-1.22957683
+2020-01-22,14:29,Frölundastjärnan osäker – hålls isolerad från laget,https://gp.se/sport/ishockey/rakhshani-kan-missa-m%C3%B6tet-med-bryn%C3%A4s-p%C3%A5-grund-av-sjuka-barn-1.22957169
+2020-01-22,14:40,Gängledare kan vara mål i Norrköpingsexplosion,https://gp.se/nyheter/sverige/g%C3%A4ngledare-kan-vara-m%C3%A5l-i-norrk%C3%B6pingsexplosion-1.22958099
+2020-01-22,14:37,Monty Python-stjärnan Terry Jones är död,https://gp.se/kultur/kultur-n%C3%B6je/monty-python-stj%C3%A4rnan-terry-jones-%C3%A4r-d%C3%B6d-1.22955633
+2020-01-22,14:31,Maktkamp om EU:s framtid,https://gp.se/nyheter/v%C3%A4rlden/maktkamp-om-eu-s-framtid-1.22957683
+2020-01-22,14:40,Gängledare kan vara mål i Norrköpingsexplosion,https://gp.se/nyheter/sverige/g%C3%A4ngledare-kan-vara-m%C3%A5l-i-norrk%C3%B6pingsexplosion-1.22958099
+2020-01-22,14:37,Monty Python-stjärnan Terry Jones är död,https://gp.se/kultur/kultur-n%C3%B6je/monty-python-stj%C3%A4rnan-terry-jones-%C3%A4r-d%C3%B6d-1.22955633
+2020-01-22,14:31,Maktkamp om EU:s framtid,https://gp.se/nyheter/v%C3%A4rlden/maktkamp-om-eu-s-framtid-1.22957683
+2020-01-22,,,https://gp.se//www.idg.se/2.38287/idg-samtliga-nyhetsbrev
+2020-01-22,,,https://gp.se//www.idg.se/2.38287/idg-samtliga-nyhetsbrev
+2020-01-22,,,https://gp.se//www.idg.se/2.38287/idg-samtliga-nyhetsbrev
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,,,https://gp.se
+2020-01-22,2020-01-22 14:49,,https://gp.se
+2020-01-22,2020-01-22 14:49,,https://gp.se
+2020-01-22,2020-01-22 14:49,,https://gp.se
+2020-01-22,2020-01-22 14:49,,https://gp.se
+2020-01-22,2020-01-22 14:49,,https://gp.se
+2020-01-22,2020-01-22 15:32,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,2020-01-22 15:06,,https://gp.se
+2020-01-22,IDG,Säpochefen Klas Friberg vill att regeringen inför ett EU-direktiv som tvingar sociala medier att lagra information om användarnas kommunikation, information som sedan ska kunna begäras ut för brottsbekämpning.,https://gp.se//computersweden.idg.se/2.2683/1.729580/sapo-tvinga-facebook-lagra-data
+2020-01-22,IDG,Säpochefen Klas Friberg vill att regeringen inför ett EU-direktiv som tvingar sociala medier att lagra information om användarnas kommunikation, information som sedan ska kunna begäras ut för brottsbekämpning.,https://gp.se//computersweden.idg.se/2.2683/1.729580/sapo-tvinga-facebook-lagra-data
+2020-01-22,15:49,Känd kriminell gripen för Östermalmsdådet,https://gp.se/nyheter/sverige/k%C3%A4nd-kriminell-gripen-f%C3%B6r-%C3%B6stermalmsd%C3%A5det-1.22948051
+2020-01-22,15:41,Riksdagen röstar om Ringhals,https://gp.se/nyheter/sverige/riksdagen-r%C3%B6star-om-ringhals-1.22960933
+2020-01-22,15:40,Se mötet mellan Gais och Varberg,https://gp.se/sport/fotboll/se-m%C3%B6tet-mellan-gais-och-varberg-1.22960876
+2020-01-22,IDG,Säpochefen Klas Friberg vill att regeringen inför ett EU-direktiv som tvingar sociala medier att lagra information om användarnas kommunikation, information som sedan ska kunna begäras ut för brottsbekämpning.,https://gp.se//computersweden.idg.se/2.2683/1.729580/sapo-tvinga-facebook-lagra-data
+2020-01-22,15:49,Känd kriminell gripen för Östermalmsdådet,https://gp.se/nyheter/sverige/k%C3%A4nd-kriminell-gripen-f%C3%B6r-%C3%B6stermalmsd%C3%A5det-1.22948051
+2020-01-22,15:41,Riksdagen röstar om Ringhals,https://gp.se/nyheter/sverige/riksdagen-r%C3%B6star-om-ringhals-1.22960933
+2020-01-22,15:40,Se mötet mellan Gais och Varberg,https://gp.se/sport/fotboll/se-m%C3%B6tet-mellan-gais-och-varberg-1.22960876
+2020-01-22,IDG,Säpochefen Klas Friberg vill att regeringen inför ett EU-direktiv som tvingar sociala medier att lagra information om användarnas kommunikation, information som sedan ska kunna begäras ut för brottsbekämpning.,https://gp.se//computersweden.idg.se/2.2683/1.729580/sapo-tvinga-facebook-lagra-data

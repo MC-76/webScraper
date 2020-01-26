@@ -1,0 +1,131 @@
+2020-01-23,08:07,Man misstänks ha blivit mördad i Visby,https://gp.se/nyheter/sverige/man-misst%C3%A4nks-ha-blivit-m%C3%B6rdad-i-visby-1.22984282
+2020-01-23,08:07,De livsfarliga och sämsta köpen,https://gp.se/ekonomi/de-livsfarliga-och-s%C3%A4msta-k%C3%B6pen-1.22984552
+2020-01-23,07:55,Postnord och ministrar till riksdagen,https://gp.se/ekonomi/postnord-och-ministrar-till-riksdagen-1.22984145
+2020-01-23,IDG,Tyska förbundsmyndigheter står inför en kostnad på minst 800 000 euro, drygt 8,4 miljoner kronor, för de 33 000 pc inom sektorn som fortfarande kör Windows 7.,https://gp.se//computersweden.idg.se/2.2683/1.729560/tyskland-windows-7
+2020-01-23,08:10,Kraftiga kursfall på ledande Asienbörser,https://gp.se/ekonomi/kraftiga-kursfall-p%C3%A5-ledande-asienb%C3%B6rser-1.22977108
+2020-01-23,IDG,Reflekterad laser ihop med djupinlärning kan nu användas för att läsa av både siffror och nummer.,https://gp.se/2.1085/1.729588/ai-se-runt-horn
+2020-01-23,08:16,Något högre inflationsförväntningar,https://gp.se/ekonomi/n%C3%A5got-h%C3%B6gre-inflationsf%C3%B6rv%C3%A4ntningar-1.22984893
+2020-01-23,08:16,Något högre inflationsförväntningar,https://gp.se/ekonomi/n%C3%A5got-h%C3%B6gre-inflationsf%C3%B6rv%C3%A4ntningar-1.22984893
+2020-01-23,08:10,Kraftiga kursfall på ledande Asienbörser,https://gp.se/ekonomi/kraftiga-kursfall-p%C3%A5-ledande-asienb%C3%B6rser-1.22977108
+2020-01-23,08:07,Man misstänks ha blivit mördad i Visby,https://gp.se/nyheter/sverige/man-misst%C3%A4nks-ha-blivit-m%C3%B6rdad-i-visby-1.22984282
+2020-01-23,08:30,Tyska förbundsmyndigheter står inför en kostnad på minst 800 000 euro, drygt 8,4 miljoner kronor, för de 33 000 pc inom sektorn som fortfarande kör Windows 7.,https://gp.se//computersweden.idg.se/2.2683/1.729560/tyskland-windows-7
+2020-01-23,08:32,Något högre inflationsförväntningar,https://gp.se/ekonomi/n%C3%A5got-h%C3%B6gre-inflationsf%C3%B6rv%C3%A4ntningar-1.22984893
+2020-01-23,08:32,Kraftiga kursfall på ledande Asienbörser,https://gp.se/ekonomi/kraftiga-kursfall-p%C3%A5-ledande-asienb%C3%B6rser-1.22977108
+2020-01-23,08:32,Man misstänks ha blivit mördad i Visby,https://gp.se/nyheter/sverige/man-misst%C3%A4nks-ha-blivit-m%C3%B6rdad-i-visby-1.22984282
+2020-01-23,08:32,Tyska förbundsmyndigheter står inför en kostnad på minst 800 000 euro, drygt 8,4 miljoner kronor, för de 33 000 pc inom sektorn som fortfarande kör Windows 7.,https://gp.se//computersweden.idg.se/2.2683/1.729560/tyskland-windows-7
+2020-01-23,08:35,Stjärnan illa ute i femsetsrysare,https://gp.se/sport/stj%C3%A4rnan-illa-ute-i-femsetsrysare-1.22985124
+2020-01-23,08:38,Spårfel i Lerum orsakar förseningar,https://gp.se/nyheter/sverige/sp%C3%A5rfel-i-lerum-orsakar-f%C3%B6rseningar-1.22985381
+2020-01-23,08:39,Efter läkarundersökningen – väntas presenteras inom kort,https://gp.se/sport/fotboll/sebastian-eriksson-uppges-presenteras-av-genoa-inom-kort-1.22985627
+2020-01-23,08:44,Amanda Lind måste inte se all film,https://gp.se/kultur/kultur/amanda-lind-m%C3%A5ste-inte-se-all-film-1.22966668
+2020-01-23,08:53,Råtta och varg till salu på Kinas virusmarknad,https://gp.se/nyheter/v%C3%A4rlden/r%C3%A5tta-och-varg-till-salu-p%C3%A5-kinas-virusmarknad-1.22978701
+2020-01-23,08:57,Bilia går bättre än väntat,https://gp.se/ekonomi/bilia-g%C3%A5r-b%C3%A4ttre-%C3%A4n-v%C3%A4ntat-1.22986149
+2020-01-23,09:02,En bättre mexikansk middag på Fridas,https://gp.se/kultur/mat-dryck/krog/krogkollen-fridas-mexican-kitchen-1.22750450
+2020-01-23,09:02,Christian om den tuffa omställningen efter karriären,https://gp.se/livsstil/christian-om-den-tuffa-omst%C3%A4llningen-efter-karri%C3%A4ren-1.22678654
+2020-01-23,09:02,"Nye LeBron James" glänste i NBA-debuten,https://gp.se/sport/nye-lebron-james-gl%C3%A4nste-i-nba-debuten-1.22986281
+2020-01-23,09:06,Polis missade låsa dörren – misstänkt gick ut,https://gp.se/nyheter/sverige/polis-missade-l%C3%A5sa-d%C3%B6rren-misst%C3%A4nkt-gick-ut-1.22986677
+2020-01-23,09:07,Samebyn vinner över staten,https://gp.se/nyheter/sverige/girjas-sameby-vinner-%C3%B6ver-staten-1.22986797
+2020-01-23,09:11,Nytt forskargrepp om insekter och klimat,https://gp.se/nyheter/sverige/nytt-forskargrepp-om-insekter-och-klimat-1.22987085
+2020-01-23,09:11,Samebyn Girjas vinner över staten,https://gp.se/nyheter/sverige/samebyn-girjas-vinner-%C3%B6ver-staten-1.22979979
+2020-01-23,09:13,Svensk EM-kritik: "Skittråkigt för publiken",https://gp.se/sport/svensk-em-kritik-skittr%C3%A5kigt-f%C3%B6r-publiken-1.22987308
+2020-01-23,09:20,Börsen öppnar nedåt,https://gp.se/ekonomi/b%C3%B6rsen-%C3%B6ppnar-ned%C3%A5t-1.22987597
+2020-01-23,09:20,Vinterstorm skakar Spanien – sju döda,https://gp.se/nyheter/v%C3%A4rlden/vinterstorm-skakar-spanien-sju-d%C3%B6da-1.22987631
+2020-01-23,09:21,Bonava straffas på börsen,https://gp.se/ekonomi/bonava-straffas-p%C3%A5-b%C3%B6rsen-1.22984068
+2020-01-23,09:26,Henke Larsson korsar Atlanten med kändisbåt,https://gp.se/kultur/kultur-n%C3%B6je/henke-larsson-korsar-atlanten-med-k%C3%A4ndisb%C3%A5t-1.22987828
+2020-01-23,09:32,Sissela Kyle förlänger Sverigeturné,https://gp.se/kultur/kultur-n%C3%B6je/sissela-kyle-f%C3%B6rl%C3%A4nger-sverigeturn%C3%A9-1.22988071
+2020-01-23,09:39,SCB: 6,0 procent arbetslösa,https://gp.se/ekonomi/scb-6-0-procent-arbetsl%C3%B6sa-1.22988351
+2020-01-23,09:48,Blåvitt släpper unik försäsongströja,https://gp.se/sport/fotboll/bl%C3%A5vitt-sl%C3%A4pper-unik-f%C3%B6rs%C3%A4songstr%C3%B6ja-1.22988500
+2020-01-23,09:54,Ytterligare två anhållna i Mellerudsmordet,https://gp.se/nyheter/sverige/ytterligare-tv%C3%A5-anh%C3%A5llna-i-mellerudsmordet-1.22988813
+2020-01-23,10:04,Tyskland slår till mot nynazistisk grupp,https://gp.se/nyheter/v%C3%A4rlden/tyskland-sl%C3%A5r-till-mot-nynazistisk-grupp-1.22989326
+2020-01-23,10:07,Miljonsmäll för göteborgska sjöbefäl,https://gp.se/ekonomi/skattesm%C3%A4ll-p%C3%A5-miljoner-f%C3%B6r-g%C3%B6teborgska-sj%C3%B6bef%C3%A4l-1.22854532
+2020-01-23,10:10,Googles markköp i Horndal innebär mycket för en liten ort. Igår meddelade kommunen hur it-jättens planer på ett datacenter fått kommunen att agera.,https://gp.se//computersweden.idg.se/2.2683/1.729541/google-feber-avesta
+2020-01-23,10:18,Svenska pingisdamerna missar OS,https://gp.se/sport/svenska-pingisdamerna-missar-os-1.22990238
+2020-01-23,10:18,Flera rån på avlägsna gårdar – polisen varnar,https://gp.se/nyheter/sverige/flera-r%C3%A5n-p%C3%A5-avl%C3%A4gsna-g%C3%A5rdar-polisen-varnar-1.22990130
+2020-01-23,10:18,Bilbomber, attacker i syriska Idlib,https://gp.se/nyheter/v%C3%A4rlden/bilbomber-attacker-i-syriska-idlib-1.22989952
+2020-01-23,10:19,Då visas säsong två av HBO:s Ferranteserie,https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-visas-s%C3%A4song-tv%C3%A5-av-hbo-s-ferranteserie-1.22990633
+2020-01-23,10:19,Britterna står på sig om digitalskatt,https://gp.se/ekonomi/britterna-st%C3%A5r-p%C3%A5-sig-om-digitalskatt-1.22990468
+2020-01-23,10:20,Maskot i utredning – för att ha slagit barn,https://gp.se/sport/ishockey/maskot-i-utredning-f%C3%B6r-att-ha-slagit-barn-1.22990672
+2020-01-23,10:34,Ica:s nya bonussystem retar upp kunderna,https://gp.se/ekonomi/ica-s-nya-bonussystem-retar-upp-kunderna-1.22990302
+2020-01-23,10:36,Han vill få det att svida i svenskarna,https://gp.se/kultur/kultur-n%C3%B6je/han-vill-f%C3%A5-det-att-svida-i-svenskarna-1.22991336
+2020-01-23,10:40,Första ja till Putins grundlagsförslag,https://gp.se/nyheter/v%C3%A4rlden/f%C3%B6rsta-ja-till-putins-grundlagsf%C3%B6rslag-1.22991461
+2020-01-23,10:42,USA:s Mnuchin om Thunberg: Är hon ekonom?,https://gp.se/nyheter/v%C3%A4rlden/usa-s-mnuchin-om-thunberg-%C3%A4r-hon-ekonom-1.22992195
+2020-01-23,10:42,Stjärnans uppladdning – besteg Kilimanjaro,https://gp.se/sport/stj%C3%A4rnans-uppladdning-besteg-kilimanjaro-1.22992115
+2020-01-23,10:42,Utskott behandlar extrabudget till kommuner,https://gp.se/nyheter/sverige/utskott-behandlar-extrabudget-till-kommuner-1.22992001
+2020-01-23,10:45,HD ger samebyn Girjas rätt mot staten,https://gp.se/nyheter/sverige/hd-ger-samebyn-girjas-r%C3%A4tt-mot-staten-1.22979979
+2020-01-23,10:45,Jägareförbundet: Risk för splittring,https://gp.se/nyheter/sverige/j%C3%A4garef%C3%B6rbundet-risk-f%C3%B6r-splittring-1.22991595
+2020-01-23,10:46,Flera spårfel orsakar förseningar,https://gp.se/nyheter/sverige/flera-sp%C3%A5rfel-orsakar-f%C3%B6rseningar-1.22985381
+2020-01-23,10:55,Rapparen Juice Wrlds dödsorsak fastställd,https://gp.se/kultur/kultur-n%C3%B6je/rapparen-juice-wrlds-d%C3%B6dsorsak-fastst%C3%A4lld-1.22992477
+2020-01-23,10:58,Kräver bötesdom efter Kristianstadupphandling,https://gp.se/ekonomi/kr%C3%A4ver-b%C3%B6tesdom-efter-kristianstadupphandling-1.22992549
+2020-01-23,11:04,Han är Gais "Mr X" – värvas från konkurrenten,https://gp.se/sport/fotboll/gais-jakt-p%C3%A5-mr-x-i-m%C3%A5l-1.22992674
+2020-01-23,11:07,Föreningen Dataskydd.net har anmält Göteborgs stad till Justitieombudsmannen för den uppmärksammade utrullningen av Office 365.,https://gp.se//computersweden.idg.se/2.2683/1.729543/goteborg-jo-anmals-office-365
+2020-01-23,11:11,En begärs häktad efter tillslag i Tyringe,https://gp.se/nyheter/sverige/en-beg%C3%A4rs-h%C3%A4ktad-efter-tillslag-i-tyringe-1.22993277
+2020-01-23,11:16,Ingelsson tillbaka i Kalmar FF,https://gp.se/sport/ingelsson-tillbaka-i-kalmar-ff-1.22993424
+2020-01-23,11:20,FN: Myanmar måste skydda rohingyer,https://gp.se/nyheter/v%C3%A4rlden/fn-myanmar-m%C3%A5ste-skydda-rohingyer-1.22980748
+2020-01-23,11:20,Vattenbombning stoppas efter dödlig krasch,https://gp.se/nyheter/v%C3%A4rlden/vattenbombning-stoppas-efter-d%C3%B6dlig-krasch-1.22977220
+2020-01-23,11:25,Det blir Iver som tar hem uppdraget som driftpartner till Exportkreditnämnden, EKN. Det tre plus sjuåriga avtalet beräknas vara värt 60 miljoner kronor.,https://gp.se//computersweden.idg.se/2.2683/1.729623/iver-sakra-svensk-export
+2020-01-23,11:28,Domstol godkänner norsk oljeutvinning i Arktis,https://gp.se/ekonomi/domstol-godk%C3%A4nner-norsk-oljeutvinning-i-arktis-1.22994111
+2020-01-23,11:40,Inga nya besked om extra kommunpengar,https://gp.se/nyheter/sverige/inga-nya-besked-om-extra-kommunpengar-1.22992001
+2020-01-23,11:40,Gais i möte med supportergrupper innan värvningen av Yarsuvat,https://gp.se/sport/fotboll/vi-vet-att-det-%C3%A4r-ett-k%C3%A4nsligt-%C3%A4mne-1.22994406
+2020-01-23,12:12,Notan för vandaliseringen: En kvarts miljon kronor,https://gp.se/sport/fotboll/tre-m%C3%A5nader-av-zlatan-kostade-skattebetalarna-en-kvarts-miljon-kronor-1.22995293
+2020-01-23,12:12,Tjuvar stal kyrkans koppartak – igen,https://gp.se/nyheter/sverige/tjuvar-stal-kyrkans-koppartak-igen-1.22995959
+2020-01-23,12:14,Nu kostar kabinväskan pengar på Norwegian,https://gp.se/ekonomi/nu-kostar-kabinv%C3%A4skan-pengar-p%C3%A5-norwegian-1.22997438
+2020-01-23,12:14,Zlatan tillbaka där han Serie A-debuterade,https://gp.se/sport/zlatan-tillbaka-d%C3%A4r-han-serie-a-debuterade-1.22997357
+2020-01-23,12:15,Företaget Square har erhållit ett patent gällande ett betalningsnätverk som kan knyta ihop fiat- och kryptovalutor i ett system med snabba betalningar mellan valfria valutor.,https://gp.se//techworld.idg.se/2.2524/1.729610/square-patent-betalningsnatverk
+2020-01-23,12:16,Shaggy till 90-talsfestival,https://gp.se/kultur/kultur-n%C3%B6je/shaggy-till-90-talsfestival-1.22997624
+2020-01-23,12:19,En anhållen efter sprängdådet i Norrköping,https://gp.se/nyheter/sverige/en-anh%C3%A5llen-efter-spr%C3%A4ngd%C3%A5det-i-norrk%C3%B6ping-1.22997828
+2020-01-23,12:27,Stängda städer i lungvirusets spår,https://gp.se/nyheter/v%C3%A4rlden/st%C3%A4ngda-st%C3%A4der-i-lungvirusets-sp%C3%A5r-1.22976685
+2020-01-23,12:30,Girjas sameby: Tio års prövning är över,https://gp.se/nyheter/sverige/girjas-sameby-tio-%C3%A5rs-pr%C3%B6vning-%C3%A4r-%C3%B6ver-1.22979979
+2020-01-23,12:30,Internationell oro för judar i Sverige,https://gp.se/nyheter/sverige/internationell-oro-f%C3%B6r-judar-i-sverige-1.22998438
+2020-01-23,12:32,Bister vinter i flyktingpolitiken,https://gp.se/nyheter/v%C3%A4rlden/bister-vinter-i-flyktingpolitiken-1.22998893
+2020-01-23,12:32,Beslut om extra välfärdspengar i februari,https://gp.se/nyheter/sverige/beslut-om-extra-v%C3%A4lf%C3%A4rdspengar-i-februari-1.22992001
+2020-01-23,12:36,Två begärs häktade för Mellerudsmordet,https://gp.se/nyheter/sverige/tv%C3%A5-beg%C3%A4rs-h%C3%A4ktade-f%C3%B6r-mellerudsmordet-1.22988813
+2020-01-23,12:36,Man tog upp jakten på sin stulna lastbil,https://gp.se/nyheter/g%C3%B6teborg/man-tog-upp-jakten-p%C3%A5-sin-stulna-lastbil-1.22999000
+2020-01-23,12:37,Grönt ljus för norsk oljeutvinning i Arktis,https://gp.se/ekonomi/gr%C3%B6nt-ljus-f%C3%B6r-norsk-oljeutvinning-i-arktis-1.22994111
+2020-01-23,12:44,Seniorer i protest mot planer på nytt konsulat,https://gp.se/nyheter/g%C3%B6teborg/seniorer-i-protest-mot-planer-p%C3%A5-nytt-konsulat-1.22958816
+2020-01-23,12:48,ÖB: Rikets säkerhet har inte skadats,https://gp.se/nyheter/sverige/%C3%B6b-rikets-s%C3%A4kerhet-har-inte-skadats-1.22999592
+2020-01-23,13:19,Inget fastslaget samband mellan sprängningar,https://gp.se/nyheter/sverige/inget-fastslaget-samband-mellan-spr%C3%A4ngningar-1.23000212
+2020-01-23,13:19,Pet Shop Boys har tröttnat på sitt hemland,https://gp.se/kultur/kultur-n%C3%B6je/pet-shop-boys-har-tr%C3%B6ttnat-p%C3%A5-sitt-hemland-1.22999703
+2020-01-23,13:19,Volvo Cars anklagas för utsläppsfusk,https://gp.se/ekonomi/volvo-cars-anklagas-f%C3%B6r-utsl%C3%A4ppsfusk-1.22999811
+2020-01-23,13:19,Svenska myndigheter begär ut allt fler uppgifter från konton hos de stora nättjänsterna. Computer Sweden har gjort en sammanställning av data från första halvåret 2019.,https://gp.se//computersweden.idg.se/2.2683/1.729563/polisen-anvandardata-natjattar
+2020-01-23,13:20,Polis till sjukhus efter trasig drogampull,https://gp.se/nyheter/sverige/polis-till-sjukhus-efter-trasig-drogampull-1.23000464
+2020-01-23,13:20,Virus-oro sänker börsen,https://gp.se/ekonomi/virus-oro-s%C3%A4nker-b%C3%B6rsen-1.22987597
+2020-01-23,13:20,Pulsen Integration ska hjälpa brödföretaget Pågen med att knåda ihop en skalbar hybridplattform.,https://gp.se//computersweden.idg.se/2.2683/1.729615/pagen-pulsen-integration
+2020-01-23,13:23,Så lagar du kåldolmar,https://gp.se/livsstil/tv%C3%A5-dagar/matskolan-s%C3%A5-lagar-du-klassiska-k%C3%A5ldolmar-1.22950935
+2020-01-23,13:26,Lungviruset stoppar nyårsfirandet i Peking,https://gp.se/nyheter/v%C3%A4rlden/lungviruset-stoppar-ny%C3%A5rsfirandet-i-peking-1.22976685
+2020-01-23,13:31,Ymer ute ur Australien Open efter jätterysare,https://gp.se/sport/ymer-ute-ur-australien-open-efter-j%C3%A4tterysare-1.23001065
+2020-01-23,13:42,Zelmerlöw till Australiens melodifestival,https://gp.se/kultur/kultur-n%C3%B6je/zelmerl%C3%B6w-till-australiens-melodifestival-1.23001673
+2020-01-23,13:46,Høyrepolitiker spås bli ny oljeminister,https://gp.se/nyheter/v%C3%A4rlden/h%C3%B8yrepolitiker-sp%C3%A5s-bli-ny-oljeminister-1.23001857
+2020-01-23,14:00,Tågstopp på Malmbanan till februari,https://gp.se/nyheter/sverige/t%C3%A5gstopp-p%C3%A5-malmbanan-till-februari-1.22985381
+2020-01-23,14:00,ECB lämnar styrräntan oförändrad,https://gp.se/ekonomi/ecb-l%C3%A4mnar-styrr%C3%A4ntan-of%C3%B6r%C3%A4ndrad-1.23002742
+2020-01-23,14:00,Försäljning av jaktkort stoppas efter HD-dom,https://gp.se/nyheter/sverige/f%C3%B6rs%C3%A4ljning-av-jaktkort-stoppas-efter-hd-dom-1.23002563
+2020-01-23,14:07,Reflekterad laser ihop med djupinlärning kan nu användas för att läsa av både siffror och nummer.,https://gp.se/2.1085/1.729588/ai-se-runt-horn
+2020-01-23,14:12,ECB inleder översyn av målsättningar,https://gp.se/ekonomi/ecb-inleder-%C3%B6versyn-av-m%C3%A5ls%C3%A4ttningar-1.23002742
+2020-01-23,14:18,Stjärnan: "Måste följa mig så jag inte blir kidnappad",https://gp.se/sport/stj%C3%A4rnan-m%C3%A5ste-f%C3%B6lja-mig-s%C3%A5-jag-inte-blir-kidnappad-1.23003677
+2020-01-23,14:23,"Historisk dag" för rohingyer välkomnas,https://gp.se/nyheter/v%C3%A4rlden/historisk-dag-f%C3%B6r-rohingyer-v%C3%A4lkomnas-1.22996210
+2020-01-23,14:29,Här är räddningen för fnasiga läppar i vinter,https://gp.se/livsstil/konsument/h%C3%A4r-%C3%A4r-r%C3%A4ddningen-f%C3%B6r-fnasiga-l%C3%A4ppar-i-vinter-1.22896236
+2020-01-23,14:29,Risk för världscupfiasko: "Ser inte jättebra ut",https://gp.se/sport/risk-f%C3%B6r-v%C3%A4rldscupfiasko-ser-inte-j%C3%A4ttebra-ut-1.23004297
+2020-01-23,14:30,Flera skadade i frontalkrock på E20,https://gp.se/nyheter/sverige/flera-skadade-i-frontalkrock-p%C3%A5-e20-1.23004106
+2020-01-23,14:33,American Airlines klår förväntningarna,https://gp.se/ekonomi/american-airlines-kl%C3%A5r-f%C3%B6rv%C3%A4ntningarna-1.23004577
+2020-01-23,14:35,Guldhjälten lämnar AIK,https://gp.se/sport/guldhj%C3%A4lten-l%C3%A4mnar-aik-1.23004854
+2020-01-23,14:35,Filmades 17 gånger på toaletten,https://gp.se/nyheter/sverige/filmades-17-g%C3%A5nger-p%C3%A5-toaletten-1.23004725
+2020-01-23,14:40,Pressad Solskjær i turbulent United,https://gp.se/sport/pressad-solskj%C3%A6r-i-turbulent-united-1.23005124
+2020-01-23,14:44,Elektrifieringen av flyget ska skyndas på,https://gp.se/ekonomi/elektrifieringen-av-flyget-ska-skyndas-p%C3%A5-1.22995678
+2020-01-23,14:44,Fem till sjukhus efter frontalkrock på E20,https://gp.se/nyheter/v%C3%A4stsverige/frontalkrock-p%C3%A5-e20-fem-personer-till-sjukhus-1.23005263
+2020-01-23,14:49,Thorn gör comeback efter ryggskadan,https://gp.se/sport/thorn-g%C3%B6r-comeback-efter-ryggskadan-1.23005623
+2020-01-23,14:50,Nadal enkelt vidare i Australian Open,https://gp.se/sport/nadal-enkelt-vidare-i-australian-open-1.22985124
+2020-01-23,14:50,Misstänkta migrantsmugglare gripna i insats,https://gp.se/nyheter/v%C3%A4rlden/misst%C3%A4nkta-migrantsmugglare-gripna-i-insats-1.23005845
+2020-01-23,14:55,P-bolaget backar efter GP:s artikel – river Lennarts bot,https://gp.se/nyheter/g%C3%B6teborg/efter-gp-s-artikel-p-bolaget-backar-om-lennarts-p-bot-1.23006047
+2020-01-23,15:04,Vill fördjupa bilden av personer som begår terrordåd,https://gp.se/kultur/kultur/premi%C3%A4r-f%C3%B6r-sysslol%C3%B6sa-unga-m%C3%A4n-med-tillg%C3%A5ng-till-vapen-p%C3%A5-g%C3%B6teborgs-stadsteater-1.23005687
+2020-01-23,15:12,Misstänkt mördare begärs utlämnad från Polen,https://gp.se/nyheter/sverige/misst%C3%A4nkt-m%C3%B6rdare-beg%C3%A4rs-utl%C3%A4mnad-fr%C3%A5n-polen-1.23006633
+2020-01-23,15:14,Vill fördjupa bilden av terrorister,https://gp.se/kultur/kultur/premi%C3%A4r-f%C3%B6r-sysslol%C3%B6sa-unga-m%C3%A4n-med-tillg%C3%A5ng-till-vapen-p%C3%A5-g%C3%B6teborgs-stadsteater-1.23005687
+2020-01-23,15:16,Vill ta reda på vad som får terrorister att gå från ord till handling,https://gp.se/kultur/kultur/premi%C3%A4r-f%C3%B6r-sysslol%C3%B6sa-unga-m%C3%A4n-med-tillg%C3%A5ng-till-vapen-p%C3%A5-g%C3%B6teborgs-stadsteater-1.23005687
+2020-01-23,15:18,Gräver i vad som får terrorister att agera,https://gp.se/kultur/kultur/premi%C3%A4r-f%C3%B6r-sysslol%C3%B6sa-unga-m%C3%A4n-med-tillg%C3%A5ng-till-vapen-p%C3%A5-g%C3%B6teborgs-stadsteater-1.23005687
+2020-01-23,15:24,Damberg kallas till utskott om bombdåd,https://gp.se/nyheter/sverige/damberg-kallas-till-utskott-om-bombd%C3%A5d-1.23007375
+2020-01-23,15:30,Minst två till sjukhus efter trafikolycka,https://gp.se/nyheter/g%C3%B6teborg/minst-tv%C3%A5-till-sjukhus-efter-trafikolycka-1.23007759
+2020-01-23,15:30,Tjuvar stal koppartak – igen,https://gp.se/nyheter/sverige/tjuvar-stal-koppartak-igen-1.22995959
+2020-01-23,15:45,Lungvirus stoppar nyårsfirande i Peking,https://gp.se/nyheter/v%C3%A4rlden/lungvirus-stoppar-ny%C3%A5rsfirande-i-peking-1.22976685
+2020-01-23,15:46,Personbil kraschade in i vardagsrum,https://gp.se/nyheter/v%C3%A4stsverige/personbil-kraschade-in-i-vardagsrum-1.23008423
+2020-01-23,15:46,Oro för virusspridning sänker börsen,https://gp.se/ekonomi/oro-f%C3%B6r-virusspridning-s%C3%A4nker-b%C3%B6rsen-1.22987597
+2020-01-23,15:46,Flygbolaget inför nya avgifter – idag,https://gp.se/ekonomi/flygbolaget-inf%C3%B6r-nya-avgifter-f%C3%B6r-handbagage-1.23008024
+2020-01-23,15:51,Rekordsumman för värvningarna: 70 miljarder,https://gp.se/sport/rekordsumman-f%C3%B6r-v%C3%A4rvningarna-70-miljarder-1.23008954
+2020-01-23,15:51,Cupmatcher flyttas efter flygkatastrofen,https://gp.se/sport/cupmatcher-flyttas-efter-flygkatastrofen-1.23008760
+2020-01-23,15:51,Bankir i dos Santos nätverk död,https://gp.se/nyheter/v%C3%A4rlden/bankir-i-dos-santos-n%C3%A4tverk-d%C3%B6d-1.23008753
