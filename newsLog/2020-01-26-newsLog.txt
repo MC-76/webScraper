@@ -246,3 +246,284 @@
 2020-01-26,14:32,GP,Sverige utanför pallen i sprinten,https://gp.se/sport/sverige-utanf%C3%B6r-pallen-i-sprinten-1.23114249
 2020-01-26,14:32,GP,En allvarligt skadad efter giftgasutsläpp,https://gp.se/nyheter/sverige/en-allvarligt-skadad-efter-giftgasutsl%C3%A4pp-1.23116678
 2020-01-26,14:32,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,14:44,GP,Coronaviruset växer i styrka,https://gp.se/nyheter/v%C3%A4rlden/coronaviruset-v%C3%A4xer-i-styrka-1.23107166
+2020-01-26,14:44,GP,Myhrer utslagen i Kitzbühel – Yule vann,https://gp.se/sport/myhrer-utslagen-i-kitzb%C3%BChel-yule-vann-1.23117687
+2020-01-26,14:49,GP,Norge och Danmark avråder från resor,https://gp.se/nyheter/v%C3%A4rlden/norge-och-danmark-avr%C3%A5der-fr%C3%A5n-resor-1.23118377
+2020-01-26,14:54,GP,Resenärens guide till galaxen 2020,https://gp.se/livsstil/tv%C3%A5-dagar/resen%C3%A4rens-guide-till-galaxen-2020-1.22945368
+2020-01-26,14:56,GP,M kräver snabbt svar om försvarets polisroll,https://gp.se/nyheter/sverige/m-kr%C3%A4ver-snabbt-svar-om-f%C3%B6rsvarets-polisroll-1.23123421
+2020-01-26,14:59,GP,Så hittade Lehner en väg tillbaka till livet,https://gp.se/sport/ishockey/s%C3%A5-hittade-lehner-en-v%C3%A4g-tillbaka-till-livet-1.23123440
+2020-01-26,15:04,GP,Besatt vid esoteriska läror och kontroversiella personer,https://gp.se/kultur/kultur/recension-fredrik-s%C3%B6derberg-och-jongsuk-yoon-nordiska-akvarellmuseet-1.23099946
+2020-01-26,15:04,GP,Besatt vid esoteriska läror och kontroversiella personer,https://gp.se/kultur/kultur/recension-fredrik-s%C3%B6derberg-och-jongsuk-yoon-nordiska-akvarellmuseet-1.23099946
+2020-01-26,15:04,GP,Så hittade Lehner en väg tillbaka till livet,https://gp.se/sport/ishockey/s%C3%A5-hittade-lehner-en-v%C3%A4g-tillbaka-till-livet-1.23123440
+2020-01-26,15:04,GP,M kräver snabbt svar om försvarets polisroll,https://gp.se/nyheter/sverige/m-kr%C3%A4ver-snabbt-svar-om-f%C3%B6rsvarets-polisroll-1.23123421
+2020-01-26,15:04,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,15:06,IDG,Kan komma att förstöra andra satelliter i närheten.,https:/2.1085/1.729648/satellit-riskerar-explodera
+2020-01-26,15:08,GP,Pengarna skulle gå till arbetslösa – användes till spelmissbruk,https://gp.se/nyheter/g%C3%B6teborg/pengarna-skulle-g%C3%A5-till-arbetsl%C3%B6sa-anv%C3%A4ndes-till-spelmissbruk-1.23012167
+2020-01-26,15:08,GP,Strömavbrott i Stockholm drabbar Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbar-ikea-1.23123841
+2020-01-26,15:08,GP,Besatt vid esoteriska läror och kontroversiella personer,https://gp.se/kultur/kultur/recension-fredrik-s%C3%B6derberg-och-jongsuk-yoon-nordiska-akvarellmuseet-1.23099946
+2020-01-26,15:08,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,15:08,GP,Pengarna skulle gå till arbetslösa – användes till spelmissbruk,https://gp.se/nyheter/g%C3%B6teborg/pengarna-skulle-g%C3%A5-till-arbetsl%C3%B6sa-anv%C3%A4ndes-till-spelmissbruk-1.23012167
+2020-01-26,15:08,GP,Strömavbrott i Stockholm drabbar Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbar-ikea-1.23123841
+2020-01-26,15:11,GP,Pengarna skulle gå till arbetslösa – användes till spelmissbruk,https://gp.se/nyheter/g%C3%B6teborg/pengarna-skulle-g%C3%A5-till-arbetsl%C3%B6sa-anv%C3%A4ndes-till-spelmissbruk-1.23012167
+2020-01-26,15:11,GP,Strömavbrott i Stockholm drabbar Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbar-ikea-1.23123841
+2020-01-26,15:11,GP,Besatt vid esoteriska läror och kontroversiella personer,https://gp.se/kultur/kultur/recension-fredrik-s%C3%B6derberg-och-jongsuk-yoon-nordiska-akvarellmuseet-1.23099946
+2020-01-26,15:11,IDG,Kan komma att förstöra andra satelliter i närheten.,https:/2.1085/1.729648/satellit-riskerar-explodera
+2020-01-26,15:11,GP,Pengarna skulle gå till arbetslösa – användes till spelmissbruk,https://gp.se/nyheter/g%C3%B6teborg/pengarna-skulle-g%C3%A5-till-arbetsl%C3%B6sa-anv%C3%A4ndes-till-spelmissbruk-1.23012167
+2020-01-26,15:11,GP,Strömavbrott i Stockholm drabbar Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbar-ikea-1.23123841
+2020-01-26,15:11,GP,Besatt vid esoteriska läror och kontroversiella personer,https://gp.se/kultur/kultur/recension-fredrik-s%C3%B6derberg-och-jongsuk-yoon-nordiska-akvarellmuseet-1.23099946
+2020-01-26,15:11,IDG,Kan komma att förstöra andra satelliter i närheten.,https:/2.1085/1.729648/satellit-riskerar-explodera
+2020-01-26,15:11,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-01-26,15:13,GP,Anna Odell placerar mäktiga män i gynstolen och ber dem sära på benen,https://gp.se/kultur/kultur/v%C3%A4lkommen-p%C3%A5-gynekologisk-bio-med-anna-odell-1.23124002
+2020-01-26,15:14,GP,Kvinna använde arbetslösas pengar till spelmissbruk,https://gp.se/nyheter/g%C3%B6teborg/pengarna-skulle-g%C3%A5-till-arbetsl%C3%B6sa-anv%C3%A4ndes-till-spelmissbruk-1.23012167
+2020-01-26,15:19,GP,FN-insats: Embargot i Libyen kränks,https://gp.se/nyheter/v%C3%A4rlden/fn-insats-embargot-i-libyen-kr%C3%A4nks-1.23124718
+2020-01-26,15:21,GP,Oroande besked om coronavirusets spridning,https://gp.se/nyheter/v%C3%A4rlden/oroande-besked-om-coronavirusets-spridning-1.23124856
+2020-01-26,15:24,GP,Pantbanken – nödlösning som växer,https://gp.se/ekonomi/pantbanken-n%C3%B6dl%C3%B6sning-som-v%C3%A4xer-1.23124941
+2020-01-26,15:26,GP,Pantbanken – nödlösning som växer,https://gp.se/ekonomi/pantbanken-n%C3%B6dl%C3%B6sning-som-v%C3%A4xer-1.23124941
+2020-01-26,15:26,GP,Oroande besked om coronavirusets spridning,https://gp.se/nyheter/v%C3%A4rlden/oroande-besked-om-coronavirusets-spridning-1.23124856
+2020-01-26,15:26,GP,FN-insats: Embargot i Libyen kränks,https://gp.se/nyheter/v%C3%A4rlden/fn-insats-embargot-i-libyen-kr%C3%A4nks-1.23124718
+2020-01-26,15:26,IDG,Högsta domstolen i Danmark säger att domen kvarstår mot ägaren av en sajt som gav detaljerade instruktioner gällande hur man använder Popcorn Time.,https://computersweden.idg.se/2.2683/1.729466/popcorn-time-domd-fangelse
+2020-01-26,15:29,GP,Maas varnar för växande judehat,https://gp.se/nyheter/v%C3%A4rlden/maas-varnar-f%C3%B6r-v%C3%A4xande-judehat-1.23125302
+2020-01-26,15:29,GP,Oavgjort för topplaget Inter – igen,https://gp.se/sport/oavgjort-f%C3%B6r-topplaget-inter-igen-1.23125162
+2020-01-26,15:32,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,15:33,GP,Maas varnar för växande judehat,https://gp.se/nyheter/v%C3%A4rlden/maas-varnar-f%C3%B6r-v%C3%A4xande-judehat-1.23125302
+2020-01-26,15:33,GP,Oavgjort för topplaget Inter – igen,https://gp.se/sport/oavgjort-f%C3%B6r-topplaget-inter-igen-1.23125162
+2020-01-26,15:33,GP,Pantbanken – nödlösning som växer,https://gp.se/ekonomi/pantbanken-n%C3%B6dl%C3%B6sning-som-v%C3%A4xer-1.23124941
+2020-01-26,15:33,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,15:33,GP,Maas varnar för växande judehat,https://gp.se/nyheter/v%C3%A4rlden/maas-varnar-f%C3%B6r-v%C3%A4xande-judehat-1.23125302
+2020-01-26,15:33,GP,Oavgjort för topplaget Inter – igen,https://gp.se/sport/oavgjort-f%C3%B6r-topplaget-inter-igen-1.23125162
+2020-01-26,15:33,GP,Pantbanken – nödlösning som växer,https://gp.se/ekonomi/pantbanken-n%C3%B6dl%C3%B6sning-som-v%C3%A4xer-1.23124941
+2020-01-26,15:33,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,15:34,GP,Maas varnar för växande judehat,https://gp.se/nyheter/v%C3%A4rlden/maas-varnar-f%C3%B6r-v%C3%A4xande-judehat-1.23125302
+2020-01-26,15:34,GP,Oavgjort för topplaget Inter – igen,https://gp.se/sport/oavgjort-f%C3%B6r-topplaget-inter-igen-1.23125162
+2020-01-26,15:34,GP,Pantbanken – nödlösning som växer,https://gp.se/ekonomi/pantbanken-n%C3%B6dl%C3%B6sning-som-v%C3%A4xer-1.23124941
+2020-01-26,15:34,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,15:35,IDG,Högsta domstolen i Danmark säger att domen kvarstår mot ägaren av en sajt som gav detaljerade instruktioner gällande hur man använder Popcorn Time.,https://computersweden.idg.se/2.2683/1.729466/popcorn-time-domd-fangelse
+2020-01-26,15:36,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,15:40,GP,Öberg tog första segern – i VM-genrepet,https://gp.se/sport/%C3%B6berg-tog-f%C3%B6rsta-segern-i-vm-genrepet-1.23125443
+2020-01-26,15:40,GP,Hanna Öberg segrare i VM-genrepet,https://gp.se/sport/hanna-%C3%B6berg-segrare-i-vm-genrepet-1.23125403
+2020-01-26,15:43,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,15:47,GP,Kritik mot gröna pengar till flygsatsning,https://gp.se/ekonomi/kritik-mot-gr%C3%B6na-pengar-till-flygsatsning-1.23125631
+2020-01-26,15:47,GP,Swedavia kan öka flyget med gröna pengar,https://gp.se/ekonomi/swedavia-kan-%C3%B6ka-flyget-med-gr%C3%B6na-pengar-1.23112100
+2020-01-26,15:47,IDG,Med sina 28 år är Jacob Welsh troligen en av branschens yngre vd:ar. Han leder numera Tiqqe, där han tillsammans med ett antal profiler från branschen börjar om med tydligt fokus på att bygga AWS-tjänster.,https://computersweden.idg.se/2.2683/1.729625/tiqqe-aws-tjanster
+2020-01-26,15:52,IDG,Teracom distribuerar tv- och radioprogram över hela landet, på ett redundant sätt. Man skulle kunna tro att det var vanliga datornätverk, vilka som helst, eftersom modern video är digital. I tv-huset skulle man också kunna tro att videon från kameror och mixerbord är helt vanligt digitalt data. På en fiber med i sammanhanget nästan obegränsad bandbredd borde väl inte typen av data spela någon roll? Men det gör det.,https:/2.1085/1.450643/net-insights-tunga-nat-for-tv-kontribution
+2020-01-26,15:56,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:00,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:04,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:08,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:08,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:08,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:08,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:08,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:08,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:08,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:08,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:09,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:09,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:09,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:09,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:09,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:09,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:09,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:09,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:09,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:09,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:09,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:09,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:10,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:10,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:10,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:10,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:10,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:10,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:10,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:10,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:10,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:10,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:10,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:10,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:12,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:12,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:12,GP,Blåvitt föll i händelserik premiär,https://gp.se/sport/fotboll/bl%C3%A5vitt-f%C3%B6ll-i-h%C3%A4ndelserik-premi%C3%A4r-1.23125776
+2020-01-26,16:12,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:12,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:12,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:12,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:12,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:12,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:12,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:12,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:12,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:12,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:13,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:13,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:13,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:13,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:15,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:15,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:15,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:15,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:15,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:15,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:15,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:15,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:15,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:15,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:15,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:15,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:15,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:15,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:15,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:15,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:16,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:16,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:16,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:16,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:16,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:16,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:16,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:16,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:16,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:16,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:16,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:16,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:16,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:16,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:16,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:16,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:17,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:17,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:17,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:17,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:18,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:18,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:18,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:18,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:18,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:18,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:18,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:18,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:19,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:19,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:19,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:19,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:19,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:19,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:19,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:19,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:19,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:19,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:19,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:19,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:19,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:19,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:19,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:19,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:19,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:20,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:20,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:20,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:20,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:20,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:20,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:20,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:20,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:20,GP,29 döda i lassafeber i Nigeria,https://gp.se/nyheter/v%C3%A4rlden/29-d%C3%B6da-i-lassafeber-i-nigeria-1.23126698
+2020-01-26,16:20,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:20,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:20,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:20,GP,Ett andetag av giftiga gasen kan kosta livet,https://gp.se/nyheter/sverige/ett-andetag-av-giftiga-gasen-kan-kosta-livet-1.23126522
+2020-01-26,16:20,GP,Duvnjak EM:s MVP och Sagosen historisk,https://gp.se/sport/duvnjak-em-s-mvp-och-sagosen-historisk-1.23126155
+2020-01-26,16:20,GP,Arbetslösas pengar gick till spelmissbruk,https://gp.se/nyheter/sverige/arbetsl%C3%B6sas-pengar-gick-till-spelmissbruk-1.23125993
+2020-01-26,16:20,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,16:21,GP,Andades in giftgas efter läcka på massafabrik,https://gp.se/nyheter/sverige/andades-in-giftgas-efter-l%C3%A4cka-p%C3%A5-massafabrik-1.23116678
+2020-01-26,16:23,GP,UD avråder från resor till Kina,https://gp.se/nyheter/ud-avr%C3%A5der-fr%C3%A5n-resor-till-kina-1.23127134
+2020-01-26,16:23,GP,TT-FLASH: Face Time Bourbon vann Prix d'Amerique,https://gp.se/sport/tt-flash-face-time-bourbon-vann-prix-d-amerique-1.23127055
+2020-01-26,16:25,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:25,GP,UD avråder från Kinaresor,https://gp.se/nyheter/v%C3%A4rlden/ud-avr%C3%A5der-fr%C3%A5n-kinaresor-1.23118377
+2020-01-26,16:30,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:31,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:31,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:31,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:31,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:31,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:31,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:31,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:31,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:31,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:33,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:33,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:33,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:34,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:34,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:34,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:36,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:36,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:36,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:40,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:40,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:41,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:41,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:41,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:42,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:42,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:42,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:43,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:43,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:43,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:44,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:44,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:44,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:45,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:45,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:46,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:46,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:46,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:46,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:47,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:47,GP,Svensk seger i Prix d'Amerique,https://gp.se/sport/goop-vann-prix-d-amerique-med-fransk-h%C3%A4st-1.23127387
+2020-01-26,16:47,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:47,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:49,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:49,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:49,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:50,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:52,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:52,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:52,GP,Så blev Leon Lurje Trophy allra störst i världen,https://gp.se/sport/s%C3%A5-blev-leon-lurje-trophy-allra-st%C3%B6rst-i-v%C3%A4rlden-1.23126770
+2020-01-26,16:52,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:53,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:55,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:55,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:56,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:56,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:56,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:56,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:56,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:56,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:56,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:56,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:57,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:57,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:57,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:57,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,16:57,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:57,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:57,GP,Frankrike förbjuder kritiserad chockgranat,https://gp.se/nyheter/v%C3%A4rlden/frankrike-f%C3%B6rbjuder-kritiserad-chockgranat-1.23127901
+2020-01-26,16:57,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:58,GP,Man på fyrhjuling sätter skräck kring stall i Billdal,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-fyrhjuling-s%C3%A4tter-skr%C3%A4ck-kring-stall-i-billdal-1.22908994
+2020-01-26,16:58,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,16:58,GP,Goop vann Prix d'Amerique: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-amerique-fantastiskt-1.23127387
+2020-01-26,16:58,IDG,Ett intrång i nätverket på ett europeiskt energibolag har stoppats efter att ha pågått från november förra året till januari i år. Iranska staten misstänks ligga bakom attacken.,https://computersweden.idg.se/2.2683/1.729667/cyberattack-energibolag-iran
+2020-01-26,16:58,GP,Man på fyrhjuling sätter skräck kring stall i Billdal,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-fyrhjuling-s%C3%A4tter-skr%C3%A4ck-kring-stall-i-billdal-1.22908994
+2020-01-26,17:00,GP,Goop vann Prix d'Amerique igen: "Fantastiskt",https://gp.se/goop-vann-prix-d-amerique-igen-fantastiskt-1.23127387
+2020-01-26,17:01,GP,Man på fyrhjuling sätter skräck kring stall i Billdal,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-fyrhjuling-s%C3%A4tter-skr%C3%A4ck-kring-stall-i-billdal-1.22908994
+2020-01-26,17:01,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,17:01,GP,Goop vann Prix d'Amerique igen: "Fantastiskt",https://gp.se/goop-vann-prix-d-amerique-igen-fantastiskt-1.23127387
+2020-01-26,17:01,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,17:01,GP,Man på fyrhjuling sätter skräck kring stall i Billdal,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-fyrhjuling-s%C3%A4tter-skr%C3%A4ck-kring-stall-i-billdal-1.22908994
+2020-01-26,17:01,GP,Linnéa Claeson slutar som kolumnist,https://gp.se/kultur/kultur/linn%C3%A9a-claeson-slutar-som-kolumnist-i-aftonbladet-1.23128198
+2020-01-26,17:01,GP,Goop vann Prix d'Amerique igen: "Fantastiskt",https://gp.se/goop-vann-prix-d-amerique-igen-fantastiskt-1.23127387
+2020-01-26,17:01,IDG,I en kommande uppdatering av Office 365 Pro Plus kommer Microsoft att skicka med ett tillägg som ändrar den förvalda sökmotorn i Chrome och Firefox.,https://techworld.idg.se/2.2524/1.729639/microsoft-tvinga-bing
+2020-01-26,17:03,GP,Blåvitt-truppens hälsning till leukemisjuke Lowe, 5 år,https://gp.se/sport/fotboll/bl%C3%A5vitt-truppens-h%C3%A4lsning-till-leukemisjuke-lowe-5-%C3%A5r-1.23128441
+2020-01-26,17:06,GP,Svenskduon bakom Parmas seger,https://gp.se/sport/svenskduon-bakom-parmas-seger-1.23125162
+2020-01-26,17:06,GP,Strömavbrott i Stockholm drabbade Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbade-ikea-1.23123841

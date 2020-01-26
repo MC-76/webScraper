@@ -5,4 +5,6 @@ highLights = [
     'Iran',
     'Trump',
     'Vänersborg',
+    'koden',
+    'MVP',
 ]

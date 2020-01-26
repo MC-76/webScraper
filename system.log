@@ -1,0 +1,77 @@
+2020-01-26 17:01:48,303 Initialising log...
+2020-01-26 17:01:48,303 Application setting: path=./newsLog/
+2020-01-26 17:01:48,303 Application setting: waitTime=60
+2020-01-26 17:01:48,303 Application Flag: flagLinks
+2020-01-26 17:01:48,303 Starting new loop
+2020-01-26 17:01:48,305 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:01:48,370 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:01:48,374 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:01:48,479 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:01:48,622 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:01:48,677 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:01:48,683 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:01:48,707 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:01:48,710 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:01:48,762 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:01:48,851 Saving news to file
+2020-01-26 17:01:48,851 Saving news to file
+2020-01-26 17:01:48,851 Saving news to file
+2020-01-26 17:01:48,852 Saving news to file
+2020-01-26 17:02:48,911 Starting new loop
+2020-01-26 17:02:48,914 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:02:48,965 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:02:48,970 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:02:49,062 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:02:49,219 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:02:49,301 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:02:49,304 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:02:49,340 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:02:49,348 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:02:49,419 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:03:49,582 Starting new loop
+2020-01-26 17:03:49,585 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:03:49,632 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:03:49,637 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:03:49,737 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:03:49,891 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:03:50,039 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:03:50,041 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:03:50,073 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:03:50,079 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:03:50,145 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:03:50,234 Saving news to file
+2020-01-26 17:04:50,246 Starting new loop
+2020-01-26 17:04:50,250 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:04:50,322 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:04:50,324 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:04:50,426 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:04:50,571 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:04:50,744 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:04:50,748 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:04:50,807 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:04:50,810 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:04:50,869 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:05:51,007 Starting new loop
+2020-01-26 17:05:51,009 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:05:51,089 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:05:51,093 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:05:51,216 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:05:51,412 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:05:51,571 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:05:51,573 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:05:51,604 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:05:51,607 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:05:51,667 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:06:51,837 Starting new loop
+2020-01-26 17:06:51,841 Starting new HTTPS connection (1): gp.se
+2020-01-26 17:06:51,904 https://gp.se:443 "GET / HTTP/1.1" 301 0
+2020-01-26 17:06:51,908 Starting new HTTPS connection (1): www.gp.se
+2020-01-26 17:06:52,044 https://www.gp.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:06:52,293 Starting new HTTPS connection (1): idg.se
+2020-01-26 17:06:52,455 https://idg.se:443 "GET / HTTP/1.1" 302 0
+2020-01-26 17:06:52,459 Starting new HTTP connection (1): www.idg.se
+2020-01-26 17:06:52,494 http://www.idg.se:80 "GET / HTTP/1.1" 301 183
+2020-01-26 17:06:52,498 Starting new HTTPS connection (1): www.idg.se
+2020-01-26 17:06:52,611 https://www.idg.se:443 "GET / HTTP/1.1" 200 None
+2020-01-26 17:06:52,714 Saving news to file
+2020-01-26 17:06:52,714 Saving news to file
