@@ -24,7 +24,9 @@ def showOnlyHelp():
              -h: show this help text
              -l: output with links''')
   
-def getPageInfo(inputURL,inputClass,inputLabel,inputTitle):
+def getPageInfoGP(inputURL,inputClass,inputLabel,inputTitle):
+    ''' Get latest news from:
+    gp.se'''
     newsCollection = []
     source = 'GP'
 
@@ -45,6 +47,8 @@ def getPageInfo(inputURL,inputClass,inputLabel,inputTitle):
 
 #Special for IDG
 def getPageInfoIDG(inputURL,inputClass,inputLabel,inputTitle):
+    ''' Get latest news from:
+    idg.se'''
     newsCollection = []
     source = 'IDG'
 
@@ -59,6 +63,44 @@ def getPageInfoIDG(inputURL,inputClass,inputLabel,inputTitle):
                 url = link.get('href')
 
         url = f'https:{url}'
+        label = datetime.now().strftime('%H:%M')
+        newsCollection.append(MyNews(label,title,url,source))
+    
+    return newsCollection
+
+def getPageInfoAB(inputURL,inputClass,inputLabel,inputTitle):
+    ''' Get latest news from:
+    aftonbladet.se'''
+    newsCollection = []
+    source = 'AB'
+    title = ''
+    url = ''
+
+    page = requests.get(inputURL)
+    soup = BeautifulSoup(page.text, 'html.parser')
+
+    for headlines in soup.find_all('h3'): 
+        
+        #print(headlines)             
+        #for item in headlines.find_all(class_=inputTitle):
+        #    title = item.text.strip()
+                
+        for item in headlines.find_all('h3'):
+            title = item.text.strip()
+            #print(title)
+        for link in headlines.find_all('a'):
+            url = link.get('href')
+            #print(url)
+
+    # for headlines in soup.find_all(id="supernytt"):
+    #     for label in headlines.find_all(class_='HLf1C'):
+    #         label = label.text.strip()
+    #         for link in headlines.find_all('a'):
+    #             title = link.get('title')
+    #             url = link.get('href')
+
+            
+        #url = f'https://gp.se{url}'
         label = datetime.now().strftime('%H:%M')
         newsCollection.append(MyNews(label,title,url,source))
     

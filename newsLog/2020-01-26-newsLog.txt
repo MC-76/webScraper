@@ -527,3 +527,513 @@
 2020-01-26,17:03,GP,Blåvitt-truppens hälsning till leukemisjuke Lowe, 5 år,https://gp.se/sport/fotboll/bl%C3%A5vitt-truppens-h%C3%A4lsning-till-leukemisjuke-lowe-5-%C3%A5r-1.23128441
 2020-01-26,17:06,GP,Svenskduon bakom Parmas seger,https://gp.se/sport/svenskduon-bakom-parmas-seger-1.23125162
 2020-01-26,17:06,GP,Strömavbrott i Stockholm drabbade Ikea,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-drabbade-ikea-1.23123841
+2020-01-26,17:09,GP,Ingen gripen för explosion utanför villa,https://gp.se/nyheter/sverige/ingen-gripen-f%C3%B6r-explosion-utanf%C3%B6r-villa-1.23109121
+2020-01-26,17:09,GP,Goop vann Prix d'Amérique igen: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-am%C3%A9rique-igen-fantastiskt-1.23127387
+2020-01-26,17:10,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,17:13,IDG,Med sina 28 år är Jacob Welsh troligen en av branschens yngre vd:ar. Han leder numera Tiqqe, där han tillsammans med ett antal profiler från branschen börjar om med tydligt fokus på att bygga AWS-tjänster.,https://computersweden.idg.se/2.2683/1.729625/tiqqe-aws-tjanster
+2020-01-26,17:17,IDG,Angreppen i form av skadliga appar inom både Android- och Iphone-systemen ökar allt mer. Framförallt Google har utmaningar i att hålla Google Play städat från skadliga appar. Nu kommer skydd mot skadliga appar med hjälp av djupinlärning.,https://techworld.idg.se/2.2524/1.729267/djupinlarning-sophos-mobiler
+2020-01-26,17:21,AB,Marknaden kan vara viruskällan,https://gp.se/tv/a/305980
+2020-01-26,17:21,AB,JUST NU: UD avråder från Kinaresor till två provinser efter utbrott,https://gp.sehttps://gp.sehttps://gp.se/tv/a/305980
+2020-01-26,17:21,AB,Expert: 190 000  kan ha smittats,https://gp.sehttps://gp.se/tv/a/305980
+2020-01-26,17:21,AB,JUST NU: Storbanken nere,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:21,AB,UNIK FILM: Hon gömde sig i stall,https://gp.se/tv/a/293338
+2020-01-26,17:21,AB,Julies mormor var nazist –  Helenas farmor överlevde,https://gp.sehttps://gp.sehttps://gp.se/tv/a/293338
+2020-01-26,17:21,AB,Inifrån dolda Hitler-arkivet,https://gp.sehttps://gp.se/tv/a/293338
+2020-01-26,17:21,AB,Strömavbrott släckte jättegalleria och Ikea,https://gp.se/nyheter/a/EWgLM3/stromavbrott-slackte-ner-jattegalleria-och-handelsomrade
+2020-01-26,17:21,AB,SVT-stjärna fick sexbrev av artist,https://gp.se/nojesbladet/a/g7OrLL/skrev-grova-sexuella-inviter-till-svt-stjarna--falls-i-tingsratten
+2020-01-26,17:21,AB,Så kan du se om en person är deprimerad,https://gp.se/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:21,AB,”Var en fånge i 45 år – nu är jag fri”,https://gp.sehttps://gp.se/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:21,AB,Så ser du bäst Zlatan på San Siro,https://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:21,AB,Svenskarnas succé – hyllade vännen,https://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:21,AB,Fotbollsspelaren död efter utekväll,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:21,AB,Nödläge i Hongkong efter virusets framfart,https://gp.se/tv/a/305953
+2020-01-26,17:21,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:21,AB,UD avråder från resor,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,17:21,AB,Arbetslösas pengar gick till spelmissbruk,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,17:21,AB,Storbankens tjänster ligger nere,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:21,AB,Två döda i skottlossning på bar,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2d9b70f7cd9400110853c3
+2020-01-26,17:21,AB,Läkaren: Så vet du att ditt barn är förstoppat,https://gp.se/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:21,AB,Bastian, 3, har inte bajsat på tre år,https://gp.sehttps://gp.se/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:21,AB,Trådlösa skrällen: Här är bästa hörlurarna,https://gp.se/tester/a/3JK9R9/test-tradlosa-horlurar-blir-bara-battre-och-battre
+2020-01-26,17:21,AB,JANUARI-RABATT: Halva priset,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:21,AB,”Frukost definitivt en del av hemligheten”,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:21,AB,Skydda människan i stället för porren,https://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Kulturministern kan se vilka filmer hon vill,https://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Svårt att hindra smittan från att nå Europa,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Samernas seger över staten kan bli en politisk bomb,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Varför ser inte världen ut som Paddington 2?,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Partiledarna uppträder som barnrumpor,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Vinter med snö tillhör redan det förflutna,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Sjukhuskrisen handlar om liv och död,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Dagens kungligheter är avlönade i antal lajks,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Jag kommer att vinna mot Skatteverket,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Ni män, sluta våldta oss!,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:21,AB,Karlsson: Han är bästa kusken genom tiderna,https://gp.se/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:21,AB,Björn Goop vann Prix d'Amerique,https://gp.sehttps://gp.sehttps://gp.se/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:21,AB,Nätjättarna gör att clownerna vinner,https://gp.se/ledare/a/QoBjdJ/natjattarna-gor-att-clownerna-vinner
+2020-01-26,17:21,AB,Nicole, 18: ”De som sköter sig borde kunna ha kul”,https://gp.se/resa/a/y3nOKe/nicole-18-de-som-skoter-sig-borde-kunna-ha-kul-i-magaluf
+2020-01-26,17:21,AB,Här tar han skydd när jättevågorna slår till,https://gp.se/tv/a/305812
+2020-01-26,17:21,AB,En allvarligt skadad efter stor gasläcka,https://gp.se/nyheter/a/4qgXlV/en-allvarligt-skadad-efter-giftig-gaslacka
+2020-01-26,17:21,AB,Visst är arkitekturen läcker, Poya, men...,https://gp.se/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:21,AB,”Alla släppte allt  de höll på med”,https://gp.sehttps://gp.se/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:21,AB,> Nu ökar vi takten!,https://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:21,AB,> Det är fredag i tingsrättens säkerhetssal och stämningen är uppåt,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:21,AB,> Spaniens politiska storm är perfekt,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:21,AB,Skickade mystiskt sms – sedan mördades hon,https://gp.se/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:21,AB,Polisens spår efter dubbelmördaren,https://gp.sehttps://gp.se/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:21,AB,PLUS Unik inblick hos SHL-domarna: ”Den myten vill jag slå hål på”,https://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:21,AB,”Spel i kulisserna som folk inte känner till”,https://gp.sehttps://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:21,AB,”Varningsskylt för miljögifter?”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:21,AB,Här stjäl han bilen – med barn i baksätet,https://gp.se/tv/a/305765
+2020-01-26,17:21,AB,Här räddas flickan ur rasmassorna,https://gp.se/tv/a/305982
+2020-01-26,17:21,AB,Nytt astro: Ligga, älska eller dumpa?,https://gp.se/relationer/a/BRBGOg/tecknen-du-ska-dejta-gifta-dig-med-och-dumpa
+2020-01-26,17:21,AB,”En av de mildaste vintrarna sen 1860”,https://gp.se/nyheter/a/VbBedp/meteorologen-om-vintern-en-av-de-mildaste-sedan-1860
+2020-01-26,17:21,AB,Här gömde ligan knark och vapen,https://gp.se/nyheter/a/mRdBgq/gomde-20-kilo-knark-och-vapen-i-bil--som-beslagtogs-av-kronofogden
+2020-01-26,17:21,AB,"Jag belönar mig själv varje gång",https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:21,AB,Europa måste stå upp mot Kinas attacker,https://gp.se/debatt/a/3Jgx4d/europa-maste-sta-upp-mot-kinas-attacker
+2020-01-26,17:21,AB,Förklaringen: Därför skickar vi penisbilder,https://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:21,AB,Tjejer blir dränkta av oönskade ”dickpics”,https://gp.sehttps://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:21,AB,”Har en helt annan relation till sitt kön”,https://gp.sehttps://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:21,AB,PLUS Kändis dog – så gick det för barnen,https://gp.se/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:21,AB,Svenske skådisen om Jackson: Är oförlåtligt,https://gp.sehttps://gp.se/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:21,AB,”Titta på det här -  det är helt löjligt”,https://gp.se/tv/a/305842
+2020-01-26,17:21,AB,”Vi vill inte ha frimärkesrövar...”,https://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:21,AB,Ber om ursäkt: ”Var för dåligt”,https://gp.sehttps://gp.sehttps://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:21,AB,”Är sista gången jag utsätter mig för det”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:21,AB,Coops pik efter kritiken,https://gp.se/tv/a/305932
+2020-01-26,17:21,AB,Så säger kunderna om Icas nya bonussystem,https://gp.sehttps://gp.se/tv/a/305932
+2020-01-26,17:21,AB,Kändisarnas sexfetischer,https://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:21,AB,Ansiktet krossades av avhugget hästhuvud,https://gp.sehttps://gp.sehttps://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:21,AB,Filmer med äkta sexscener,https://gp.sehttps://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:21,AB,Newport rabattkoder,https://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,ANNONS,https://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,Homeroom rabattkoder,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,Glossybox rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,Årstiderna rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,Apoteket rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:21,AB,Därför älskar jag gröna hinken på tågperrongen,https://gp.se/nyheter/kolumnister/a/4qgbaG/darfor-alskar-jag-hinken-pa-tagperrongen
+2020-01-26,17:21,AB,En behållare för livsfarliga fans,https://gp.se/sportbladet/hockey/a/70gBXw/leifby-fran-hemska-buren-i-timra
+2020-01-26,17:21,AB,En person hittad död – polisen utreder mord,https://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,”Kan jag så kan vem som helst”,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:21,AB,Tyngdtäcken – så bra är de för din sömn,https://gp.se/halsa/a/naJGvB/tyngdtacke-sa-bra-ar-det-for-somnen
+2020-01-26,17:21,AB,På jakt efter en väg ut ur mörkret,https://gp.se/kultur/a/b5Bjrg/pa-jakt-efter-en-vag-ut-ur-morkret
+2020-01-26,17:21,AB,Lyckas dra ut henne – sen exploderar bilen,https://gp.se/tv/a/305768
+2020-01-26,17:21,AB,Förr festade SD:are i ”Camp Auschwitz”,https://gp.se/ledare/a/LAgaGJ/forr-festade-sdare-i-camp-auschwitz
+2020-01-26,17:21,AB,Unik databas: Alla livstidsdömda,https://gp.se/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:21,AB,Mördaren isolerad – ville våldta personal,https://gp.sehttps://gp.se/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:21,AB,Osannolika världssuccén Roxette,https://gp.se/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:21,AB,Tårarna tittarna inte fick se i SVT,https://gp.sehttps://gp.se/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:21,AB,Mysteriet: Ringar hittade i låst skåp,https://gp.se/nyheter/a/4qgVne/polisen-jagar-agare-till-mystiska-guldringar
+2020-01-26,17:21,AB,Här har skådisarna sex på riktigt,https://gp.se/nojesbladet/article20042064.ab
+2020-01-26,17:21,AB,De 8 snuskigaste filmerna på Netflix,https://gp.sehttps://gp.se/nojesbladet/article20042064.ab
+2020-01-26,17:21,AB,Så bra är 20 mest populära bilarna,https://gp.se/bil/a/lAkJlL/superguide-sa-bra-ar-bastsaljarna
+2020-01-26,17:21,AB,PLUS Stjärnorna som dog för tidigt,https://gp.se/sportbladet/article18788520.ab
+2020-01-26,17:21,AB,Legendaren död: ”Sån jäkla lirare”,https://gp.sehttps://gp.se/sportbladet/article18788520.ab
+2020-01-26,17:21,AB,PLUS Här gömde de knark och vapen,https://gp.semailto:martin.schori@aftonbladet.se
+2020-01-26,17:21,AB,Ligan sålde knark på Darknet – gick i fälla,https://gp.sehttps://gp.semailto:martin.schori@aftonbladet.se
+2020-01-26,17:21,AB,Victoria drog ner på kolhydrater och socker,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:21,AB,Tjänar överlägset mest i serien,https://gp.se/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:21,AB,”En varningsskylt  för miljögifter...?”,https://gp.sehttps://gp.se/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:21,AB,S har inget att lära av dansk migration,https://gp.se/debatt/a/LAg6j9/s-har-inget-att-lara-av-dansk-migrationspolitik
+2020-01-26,17:21,AB,Förslag: Öka skydd för akutpersonalen,https://gp.se/nyheter/a/g7ORGJ/forslaget-infor-blaljusskydd-aven-for-akutpersonal
+2020-01-26,17:21,AB,Superdrönaren ska patrullera gränsen,https://gp.se/tv/a/305930
+2020-01-26,17:21,AB,▸ EFTERLYSNING Tipsa om hjältar!,https://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:21,AB,Bert, 59, var nära att dö på en öde ö,https://gp.sehttps://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:21,AB,PLUS Han överlevde 20 dagar – ensam i Alaskas vildmark,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:21,AB,Casino,https://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:21,AB,Jämför casino,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:21,AB,Free spins,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:21,AB,Raiola: ”Det här gillar jag inte...”,https://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:21,AB,Helt knäckt efter enorma krossen,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:21,AB,Här hittar du ALLA våra reseguider,https://gp.se/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:21,AB,Fantastiska FLORIDA: Alla coola resmåsten,https://gp.sehttps://gp.se/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:21,AB,Skottland runt på en whiskyresa,https://gp.se/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:21,AB,Så maxar du resan till Gran Canaria,https://gp.sehttps://gp.se/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:21,AB,Det SD drömmer om, kastar S på soptippen,https://gp.se/ledare/a/70gjdv/det-sd-drommer-om-kastar-s-pa-soptippen
+2020-01-26,17:21,AB,Regeringen vägrar se – då växer SD och V,https://gp.se/debatt/a/dOBjzO/ni-vagrar-se-problemen--da-vaxer-sd-och-v
+2020-01-26,17:21,AB,Fruktad energikälla i fartfylld rapsodi,https://gp.se/kultur/a/e8BOyy/fruktad-energikalla-i-fartfylld-rapsodi
+2020-01-26,17:21,AB,Person hittad död i Blackeberg,https://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,En allvarligt skadad efter giftig gasläcka,https://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,Forskare: 190 000 kan snart ha smittats,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,Rebecka, 22, fick 234 dickpics på ett år: ”Har nästan slutat reagera”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,Efter virusutbrottet: Krav på förbud mot djurmarknader,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:21,AB,OM AFTONBLADET,https://gp.se/a/LOlQ4/om-aftonbladet
+2020-01-26,17:21,AB,”Aldrig tidigare har ofödda barn haft större försvarare”,https://gp.se/tv/a/305933
+2020-01-26,17:21,AB,”Jag har köpt bostadrätt –  vad händer om vi gör slut?”,https://gp.se/minekonomi/a/K32O5y/jag-har-kopt-bostaden-sjalv--vad-hander-om-vi-gor-slut
+2020-01-26,17:21,AB,Se Blåvitts, Norrköpings och Häckens matcher live,https://gp.se/sportbladet/fotboll/a/MRB3gr/sportbladet-sander-blavitts-norrkopings-och-hackens-matcher
+2020-01-26,17:21,AB,Här tokhaglar det – stora som golfbollar,https://gp.se/tv/a/305732
+2020-01-26,17:21,AB,”Fråga doktorn”-Suzanne: Aldrig haft en dröm om barn,https://gp.se/nojesbladet/a/vQpMqw/har-aldrig-haft-en-drom-om-barn
+2020-01-26,17:21,AB,Veckans fråga: Kan man gå ner ett kilo i veckan?,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/32841310/hem?refpartner=aftonbladet_viktklubb_3.2841310_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:21,AB,Dissen mot Trump: ”Jag bryr mig inte”,https://gp.se/tv/a/305914
+2020-01-26,17:21,AB,Läkarna larmar – folk dör av kaoset i vården,https://gp.se/tv/a/304422
+2020-01-26,17:21,AB,James Bond höll sina barnbarn inlåsta i en bur,https://gp.se/nyheter/a/LAg16P/familj-holl-barn-inlasta-i-traburar
+2020-01-26,17:21,AB,Ta ut ditt drömlag i  PL manager vår 2020,https://gp.sehttp://kampanjer.aftonbladet.se/manager-2-3/
+2020-01-26,17:21,AB,Så kommer vi hålla oss i form under 2020,https://gp.se/halsa/a/XgBgrW/sa-kommer-vi-halla-oss-i-form-under-2020
+2020-01-26,17:21,AB,Hunden Taylor räddar koalor från bränderna,https://gp.se/tv/a/305486
+2020-01-26,17:21,AB,Här gör värmen slut på älgjakten – för alltid,https://gp.se/nyheter/a/jd7PxL/har-gor-varmen-slut-pa-algjakten--for-alltid
+2020-01-26,17:21,AB,Dödsfällan öppnade upp sig mitt i natten,https://gp.se/nyheter/a/dOBweX/dodsfallan-oppnade-upp-sig-mitt-i-natten
+2020-01-26,17:21,AB,Avslöjar dessa bilder att hon redan visste?,https://gp.se/tv/a/305346
+2020-01-26,17:21,AB,Lömska störningen – så upptäcker DU den,https://gp.se/relationer/a/Kvpwd4/okanda-storningen-farligare-an-psykopati
+2020-01-26,17:21,AB,Så vill han vrida tillbaka åldrandet,https://gp.se/nyheter/a/lAWB9k/har-professorn-hittat-ungdomens-kalla
+2020-01-26,17:21,AB,Ny forskning: Glöm 10 000 steg – så lite kan du gå,https://gp.se/halsa/a/zG3an1/ny-forskning-farre-steg-racker-for-halsoeffekt
+2020-01-26,17:21,AB,Mamman festade då tvååringen försvann,https://gp.se/nyheter/krim/a/Jo29rR/usas-mest-hatade-mamma-jag-sover-ganska-gott-pa-natterna
+2020-01-26,17:21,AB,Vad kan man byta allt onödigt socker mot?,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/19849050/hem?refpartner=aftonbladet_viktklubb_1.9849050_pilram_mat_&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:21,AB,Var trött i 25 år – så blev han botad,https://gp.se/halsa/a/3Jer6v/leifs-trotthet-var-brist-pa-testosteron
+2020-01-26,17:21,AB,Testa dig själv: Hur bra är du i sängen?,https://gp.se/relationer/a/opBmoa/testa-dig-sjalv-ar-du-bra-i-sangen
+2020-01-26,17:21,AB,Ingen vet hur länge det märkliga djuret kan leva,https://gp.se/tv/a/304404
+2020-01-26,17:21,AB,Testa dina matvanor: Så här bra äter du,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/19505143/hem?refpartner=aftonbladet_viktklubb_1.9505143_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:22,IDG,Enligt en undersökning från Telenor och Sifo är nio av tio anställda på svenska företag en säkerhetsrisk. Vanligaste riskbeteendet är osäkra lösenord, och allra värst är det med de yngre.,https://computersweden.idg.se/2.2683/1.729680/telenor-anstallda-sakerhetsrisk
+2020-01-26,17:22,AB,Hur mycket plats tar 280 ton plast?,https://gp.sehttps://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:22,AB,Svenska idyllen – en avfallsstation,https://gp.sehttps://gp.sehttps://gp.sehttps://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:22,AB,Tjuvens luriga knep för att komma åt dina besparingar,https://gp.se/tv/a/305640
+2020-01-26,17:22,AB,Läkarna glömde kvar  detta i hennes kropp,https://gp.se/tv/a/305113
+2020-01-26,17:23,GP,Henrik Schyffert gästar GP live från filmfestivalen!,https://gp.se/kultur/kultur/henrik-schyffert-g%C3%A4star-gp-live-fr%C3%A5n-filmfestivalen-1.23128973
+2020-01-26,17:24,GP,Henrik Schyffert gästar GP live från filmfestivalen!,https://gp.se/kultur/kultur/henrik-schyffert-g%C3%A4star-gp-live-fr%C3%A5n-filmfestivalen-1.23128973
+2020-01-26,17:24,GP,Ingen gripen för explosion utanför villa,https://gp.se/nyheter/sverige/ingen-gripen-f%C3%B6r-explosion-utanf%C3%B6r-villa-1.23109121
+2020-01-26,17:24,GP,Goop vann Prix d'Amérique igen: "Fantastiskt",https://gp.se/sport/goop-vann-prix-d-am%C3%A9rique-igen-fantastiskt-1.23127387
+2020-01-26,17:24,IDG,Enligt en undersökning från Telenor och Sifo är nio av tio anställda på svenska företag en säkerhetsrisk. Vanligaste riskbeteendet är osäkra lösenord, och allra värst är det med de yngre.,https://computersweden.idg.se/2.2683/1.729680/telenor-anstallda-sakerhetsrisk
+2020-01-26,17:27,GP,Blåvittspelaren skadad – efter straffspark,https://gp.se/sport/fotboll/amin-affane-skadad-efter-straffspark-1.23129157
+2020-01-26,17:27,GP,Kritik mot gröna pengar till flygplatsprojekt,https://gp.se/ekonomi/kritik-mot-gr%C3%B6na-pengar-till-flygplatsprojekt-1.23125631
+2020-01-26,17:27,GP,Lorena fick rädda laget när Lilly bröt benet,https://gp.se/sport/lorena-fick-r%C3%A4dda-laget-n%C3%A4r-lilly-br%C3%B6t-benet-1.23128953
+2020-01-26,17:27,GP,Blåvittspelaren skadad – efter straffspark,https://gp.se/sport/fotboll/amin-affane-skadad-efter-straffspark-1.23129157
+2020-01-26,17:27,GP,Kritik mot gröna pengar till flygplatsprojekt,https://gp.se/ekonomi/kritik-mot-gr%C3%B6na-pengar-till-flygplatsprojekt-1.23125631
+2020-01-26,17:27,GP,Lorena fick rädda laget när Lilly bröt benet,https://gp.se/sport/lorena-fick-r%C3%A4dda-laget-n%C3%A4r-lilly-br%C3%B6t-benet-1.23128953
+2020-01-26,17:27,IDG,Enligt en undersökning från Telenor och Sifo är nio av tio anställda på svenska företag en säkerhetsrisk. Vanligaste riskbeteendet är osäkra lösenord, och allra värst är det med de yngre.,https://computersweden.idg.se/2.2683/1.729680/telenor-anstallda-sakerhetsrisk
+2020-01-26,17:27,AB,Marknaden kan vara viruskällan,https://gp.se/tv/a/305980
+2020-01-26,17:27,AB,JUST NU: UD avråder från Kinaresor till två provinser efter utbrott,https://gp.sehttps://gp.sehttps://gp.se/tv/a/305980
+2020-01-26,17:27,AB,Expert: 190 000  kan ha smittats,https://gp.sehttps://gp.se/tv/a/305980
+2020-01-26,17:27,AB,JUST NU: Storbanken nere,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:27,AB,UNIK FILM: Hon gömde sig i stall,https://gp.se/tv/a/293338
+2020-01-26,17:27,AB,Julies mormor var nazist –  Helenas farmor överlevde,https://gp.sehttps://gp.sehttps://gp.se/tv/a/293338
+2020-01-26,17:27,AB,Inifrån dolda Hitler-arkivet,https://gp.sehttps://gp.se/tv/a/293338
+2020-01-26,17:27,AB,Strömavbrott släckte jättegalleria och Ikea,https://gp.se/nyheter/a/EWgLM3/stromavbrott-slackte-ner-jattegalleria-och-handelsomrade
+2020-01-26,17:27,AB,SVT-stjärna fick sexbrev av artist,https://gp.se/nojesbladet/a/g7OrLL/skrev-grova-sexuella-inviter-till-svt-stjarna--falls-i-tingsratten
+2020-01-26,17:27,AB,Så kan du se om en person är deprimerad,https://gp.se/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:27,AB,”Var en fånge i 45 år – nu är jag fri”,https://gp.sehttps://gp.se/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:27,AB,Så ser du bäst Zlatan på San Siro,https://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:27,AB,Svenskarnas succé – hyllade vännen,https://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:27,AB,Fotbollsspelaren död efter utekväll,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:27,AB,Nödläge i Hongkong efter virusets framfart,https://gp.se/tv/a/305953
+2020-01-26,17:27,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:27,AB,UD avråder från resor,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,17:27,AB,Arbetslösas pengar gick till spelmissbruk,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,17:27,AB,Storbankens tjänster ligger nere,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:27,AB,Två döda i skottlossning på bar,https://gp.sehttps://live.aftonbladet.se/supernytt/news/5e2d9b70f7cd9400110853c3
+2020-01-26,17:27,AB,Läkaren: Så vet du att ditt barn är förstoppat,https://gp.se/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:27,AB,Bastian, 3, har inte bajsat på tre år,https://gp.sehttps://gp.se/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:27,AB,Trådlösa skrällen: Här är bästa hörlurarna,https://gp.se/tester/a/3JK9R9/test-tradlosa-horlurar-blir-bara-battre-och-battre
+2020-01-26,17:27,AB,JANUARI-RABATT: Halva priset,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:27,AB,”Frukost definitivt en del av hemligheten”,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:27,AB,Skydda människan i stället för porren,https://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Kulturministern kan se vilka filmer hon vill,https://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Svårt att hindra smittan från att nå Europa,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Samernas seger över staten kan bli en politisk bomb,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Varför ser inte världen ut som Paddington 2?,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Partiledarna uppträder som barnrumpor,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Vinter med snö tillhör redan det förflutna,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Sjukhuskrisen handlar om liv och död,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Dagens kungligheter är avlönade i antal lajks,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Jag kommer att vinna mot Skatteverket,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Ni män, sluta våldta oss!,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:27,AB,Karlsson: Han är bästa kusken genom tiderna,https://gp.se/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:27,AB,Björn Goop vann Prix d'Amerique,https://gp.sehttps://gp.sehttps://gp.se/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:27,AB,Nätjättarna gör att clownerna vinner,https://gp.se/ledare/a/QoBjdJ/natjattarna-gor-att-clownerna-vinner
+2020-01-26,17:27,AB,Nicole, 18: ”De som sköter sig borde kunna ha kul”,https://gp.se/resa/a/y3nOKe/nicole-18-de-som-skoter-sig-borde-kunna-ha-kul-i-magaluf
+2020-01-26,17:27,AB,Här tar han skydd när jättevågorna slår till,https://gp.se/tv/a/305812
+2020-01-26,17:27,AB,En allvarligt skadad efter stor gasläcka,https://gp.se/nyheter/a/4qgXlV/en-allvarligt-skadad-efter-giftig-gaslacka
+2020-01-26,17:27,AB,Visst är arkitekturen läcker, Poya, men...,https://gp.se/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:27,AB,”Alla släppte allt  de höll på med”,https://gp.sehttps://gp.se/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:27,AB,> Nu ökar vi takten!,https://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:27,AB,> Det är fredag i tingsrättens säkerhetssal och stämningen är uppåt,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:27,AB,> Spaniens politiska storm är perfekt,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:27,AB,Skickade mystiskt sms – sedan mördades hon,https://gp.se/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:27,AB,Polisens spår efter dubbelmördaren,https://gp.sehttps://gp.se/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:27,AB,PLUS Unik inblick hos SHL-domarna: ”Den myten vill jag slå hål på”,https://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:27,AB,”Spel i kulisserna som folk inte känner till”,https://gp.sehttps://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:27,AB,”Varningsskylt för miljögifter?”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:27,AB,Här stjäl han bilen – med barn i baksätet,https://gp.se/tv/a/305765
+2020-01-26,17:27,AB,Här räddas flickan ur rasmassorna,https://gp.se/tv/a/305982
+2020-01-26,17:27,AB,Nytt astro: Ligga, älska eller dumpa?,https://gp.se/relationer/a/BRBGOg/tecknen-du-ska-dejta-gifta-dig-med-och-dumpa
+2020-01-26,17:27,AB,”En av de mildaste vintrarna sen 1860”,https://gp.se/nyheter/a/VbBedp/meteorologen-om-vintern-en-av-de-mildaste-sedan-1860
+2020-01-26,17:27,AB,Här gömde ligan knark och vapen,https://gp.se/nyheter/a/mRdBgq/gomde-20-kilo-knark-och-vapen-i-bil--som-beslagtogs-av-kronofogden
+2020-01-26,17:27,AB,"Jag belönar mig själv varje gång",https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:27,AB,Europa måste stå upp mot Kinas attacker,https://gp.se/debatt/a/3Jgx4d/europa-maste-sta-upp-mot-kinas-attacker
+2020-01-26,17:27,AB,Förklaringen: Därför skickar vi penisbilder,https://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:27,AB,Tjejer blir dränkta av oönskade ”dickpics”,https://gp.sehttps://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:27,AB,”Har en helt annan relation till sitt kön”,https://gp.sehttps://gp.se/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:27,AB,PLUS Kändis dog – så gick det för barnen,https://gp.se/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:27,AB,Svenske skådisen om Jackson: Är oförlåtligt,https://gp.sehttps://gp.se/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:27,AB,”Titta på det här -  det är helt löjligt”,https://gp.se/tv/a/305842
+2020-01-26,17:27,AB,”Vi vill inte ha frimärkesrövar...”,https://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:27,AB,Ber om ursäkt: ”Var för dåligt”,https://gp.sehttps://gp.sehttps://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:27,AB,”Är sista gången jag utsätter mig för det”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:27,AB,Coops pik efter kritiken,https://gp.se/tv/a/305932
+2020-01-26,17:27,AB,Så säger kunderna om Icas nya bonussystem,https://gp.sehttps://gp.se/tv/a/305932
+2020-01-26,17:27,AB,Kändisarnas sexfetischer,https://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:27,AB,Ansiktet krossades av avhugget hästhuvud,https://gp.sehttps://gp.sehttps://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:27,AB,Filmer med äkta sexscener,https://gp.sehttps://gp.se/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:27,AB,Newport rabattkoder,https://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,ANNONS,https://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,Homeroom rabattkoder,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,Glossybox rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,Årstiderna rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,Apoteket rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/newport?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:27,AB,Därför älskar jag gröna hinken på tågperrongen,https://gp.se/nyheter/kolumnister/a/4qgbaG/darfor-alskar-jag-hinken-pa-tagperrongen
+2020-01-26,17:27,AB,En behållare för livsfarliga fans,https://gp.se/sportbladet/hockey/a/70gBXw/leifby-fran-hemska-buren-i-timra
+2020-01-26,17:27,AB,En person hittad död – polisen utreder mord,https://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,”Kan jag så kan vem som helst”,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:27,AB,Tyngdtäcken – så bra är de för din sömn,https://gp.se/halsa/a/naJGvB/tyngdtacke-sa-bra-ar-det-for-somnen
+2020-01-26,17:27,AB,På jakt efter en väg ut ur mörkret,https://gp.se/kultur/a/b5Bjrg/pa-jakt-efter-en-vag-ut-ur-morkret
+2020-01-26,17:27,AB,Lyckas dra ut henne – sen exploderar bilen,https://gp.se/tv/a/305768
+2020-01-26,17:27,AB,Förr festade SD:are i ”Camp Auschwitz”,https://gp.se/ledare/a/LAgaGJ/forr-festade-sdare-i-camp-auschwitz
+2020-01-26,17:27,AB,Unik databas: Alla livstidsdömda,https://gp.se/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:27,AB,Mördaren isolerad – ville våldta personal,https://gp.sehttps://gp.se/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:27,AB,Osannolika världssuccén Roxette,https://gp.se/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:27,AB,Tårarna tittarna inte fick se i SVT,https://gp.sehttps://gp.se/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:27,AB,Mysteriet: Ringar hittade i låst skåp,https://gp.se/nyheter/a/4qgVne/polisen-jagar-agare-till-mystiska-guldringar
+2020-01-26,17:27,AB,Här har skådisarna sex på riktigt,https://gp.se/nojesbladet/article20042064.ab
+2020-01-26,17:27,AB,De 8 snuskigaste filmerna på Netflix,https://gp.sehttps://gp.se/nojesbladet/article20042064.ab
+2020-01-26,17:27,AB,Så bra är 20 mest populära bilarna,https://gp.se/bil/a/lAkJlL/superguide-sa-bra-ar-bastsaljarna
+2020-01-26,17:27,AB,PLUS Stjärnorna som dog för tidigt,https://gp.se/sportbladet/article18788520.ab
+2020-01-26,17:27,AB,Legendaren död: ”Sån jäkla lirare”,https://gp.sehttps://gp.se/sportbladet/article18788520.ab
+2020-01-26,17:27,AB,PLUS Här gömde de knark och vapen,https://gp.semailto:martin.schori@aftonbladet.se
+2020-01-26,17:27,AB,Ligan sålde knark på Darknet – gick i fälla,https://gp.sehttps://gp.semailto:martin.schori@aftonbladet.se
+2020-01-26,17:27,AB,Victoria drog ner på kolhydrater och socker,https://gp.sehttps://gp.sehttp://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:27,AB,Tjänar överlägset mest i serien,https://gp.se/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:27,AB,”En varningsskylt  för miljögifter...?”,https://gp.sehttps://gp.se/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:27,AB,S har inget att lära av dansk migration,https://gp.se/debatt/a/LAg6j9/s-har-inget-att-lara-av-dansk-migrationspolitik
+2020-01-26,17:27,AB,Förslag: Öka skydd för akutpersonalen,https://gp.se/nyheter/a/g7ORGJ/forslaget-infor-blaljusskydd-aven-for-akutpersonal
+2020-01-26,17:27,AB,Superdrönaren ska patrullera gränsen,https://gp.se/tv/a/305930
+2020-01-26,17:27,AB,▸ EFTERLYSNING Tipsa om hjältar!,https://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:27,AB,Bert, 59, var nära att dö på en öde ö,https://gp.sehttps://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:27,AB,PLUS Han överlevde 20 dagar – ensam i Alaskas vildmark,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://toolbox.aftonbladet.se/aftonbladet-tools/forms/?id=14852&preview=1576835523
+2020-01-26,17:27,AB,Casino,https://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:27,AB,Jämför casino,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:27,AB,Free spins,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://www.stodlinjen.se/
+2020-01-26,17:27,AB,Raiola: ”Det här gillar jag inte...”,https://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:27,AB,Helt knäckt efter enorma krossen,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:27,AB,Här hittar du ALLA våra reseguider,https://gp.se/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:27,AB,Fantastiska FLORIDA: Alla coola resmåsten,https://gp.sehttps://gp.se/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:27,AB,Skottland runt på en whiskyresa,https://gp.se/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:27,AB,Så maxar du resan till Gran Canaria,https://gp.sehttps://gp.se/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:27,AB,Det SD drömmer om, kastar S på soptippen,https://gp.se/ledare/a/70gjdv/det-sd-drommer-om-kastar-s-pa-soptippen
+2020-01-26,17:27,AB,Regeringen vägrar se – då växer SD och V,https://gp.se/debatt/a/dOBjzO/ni-vagrar-se-problemen--da-vaxer-sd-och-v
+2020-01-26,17:27,AB,Fruktad energikälla i fartfylld rapsodi,https://gp.se/kultur/a/e8BOyy/fruktad-energikalla-i-fartfylld-rapsodi
+2020-01-26,17:27,AB,Person hittad död i Blackeberg,https://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,En allvarligt skadad efter giftig gasläcka,https://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,Forskare: 190 000 kan snart ha smittats,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,Rebecka, 22, fick 234 dickpics på ett år: ”Har nästan slutat reagera”,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,Efter virusutbrottet: Krav på förbud mot djurmarknader,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:27,AB,OM AFTONBLADET,https://gp.se/a/LOlQ4/om-aftonbladet
+2020-01-26,17:27,AB,”Aldrig tidigare har ofödda barn haft större försvarare”,https://gp.se/tv/a/305933
+2020-01-26,17:27,AB,”Jag har köpt bostadrätt –  vad händer om vi gör slut?”,https://gp.se/minekonomi/a/K32O5y/jag-har-kopt-bostaden-sjalv--vad-hander-om-vi-gor-slut
+2020-01-26,17:27,AB,Se Blåvitts, Norrköpings och Häckens matcher live,https://gp.se/sportbladet/fotboll/a/MRB3gr/sportbladet-sander-blavitts-norrkopings-och-hackens-matcher
+2020-01-26,17:27,AB,Här tokhaglar det – stora som golfbollar,https://gp.se/tv/a/305732
+2020-01-26,17:27,AB,”Fråga doktorn”-Suzanne: Aldrig haft en dröm om barn,https://gp.se/nojesbladet/a/vQpMqw/har-aldrig-haft-en-drom-om-barn
+2020-01-26,17:27,AB,Veckans fråga: Kan man gå ner ett kilo i veckan?,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/32841310/hem?refpartner=aftonbladet_viktklubb_3.2841310_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:27,AB,Dissen mot Trump: ”Jag bryr mig inte”,https://gp.se/tv/a/305914
+2020-01-26,17:27,AB,Läkarna larmar – folk dör av kaoset i vården,https://gp.se/tv/a/304422
+2020-01-26,17:27,AB,James Bond höll sina barnbarn inlåsta i en bur,https://gp.se/nyheter/a/LAg16P/familj-holl-barn-inlasta-i-traburar
+2020-01-26,17:27,AB,Ta ut ditt drömlag i  PL manager vår 2020,https://gp.sehttp://kampanjer.aftonbladet.se/manager-2-3/
+2020-01-26,17:27,AB,Så kommer vi hålla oss i form under 2020,https://gp.se/halsa/a/XgBgrW/sa-kommer-vi-halla-oss-i-form-under-2020
+2020-01-26,17:27,AB,Hunden Taylor räddar koalor från bränderna,https://gp.se/tv/a/305486
+2020-01-26,17:27,AB,Här gör värmen slut på älgjakten – för alltid,https://gp.se/nyheter/a/jd7PxL/har-gor-varmen-slut-pa-algjakten--for-alltid
+2020-01-26,17:27,AB,Dödsfällan öppnade upp sig mitt i natten,https://gp.se/nyheter/a/dOBweX/dodsfallan-oppnade-upp-sig-mitt-i-natten
+2020-01-26,17:27,AB,Avslöjar dessa bilder att hon redan visste?,https://gp.se/tv/a/305346
+2020-01-26,17:27,AB,Lömska störningen – så upptäcker DU den,https://gp.se/relationer/a/Kvpwd4/okanda-storningen-farligare-an-psykopati
+2020-01-26,17:27,AB,Så vill han vrida tillbaka åldrandet,https://gp.se/nyheter/a/lAWB9k/har-professorn-hittat-ungdomens-kalla
+2020-01-26,17:27,AB,Ny forskning: Glöm 10 000 steg – så lite kan du gå,https://gp.se/halsa/a/zG3an1/ny-forskning-farre-steg-racker-for-halsoeffekt
+2020-01-26,17:27,AB,Mamman festade då tvååringen försvann,https://gp.se/nyheter/krim/a/Jo29rR/usas-mest-hatade-mamma-jag-sover-ganska-gott-pa-natterna
+2020-01-26,17:27,AB,Vad kan man byta allt onödigt socker mot?,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/19849050/hem?refpartner=aftonbladet_viktklubb_1.9849050_pilram_mat_&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:27,AB,Var trött i 25 år – så blev han botad,https://gp.se/halsa/a/3Jer6v/leifs-trotthet-var-brist-pa-testosteron
+2020-01-26,17:27,AB,Testa dig själv: Hur bra är du i sängen?,https://gp.se/relationer/a/opBmoa/testa-dig-sjalv-ar-du-bra-i-sangen
+2020-01-26,17:27,AB,Ingen vet hur länge det märkliga djuret kan leva,https://gp.se/tv/a/304404
+2020-01-26,17:27,AB,Testa dina matvanor: Så här bra äter du,https://gp.sehttp://viktklubb.aftonbladet.se/kampanj/artikel/19505143/hem?refpartner=aftonbladet_viktklubb_1.9505143_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:28,AB,Hur mycket plats tar 280 ton plast?,https://gp.sehttps://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:28,AB,Svenska idyllen – en avfallsstation,https://gp.sehttps://gp.sehttps://gp.sehttps://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:28,AB,Ödesvalet: En av dem ska slåss mot Trump,https://gp.se/tv/a/305355
+2020-01-26,17:29,AB,▸ TV: Se mäktiga avslutningen,https://gp.se/tv/a/306003
+2020-01-26,17:29,AB,Öbergs jättesuccé:  ”Så himla roligt!”,https://gp.sehttps://gp.se/tv/a/306003
+2020-01-26,17:29,AB,Simple Feast rabattkoder,https://gp.se/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:29,AB,Hotels.com rabattkod,https://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.sehttps://gp.se/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:30,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:31,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:35,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:36,AB,Strömavbrott påverkar galleria,https://gp.sehttps://live.aftonbladet.se/supernytt
+2020-01-26,17:37,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:43,AB,VISA FLER,https://live.aftonbladet.se/supernytt
+2020-01-26,17:43,AB,VISA FLER,https://live.aftonbladet.se/supernytt
+2020-01-26,17:44,AB,VISA FLER,https://live.aftonbladet.se/supernytt
+2020-01-26,17:45,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:45,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:45,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:46,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:46,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:47,AB,Simple Feast rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:48,AB,Simple Feast rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:49,AB,,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:49,AB,,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:49,AB,SIMPLE FEAST Få 25% rabatt på 4 första leveranserna!,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Simple Feast rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Expert: 190 000  kan ha smittats,/nyheter/a/P9Be06/forskare-190000-kan-snart-ha-smittats
+2020-01-26,17:50,AB,UD avråder från Kinaresor efter  virusutbrottet,/nyheter/a/P9Be06/forskare-190000-kan-snart-ha-smittats
+2020-01-26,17:50,AB,Kravet: Sluta äta vilda djur,/nyheter/a/P9Be06/forskare-190000-kan-snart-ha-smittats
+2020-01-26,17:50,AB,JUST NU: Storbanken nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:50,AB,PLUS Så ser du bäst Zlatan på San Siro,/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:50,AB,Otäcka scenerna – stjärnan kollapsar,/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:50,AB,Fotbollsspelaren död efter utekväll,/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:50,AB,Två svenskmål i serie A,/sportbladet/fotboll/a/kJL2WB/guide-till-det-perfekta-besoket-i-milano-och-san-siro
+2020-01-26,17:50,AB,UNIK FILM: Hon gömde sig i stall,/tv/a/293338
+2020-01-26,17:50,AB,Julies mormor var nazist –  Helenas farmor överlevde,/tv/a/293338
+2020-01-26,17:50,AB,Inifrån dolda Hitler-arkivet,/tv/a/293338
+2020-01-26,17:50,AB,SVT-stjärna fick sexbrev av artist,/nojesbladet/a/g7OrLL/skrev-grova-sexuella-inviter-till-svt-stjarna--falls-i-tingsratten
+2020-01-26,17:50,AB,Planen: Döda folk med maskingevär,/nyheter/a/kJGKrX/planen-doda-folk-med-maskingevar
+2020-01-26,17:50,AB,Marknaden kan vara viruskällan,/tv/a/305980
+2020-01-26,17:50,AB,Strömavbrott släckte jättegalleria och Ikea,/nyheter/a/EWgLM3/stromavbrott-slackte-ner-jattegalleria-och-handelsomrade
+2020-01-26,17:50,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:50,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,17:50,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,17:50,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,17:50,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2d9b70f7cd9400110853c3
+2020-01-26,17:50,AB,Läkaren: Så vet du att ditt barn är förstoppat,/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:50,AB,Bastian, 3, har inte bajsat på tre år,/family/a/AdgJJj/lakaren-sa-vet-du-att-ditt-barn-ar-forstoppat
+2020-01-26,17:50,AB,Trådlösa skrällen: Här är bästa hörlurarna,/tester/a/3JK9R9/test-tradlosa-horlurar-blir-bara-battre-och-battre
+2020-01-26,17:50,AB,JANUARI-RABATT: Halva priset,http://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:50,AB,”Frukost definitivt en del av hemligheten”,http://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:50,AB,Skydda människan i stället för porren,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Kulturministern kan se vilka filmer hon vill,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Svårt att hindra smittan från att nå Europa,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Samernas seger över staten kan bli en politisk bomb,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Varför ser inte världen ut som Paddington 2?,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Partiledarna uppträder som barnrumpor,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Vinter med snö tillhör redan det förflutna,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Sjukhuskrisen handlar om liv och död,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Dagens kungligheter är avlönade i antal lajks,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Jag kommer att vinna mot Skatteverket,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Ni män, sluta våldta oss!,/nyheter/kolumnister/a/e8wAMg/skydda-manniskan-istallet-for-porren
+2020-01-26,17:50,AB,Karlsson: Han är bästa kusken genom tiderna,/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:50,AB,Björn Goop vann Prix d'Amerique,/sportbladet/trav365/a/jd7px0/bjorn-goop-ar-den-basta-kusken-genom-tiderna
+2020-01-26,17:50,AB,Här tar han skydd när jättevågorna slår till,/tv/a/305812
+2020-01-26,17:50,AB,Nicole, 18: ”De som sköter sig borde kunna ha kul”,/resa/a/y3nOKe/nicole-18-de-som-skoter-sig-borde-kunna-ha-kul-i-magaluf
+2020-01-26,17:50,AB,Nätjättarna gör att clownerna vinner,/ledare/a/QoBjdJ/natjattarna-gor-att-clownerna-vinner
+2020-01-26,17:50,AB,Så kan du se om en person är deprimerad,/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:50,AB,”Var en fånge i 45 år – nu är jag fri”,/relationer/a/A2qbwE/ny-forskning-sa-kan-du-upptacka-att-nagon-ar-deprimerad
+2020-01-26,17:50,AB,▸ TV: Se mäktiga avslutningen,/tv/a/306003
+2020-01-26,17:50,AB,Öbergs jättesuccé:  ”Förvånade mig...”,/tv/a/306003
+2020-01-26,17:50,AB,> Nu ökar vi takten!,/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:50,AB,> Det är fredag i tingsrättens säkerhetssal och stämningen är uppåt,/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:50,AB,> Spaniens politiska storm är perfekt,/a/zGPxzw/kulturministern-kan-se-vilka-filmer-hon-vill-nar-och-var-som-helst
+2020-01-26,17:50,AB,Nödläge i Hongkong efter virusets framfart,/tv/a/305953
+2020-01-26,17:50,AB,PLUS Unik inblick hos SHL-domarna: ”Den myten vill jag slå hål på”,/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:50,AB,”Spel i kulisserna som folk inte känner till”,/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:50,AB,”Varningsskylt för miljögifter?”,/sportbladet/hockey/a/BJQMO0/unik-inblick-hos-shl-domarna-den-myten-vill-jag-sla-hal-pa
+2020-01-26,17:50,AB,Här stjäl han bilen – med barn i baksätet,/tv/a/305765
+2020-01-26,17:50,AB,En allvarligt skadad efter stor gasläcka,/nyheter/a/4qgXlV/en-allvarligt-skadad-efter-giftig-gaslacka
+2020-01-26,17:50,AB,Nytt astro: Ligga, älska eller dumpa?,/relationer/a/BRBGOg/tecknen-du-ska-dejta-gifta-dig-med-och-dumpa
+2020-01-26,17:50,AB,Skickade mystiskt sms – sedan mördades hon,/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:50,AB,Polisens spår efter dubbelmördaren,/nyheter/a/opzn4a/kvinnan-skickade-ett-mystiskt-sms--sedan-hittades-hon-mordad
+2020-01-26,17:50,AB,Hur mycket plats tar 280 ton plast?,https://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:50,AB,Svenska idyllen – en avfallsstation,https://plastkusten.story.aftonbladet.se/chapter/grafik/
+2020-01-26,17:50,AB,Här räddas flickan ur rasmassorna,/tv/a/305982
+2020-01-26,17:50,AB,”En av de mildaste vintrarna sen 1860”,/nyheter/a/VbBedp/meteorologen-om-vintern-en-av-de-mildaste-sedan-1860
+2020-01-26,17:50,AB,Visst är arkitekturen läcker, Poya, men...,/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:50,AB,”Alla släppte allt  de höll på med”,/sportbladet/fotboll/a/K3Re9e/ifk-goteborg-bra-i-45-minuter-i-malrik-sasongspremiar
+2020-01-26,17:50,AB,"Jag belönar mig själv varje gång",http://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:50,AB,”Titta på det här -  det är helt löjligt”,/tv/a/305842
+2020-01-26,17:50,AB,Europa måste stå upp mot Kinas attacker,/debatt/a/3Jgx4d/europa-maste-sta-upp-mot-kinas-attacker
+2020-01-26,17:50,AB,Förklaringen: Därför skickar vi penisbilder,/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:50,AB,Tjejer blir dränkta av oönskade ”dickpics”,/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:50,AB,”Har en helt annan relation till sitt kön”,/relationer/a/Qlm1M4/svenska-killar-berattar-darfor-skickar-vi-penisbilder
+2020-01-26,17:50,AB,PLUS Kändis dog – så gick det för barnen,/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:50,AB,Svenske skådisen om Jackson: Är oförlåtligt,/nojesbladet/a/Xg3A4x/kandisforalder-dog--sa-gick-det-for-barnen
+2020-01-26,17:50,AB,Simple Feast rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,ANNONS,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Homeroom rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Newport rabattkoder,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Hotels.com rabattkod,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,Apoteket rabattkod,/rabattkod/simplefeast?utm_source=aftonbladet&utm_medium=textlink&utm_campaign=widget&utm_content=default
+2020-01-26,17:50,AB,”Vi vill inte ha frimärkesrövar...”,/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:50,AB,Ber om ursäkt: ”Var för dåligt”,/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:50,AB,”Är sista gången jag utsätter mig för det”,/sportbladet/a/OpXKE1/jonsson-haags-traningsskola--trana-under-och-efter-graviditeten
+2020-01-26,17:50,AB,Coops pik efter kritiken,/tv/a/305932
+2020-01-26,17:50,AB,Så säger kunderna om Icas nya bonussystem,/tv/a/305932
+2020-01-26,17:50,AB,Kändisarnas sexfetischer,/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:50,AB,Ansiktet krossades av avhugget hästhuvud,/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:50,AB,Filmer med äkta sexscener,/nojesbladet/a/70jEe4/stjarnornas-sjukaste-fetischer
+2020-01-26,17:50,AB,”Kan jag så kan vem som helst”,http://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:50,AB,Tyngdtäcken – så bra är de för din sömn,/halsa/a/naJGvB/tyngdtacke-sa-bra-ar-det-for-somnen
+2020-01-26,17:50,AB,Därför älskar jag gröna hinken på tågperrongen,/nyheter/kolumnister/a/4qgbaG/darfor-alskar-jag-hinken-pa-tagperrongen
+2020-01-26,17:50,AB,En behållare för livsfarliga fans,/sportbladet/hockey/a/70gBXw/leifby-fran-hemska-buren-i-timra
+2020-01-26,17:50,AB,En person hittad död – polisen utreder mord,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,På jakt efter en väg ut ur mörkret,/kultur/a/b5Bjrg/pa-jakt-efter-en-vag-ut-ur-morkret
+2020-01-26,17:50,AB,Lyckas dra ut henne – sen exploderar bilen,/tv/a/305768
+2020-01-26,17:50,AB,Förr festade SD:are i ”Camp Auschwitz”,/ledare/a/LAgaGJ/forr-festade-sdare-i-camp-auschwitz
+2020-01-26,17:50,AB,Här har skådisarna sex på riktigt,/nojesbladet/article20042064.ab
+2020-01-26,17:50,AB,De 8 snuskigaste filmerna på Netflix,/nojesbladet/article20042064.ab
+2020-01-26,17:50,AB,Unik databas: Alla livstidsdömda,/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:50,AB,Mördaren isolerad – ville våldta personal,/nyheter/krim/a/Rxr9pa/har-ar-de-som-sitter-inlasta--pa-livstid
+2020-01-26,17:50,AB,Osannolika världssuccén Roxette,/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:50,AB,Tårarna tittarna inte fick se i SVT,/nojesbladet/a/9vWPnw/varldsexporten-roxette--en-osannolik-succe
+2020-01-26,17:50,AB,Mysteriet: Ringar hittade i låst skåp,/nyheter/a/4qgVne/polisen-jagar-agare-till-mystiska-guldringar
+2020-01-26,17:50,AB,Så bra är 20 mest populära bilarna,/bil/a/lAkJlL/superguide-sa-bra-ar-bastsaljarna
+2020-01-26,17:50,AB,Tjänar överlägset mest i serien,/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:50,AB,”En varningsskylt  för miljögifter...?”,/sportbladet/hockey/a/GGJAOV/lonelista-2019-sa-tjanar-spelarna-i-hockeyallsvenskan
+2020-01-26,17:50,AB,PLUS Stjärnorna som dog för tidigt,/sportbladet/article18788520.ab
+2020-01-26,17:50,AB,Legendaren död: ”Sån jäkla lirare”,/sportbladet/article18788520.ab
+2020-01-26,17:50,AB,PLUS Här gömde de knark och vapen,mailto:martin.schori@aftonbladet.se
+2020-01-26,17:50,AB,Ligan sålde knark på Darknet – gick i fälla,mailto:martin.schori@aftonbladet.se
+2020-01-26,17:50,AB,Victoria drog ner på kolhydrater och socker,http://viktklubb.aftonbladet.se/kampanj?refpartner=januarikampanj_steg_2_2020&utm_source=aftonbladet%20desktop&utm_medium=aftonbladet&utm_campaign=januarikampanj_steg_2_2020
+2020-01-26,17:50,AB,S har inget att lära av dansk migration,/debatt/a/LAg6j9/s-har-inget-att-lara-av-dansk-migrationspolitik
+2020-01-26,17:50,AB,Casino,https://www.stodlinjen.se/
+2020-01-26,17:50,AB,Jämför casino,https://www.stodlinjen.se/
+2020-01-26,17:50,AB,Free spins,https://www.stodlinjen.se/
+2020-01-26,17:50,AB,Förslag: Öka skydd för akutpersonalen,/nyheter/a/g7ORGJ/forslaget-infor-blaljusskydd-aven-for-akutpersonal
+2020-01-26,17:50,AB,Här hittar du ALLA våra reseguider,/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:50,AB,Fantastiska FLORIDA: Alla coola resmåsten,/resa/a/PbWj7/har-hittar-du-alla-vara-reseguider--ladda-ner-redan-i-dag
+2020-01-26,17:50,AB,Skottland runt på en whiskyresa,/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:50,AB,Så maxar du resan till Gran Canaria,/resa/a/mRWzbl/whisky-aret-runt-nojet-i-skottland
+2020-01-26,17:50,AB,Det SD drömmer om, kastar S på soptippen,/ledare/a/70gjdv/det-sd-drommer-om-kastar-s-pa-soptippen
+2020-01-26,17:50,AB,Regeringen vägrar se – då växer SD och V,/debatt/a/dOBjzO/ni-vagrar-se-problemen--da-vaxer-sd-och-v
+2020-01-26,17:50,AB,Fruktad energikälla i fartfylld rapsodi,/kultur/a/e8BOyy/fruktad-energikalla-i-fartfylld-rapsodi
+2020-01-26,17:50,AB,Person hittad död i Blackeberg,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,En allvarligt skadad efter giftig gasläcka,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,Forskare: 190 000 kan snart ha smittats,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,Rebecka, 22, fick 234 dickpics på ett år: ”Har nästan slutat reagera”,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,Efter virusutbrottet: Krav på förbud mot djurmarknader,/nyheter/a/QoB3y4/person-hittad-dod-i-blackeberg
+2020-01-26,17:50,AB,OM AFTONBLADET,/a/LOlQ4/om-aftonbladet
+2020-01-26,17:50,AB,Tjuvens luriga knep för att komma åt dina besparingar,/tv/a/305640
+2020-01-26,17:50,AB,”Jag har köpt bostadrätt –  vad händer om vi gör slut?”,/minekonomi/a/K32O5y/jag-har-kopt-bostaden-sjalv--vad-hander-om-vi-gor-slut
+2020-01-26,17:50,AB,Se Blåvitts, Norrköpings och Häckens matcher live,/sportbladet/fotboll/a/MRB3gr/sportbladet-sander-blavitts-norrkopings-och-hackens-matcher
+2020-01-26,17:50,AB,Här tokhaglar det – stora som golfbollar,/tv/a/305732
+2020-01-26,17:50,AB,”Fråga doktorn”-Suzanne: Aldrig haft en dröm om barn,/nojesbladet/a/vQpMqw/har-aldrig-haft-en-drom-om-barn
+2020-01-26,17:50,AB,Veckans fråga: Kan man gå ner ett kilo i veckan?,http://viktklubb.aftonbladet.se/kampanj/artikel/32841310/hem?refpartner=aftonbladet_viktklubb_3.2841310_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:50,AB,Läkarna glömde kvar  detta i hennes kropp,/tv/a/305113
+2020-01-26,17:50,AB,Läkarna larmar – folk dör av kaoset i vården,/tv/a/304422
+2020-01-26,17:50,AB,James Bond höll sina barnbarn inlåsta i en bur,/nyheter/a/LAg16P/familj-holl-barn-inlasta-i-traburar
+2020-01-26,17:50,AB,Ta ut ditt drömlag i  PL manager vår 2020,http://kampanjer.aftonbladet.se/manager-2-3/
+2020-01-26,17:50,AB,Så kommer vi hålla oss i form under 2020,/halsa/a/XgBgrW/sa-kommer-vi-halla-oss-i-form-under-2020
+2020-01-26,17:50,AB,Hunden Taylor räddar koalor från bränderna,/tv/a/305486
+2020-01-26,17:50,AB,Här gör värmen slut på älgjakten – för alltid,/nyheter/a/jd7PxL/har-gor-varmen-slut-pa-algjakten--for-alltid
+2020-01-26,17:50,AB,Dödsfällan öppnade upp sig mitt i natten,/nyheter/a/dOBweX/dodsfallan-oppnade-upp-sig-mitt-i-natten
+2020-01-26,17:50,AB,Avslöjar dessa bilder att hon redan visste?,/tv/a/305346
+2020-01-26,17:50,AB,Lömska störningen – så upptäcker DU den,/relationer/a/Kvpwd4/okanda-storningen-farligare-an-psykopati
+2020-01-26,17:50,AB,Så vill han vrida tillbaka åldrandet,/nyheter/a/lAWB9k/har-professorn-hittat-ungdomens-kalla
+2020-01-26,17:50,AB,Ny forskning: Glöm 10 000 steg – så lite kan du gå,/halsa/a/zG3an1/ny-forskning-farre-steg-racker-for-halsoeffekt
+2020-01-26,17:50,AB,Mamman festade då tvååringen försvann,/nyheter/krim/a/Jo29rR/usas-mest-hatade-mamma-jag-sover-ganska-gott-pa-natterna
+2020-01-26,17:50,AB,Vad kan man byta allt onödigt socker mot?,http://viktklubb.aftonbladet.se/kampanj/artikel/19849050/hem?refpartner=aftonbladet_viktklubb_1.9849050_pilram_mat_&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:50,AB,Var trött i 25 år – så blev han botad,/halsa/a/3Jer6v/leifs-trotthet-var-brist-pa-testosteron
+2020-01-26,17:50,AB,Testa dig själv: Hur bra är du i sängen?,/relationer/a/opBmoa/testa-dig-sjalv-ar-du-bra-i-sangen
+2020-01-26,17:50,AB,Ingen vet hur länge det märkliga djuret kan leva,/tv/a/304404
+2020-01-26,17:50,AB,Testa dina matvanor: Så här bra äter du,http://viktklubb.aftonbladet.se/kampanj/artikel/19505143/hem?refpartner=aftonbladet_viktklubb_1.9505143_pilram_mat&utm_source=pilram&utm_medium=aftonbladet&utm_campaign=mat
+2020-01-26,17:53,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:53,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:54,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:55,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:55,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:56,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:57,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,17:57,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,17:57,GP,Ledare i blåsväder ska presentera fredsplan,https://gp.se/nyheter/v%C3%A4rlden/ledare-i-bl%C3%A5sv%C3%A4der-ska-presentera-fredsplan-1.23129664
+2020-01-26,17:59,AB,,
+2020-01-26,18:00,GP,Hunden Billie förgiftad av amfetamin i Majorna,https://gp.se/nyheter/g%C3%B6teborg/hunden-billie-f%C3%B6rgiftad-av-amfetamin-i-majorna-1.23128928
+2020-01-26,18:00,GP,Nederländerna ber judar om ursäkt,https://gp.se/nyheter/v%C3%A4rlden/nederl%C3%A4nderna-ber-judar-om-urs%C3%A4kt-1.23129818
