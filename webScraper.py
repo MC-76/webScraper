@@ -22,17 +22,22 @@
 # TODO: Fixa hjälpmeny
 # OK Fixa folder om den inte finns
 # OK Gör om label så att den hämtar tid från os (efter gp och idg har olika tider)
-# TODO: Fixa länk, står https://gp.se framför alla länkar
+# DONE: Fixa länk, står https://gp.se framför alla länkar
+# DONE: FIX SOURCE
+# DONE: Ta bort dubble // i idg länk
+# DONE: Begränsa output när man visar länkar
+# TODO: Städa kod!
+# TODO: Fixa if logic --- igna if not -- endast if flag osv
+
 
 # Moved to public GIT: https://github.com/MC-76/webScraper
 
 
 
-from func import MyNews, getPageInfo, checkIfExists, getPageInfoIDG             # News Class (not really needed)
-#from func import checkIfExists      # Check if item has been showed
+from func import MyNews, getPageInfo, checkIfExists, getPageInfoIDG             
+
 import os                           # Check if folder exists
-# import requests
-# from bs4 import BeautifulSoup
+
 import time                         # for sleep
 import datetime                     # for logfilename
 import sys,getopt                   # for args
@@ -41,15 +46,16 @@ from misc import highLights
 
 newsFlow = []
 unProcessedNews = []
-#globalVar = Globals()              # Class with global vars
 flagSilent = False
 flagLinks = False                   # display links in output?
 flagOnlyHiglights = False           # If True, only print if news is in highlight list
 path = './newsLog/'                 # Where newslog is stored
 waitTime = 60                       # Wait in sec between polling
+#MAX_TITLE_LENGHT = 40               # Max lenght of title URL when showing links
 
-#check arg (-s = silent, only write to logg)
-#-i Only print if object is in highLight list
+
+
+
 try:
     opts, args = getopt.getopt(sys.argv[1:],'sil')
 except: # Ignore wrong arguments
@@ -86,22 +92,30 @@ while True: # Run forever
     ## NEXT
 
     for news in unProcessedNews:
-        if not checkIfExists(news.title,newsFlow):
+        if not checkIfExists(news.title,newsFlow): # Behövs funktion för detta?
             newsFlow.append(news)
 
-            if flagOnlyHiglights:
+            if flagOnlyHiglights and not flagSilent:
                 for word in highLights:
-                    if word in title:
-                        if not flagSilent:
-                            print('\007')       # Print sound?!?
-                            print(f'{news.label}   {news.title}   https://{news.url}')
+                    if word in news.title:
+                        #if not flagSilent:
+                        trimmed_title = "{:<80}".format(news.title[:80]) 
+                        print(f'{news.label}\t{news.source}\t{trimmed_title}{news.url}')  # FUL OUTPUT, BEGRÄNSA TILL 25 tecken eller liknande
+                        print('\007')       # Print sound?!?
                     #print(f'*** {word} is found! ***')
             else:
-                if not flagSilent:
+                if not flagSilent:  #Skum logic
                     if not flagLinks:
-                            print(f'{news.label}   {news.title}')
+                        trimmed_title = "{:<160}".format(news.title[:160]) 
+                        print(f'{news.label}\t{news.source}\t{trimmed_title}')
                     else:
-                            print(f'{news.label}   {news.title}   https://gp.se{news.url}')    
+                            # Always trim?              
+                            trimmed_title = "{:<80}".format(news.title[:80]) 
+                            print(f'{news.label}\t{news.source}\t{trimmed_title}\t{news.url}')
+                            #print(f'{news.label}\t{news.source}\t{news.title[:<trim].}\t\t{news.url}')
+                        # else:
+                        #     print('*')
+                        #     print(f'{news.label}\t{news.source}\t{news.title}\t{news.url}')
             
             
             # Clear buffer when new date
@@ -109,9 +123,10 @@ while True: # Run forever
                 newsFlow.clear()
                 #print('Buffer cleared!')
 
+            # Save news
             with open(f'{path}{datetime.date.today()}-newsLog.txt','a') as fp:
                 lastFileDate = datetime.date.today()
-                fp.write(str(f'{lastFileDate},{news.label},{news.title},https://gp.se{news.url}\n'))
+                fp.write(str(f'{lastFileDate},{news.label},{news.source},{news.title},{news.url}\n'))
 
     # Clear unprocessed Que...should be processed by now       
     unProcessedNews.clear()
