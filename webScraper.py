@@ -93,8 +93,8 @@ if not os.path.exists(path):
 
 while True: # Run forever
     logger.debug('Starting new loop')
-    #unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
-    #unProcessedNews += getPageInfoIDG('https://idg.se','mostPopularList','articleDate','not_used')
+    unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
+    unProcessedNews += getPageInfoIDG('https://idg.se','mostPopularList','articleDate','not_used')
     unProcessedNews += getPageInfoAB('https://aftonbladet.se','HLf1C','c-teaser-list__item__title','not-used')
     # ... Other news
     

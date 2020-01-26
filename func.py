@@ -79,30 +79,23 @@ def getPageInfoAB(inputURL,inputClass,inputLabel,inputTitle):
     page = requests.get(inputURL)
     soup = BeautifulSoup(page.text, 'html.parser')
 
-    for headlines in soup.find_all('h3'): 
-        
-        #print(headlines)             
-        #for item in headlines.find_all(class_=inputTitle):
-        #    title = item.text.strip()
-                
-        for item in headlines.find_all('h3'):
-            title = item.text.strip()
-            #print(title)
-        for link in headlines.find_all('a'):
-            url = link.get('href')
-            #print(url)
+    for headlines in soup.find_all(id='supernytt'): 
+        #print(headlines.prettify()) 
 
-    # for headlines in soup.find_all(id="supernytt"):
-    #     for label in headlines.find_all(class_='HLf1C'):
-    #         label = label.text.strip()
-    #         for link in headlines.find_all('a'):
-    #             title = link.get('title')
-    #             url = link.get('href')
+        for x in headlines.find_all(class_='HLf1C'):
 
-            
-        #url = f'https://gp.se{url}'
-        label = datetime.now().strftime('%H:%M')
-        newsCollection.append(MyNews(label,title,url,source))
+            for item in x.find_all('h3'):
+                title = item.text.strip()
+                #print(item.prettify())
+                #print(title)
+            for link in x.find_all('a'):
+                url = link.get('href')
+                #print(url)
+                    
+                #url = f'https://gp.se{url}'
+                #print(f'{title}\t{url}')
+                label = datetime.now().strftime('%H:%M')
+                newsCollection.append(MyNews(label,title,url,source))
     
     return newsCollection
         

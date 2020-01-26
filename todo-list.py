@@ -1,10 +1,10 @@
 #-= First is most important =-
+# TODO: Hämta nyheter från AB
 # TODO: Spara ner texten från artiklar
 # TODO: Hämta inställningar från en ini fil
 # TODO: Publicera i Flask
 # TODO: Check write sound - does it work?
 # TODO: Check highlight in lowercase
-# TODO: Fix .gitignore
 # TODO: Kolla om requests.get(inputURL) använder logger - https://gp.se:443 "GET / HTTP/1.1" 301 0
 
 #-= DONE =-
@@ -22,3 +22,4 @@
 # DONE: Städa kod!
 # DONE: Fixa if logic --- igna if not -- endast if flag osv
 # DONE: Create systemlogg
+# DONE: Fix .gitignore

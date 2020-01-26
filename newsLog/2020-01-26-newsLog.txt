@@ -1037,3 +1037,127 @@
 2020-01-26,17:59,AB,,
 2020-01-26,18:00,GP,Hunden Billie förgiftad av amfetamin i Majorna,https://gp.se/nyheter/g%C3%B6teborg/hunden-billie-f%C3%B6rgiftad-av-amfetamin-i-majorna-1.23128928
 2020-01-26,18:00,GP,Nederländerna ber judar om ursäkt,https://gp.se/nyheter/v%C3%A4rlden/nederl%C3%A4nderna-ber-judar-om-urs%C3%A4kt-1.23129818
+2020-01-26,18:05,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,18:05,GP,Teknikstrul för SEB-kunder,https://gp.se/ekonomi/teknikstrul-f%C3%B6r-seb-kunder-1.23130078
+2020-01-26,18:05,GP,Assist av Lindelöf i Uniteds storseger,https://gp.se/sport/assist-av-lindel%C3%B6f-i-uniteds-storseger-1.23130061
+2020-01-26,18:05,GP,Jallow om blåvita debuten: "Fantastiskt",https://gp.se/sport/fotboll/jallow-om-bl%C3%A5vita-debuten-fantastiskt-1.23129978
+2020-01-26,18:06,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,18:06,AB,,https://live.aftonbladet.se/supernytt
+2020-01-26,18:07,AB,Strömavbrott påverkar galleria,https://live.aftonbladet.se/supernytt
+2020-01-26,18:07,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:08,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:08,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:10,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:10,IDG,På sistone verkar tanken att skippa en arbetsdag i veckan börjat få fäste. I Finland vill statsministern införa det, Microsoft har testat med framgång i Japan och nu ska svenska digitalbyrån Topvisible prova på det ­– fast utan att korta arbetstiden.,https://computersweden.idg.se/2.2683/1.729673/fyradagarsvecka-svensk-digitalbyra
+2020-01-26,18:10,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:11,GP,Spanien försvarade EM-guld – vann finalrysare,https://gp.se/sport/spanien-f%C3%B6rsvarade-em-guld-vann-finalrysare-1.23130397
+2020-01-26,18:11,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt
+2020-01-26,18:12,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:13,AB,Supernytt,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:13,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:13,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:13,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:13,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:13,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Supernytt,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Supernytt,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:14,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:15,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:15,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt
+2020-01-26,18:15,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt
+2020-01-26,18:15,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt
+2020-01-26,18:15,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt
+2020-01-26,18:15,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:17,AB,Supernytt,
+2020-01-26,18:17,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,
+2020-01-26,18:17,AB,UD avråder från resor,
+2020-01-26,18:17,AB,Arbetslösas pengar gick till spelmissbruk,
+2020-01-26,18:17,AB,Storbankens tjänster ligger nere,
+2020-01-26,18:17,AB,Två döda i skottlossning på bar,
+2020-01-26,18:18,GP,Raketattack mot Bagdads gröna zon,https://gp.se/nyheter/v%C3%A4rlden/raketattack-mot-bagdads-gr%C3%B6na-zon-1.23130503
+2020-01-26,18:19,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:19,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt
+2020-01-26,18:19,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt
+2020-01-26,18:19,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt
+2020-01-26,18:19,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt
+2020-01-26,18:19,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,IDG,Högsta domstolen i Danmark säger att domen kvarstår mot ägaren av en sajt som gav detaljerade instruktioner gällande hur man använder Popcorn Time.,https://computersweden.idg.se/2.2683/1.729466/popcorn-time-domd-fangelse
+2020-01-26,18:20,AB,Supernytt,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt
+2020-01-26,18:20,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt
+2020-01-26,18:23,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:23,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:23,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,18:23,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,18:23,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,18:23,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:23,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,18:23,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,18:23,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,18:23,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,18:24,GP,Bomber desarmeras inför Teslas fabriksbygge,https://gp.se/ekonomi/bomber-desarmeras-inf%C3%B6r-teslas-fabriksbygge-1.23130607
+2020-01-26,18:35,GP,Snart kan britterna betala med brexitmynt,https://gp.se/nyheter/v%C3%A4rlden/snart-kan-britterna-betala-med-brexitmynt-1.23130952
+2020-01-26,18:38,GP,Bonusföräldrar, stjärnfamiljer och regnbågsbarn – så ärver du,https://gp.se/ekonomi/bonusf%C3%B6r%C3%A4ldrar-stj%C3%A4rnfamiljer-och-regnb%C3%A5gsbarn-s%C3%A5-%C3%A4rver-du-1.23045944
+2020-01-26,18:42,GP,Sjöström avslutade med seger och rekord,https://gp.se/sport/sj%C3%B6str%C3%B6m-avslutade-med-seger-och-rekord-1.23131168
+2020-01-26,18:44,GP,Coronautbrottet växer i styrka,https://gp.se/nyheter/v%C3%A4rlden/coronautbrottet-v%C3%A4xer-i-styrka-1.23107166
+2020-01-26,18:44,IDG,Teslas snabba frammarsch har gjort de traditionella biltillverkarna rejält nervösa. Här är några av utmanarna på den stekheta elbilsmarknaden.,https:/2.1085/1.654416/tesla-allt-elbilen-modeller
+2020-01-26,18:53,IDG,En ny jätteläcka har drabbat Microsoft. I december förra året låg företagets supportdatabas öppen under tre veckor och exponerade 250 miljoner kunduppgifter.,https://computersweden.idg.se/2.2683/1.729586/microsoft-lackte-personuppgifter
+2020-01-26,19:03,GP,Johnsson har rest sig – starkare än någonsin,https://gp.se/sport/ishockey/andreas-johnsson-har-rest-sig-starkare-%C3%A4n-n%C3%A5gonsin-1.23059947
+2020-01-26,19:06,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:06,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:06,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,19:06,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,19:06,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,19:08,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:08,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:08,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,19:08,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,19:08,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,19:08,GP,Johnsson har rest sig – starkare än någonsin,https://gp.se/sport/ishockey/andreas-johnsson-har-rest-sig-starkare-%C3%A4n-n%C3%A5gonsin-1.23059947
+2020-01-26,19:08,GP,Coronautbrottet växer i styrka,https://gp.se/nyheter/v%C3%A4rlden/coronautbrottet-v%C3%A4xer-i-styrka-1.23107166
+2020-01-26,19:08,GP,Sjöström avslutade med seger och rekord,https://gp.se/sport/sj%C3%B6str%C3%B6m-avslutade-med-seger-och-rekord-1.23131168
+2020-01-26,19:08,IDG,Den skadliga koden har nu raderats från infekterade datorer runt om i världen. Men vem som står bakom raderingen är fortfarande ett mysterium.,https://techworld.idg.se/2.2524/1.729674/phorpiex-har-hackats
+2020-01-26,19:08,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:08,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:08,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,19:08,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,19:08,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
+2020-01-26,19:11,GP,Girjas: Sålda fiskekort gäller,https://gp.se/nyheter/sverige/girjas-s%C3%A5lda-fiskekort-g%C3%A4ller-1.23131865
+2020-01-26,19:15,GP,Riksrättsåklagare anklagar Trump för hot,https://gp.se/nyheter/v%C3%A4rlden/riksr%C3%A4tts%C3%A5klagare-anklagar-trump-f%C3%B6r-hot-1.23132240
+2020-01-26,19:16,IDG,Angreppen i form av skadliga appar inom både Android- och Iphone-systemen ökar allt mer. Framförallt Google har utmaningar i att hålla Google Play städat från skadliga appar. Nu kommer skydd mot skadliga appar med hjälp av djupinlärning.,https://techworld.idg.se/2.2524/1.729267/djupinlarning-sophos-mobiler
+2020-01-26,19:20,IDG,Enligt en undersökning från Telenor och Sifo är nio av tio anställda på svenska företag en säkerhetsrisk. Vanligaste riskbeteendet är osäkra lösenord, och allra värst är det med de yngre.,https://computersweden.idg.se/2.2683/1.729680/telenor-anstallda-sakerhetsrisk
+2020-01-26,19:22,GP,Fredriksons säsong kan vara över – igen,https://gp.se/sport/fredriksons-s%C3%A4song-kan-vara-%C3%B6ver-igen-1.23131752
+2020-01-26,19:22,GP,Litet barn påkört vid övergångsställe,https://gp.se/nyheter/sverige/litet-barn-p%C3%A5k%C3%B6rt-vid-%C3%B6verg%C3%A5ngsst%C3%A4lle-1.23132495
+2020-01-26,19:27,GP,Fredriksons säsong kan vara över – igen,https://gp.se/sport/fredriksons-s%C3%A4song-kan-vara-%C3%B6ver-igen-1.23131752
+2020-01-26,19:27,GP,Litet barn påkört vid övergångsställe,https://gp.se/nyheter/sverige/litet-barn-p%C3%A5k%C3%B6rt-vid-%C3%B6verg%C3%A5ngsst%C3%A4lle-1.23132495
+2020-01-26,19:27,GP,Riksrättsåklagare anklagar Trump för hot,https://gp.se/nyheter/v%C3%A4rlden/riksr%C3%A4tts%C3%A5klagare-anklagar-trump-f%C3%B6r-hot-1.23132240
+2020-01-26,19:27,IDG,Enligt en undersökning från Telenor och Sifo är nio av tio anställda på svenska företag en säkerhetsrisk. Vanligaste riskbeteendet är osäkra lösenord, och allra värst är det med de yngre.,https://computersweden.idg.se/2.2683/1.729680/telenor-anstallda-sakerhetsrisk
+2020-01-26,19:27,AB,Två döda i skottlossning på bar,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:27,AB,Fem raketer har slagit ner nära USA:s ambassad i Irak,https://live.aftonbladet.se/supernytt/news/5e2dc732f7cd94001108540c
+2020-01-26,19:27,AB,UD avråder från resor,https://live.aftonbladet.se/supernytt/news/5e2daab9f7cd9400110853eb
+2020-01-26,19:27,AB,Arbetslösas pengar gick till spelmissbruk,https://live.aftonbladet.se/supernytt/news/5e2da9004f99ef0011035f67
+2020-01-26,19:27,AB,Storbankens tjänster ligger nere,https://live.aftonbladet.se/supernytt/news/5e2da78957f8310011ac2a64
