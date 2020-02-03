@@ -1,16 +1,19 @@
 #-= First is most important =-
-# DONE: Hämta nyheter från AB
+# TODO: Fixa Lastest news
+# TODO: Rensa samtlig text varje dygn
 # TODO: Spara ner texten från artiklar
 # TODO: Hämta inställningar från en ini fil
 # TODO: Publicera i Flask
 # TODO: Check write sound - does it work?
-# TODO: Check highlight in lowercase
 # TODO: Kolla om requests.get(inputURL) använder logger - https://gp.se:443 "GET / HTTP/1.1" 301 0
 # TODO: Highlighta i streamlit om artikeln finns i register
 # TODO: FIXA IDG länkar 
 
 #-= DONE =-
+# DONE: Check highlight in lowercase
+# DONE: Highlighta i streamlit om artikeln finns i register
 # DONE: Fixa hjälpmeny
+# DONE: Hämta nyheter från AB
 # DONE: Fixa folder om den inte finns
 # DONE: Gör om label så att den hämtar tid från os (efter gp och idg har olika tider)
 # DONE: Fixa länk, står https://gp.se framför alla länkar

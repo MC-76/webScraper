@@ -42,3 +42,568 @@
 2020-02-03,05:18,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
 2020-02-03,05:25,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
 2020-02-03,05:39,GP,Misstänkta koppartjuvar orsakade tågstopp,https://gp.se/nyheter/sverige/misst%C3%A4nkta-koppartjuvar-orsakade-t%C3%A5gstopp-1.23451432
+2020-02-03,06:00,GP,FN-kontor angripna av hackare – höll tyst,https://gp.se/nyheter/v%C3%A4rlden/fn-kontor-angripna-av-hackare-h%C3%B6ll-tyst-1.23451507
+2020-02-03,06:01,GP,Knivman dömd för terrorbrott,https://gp.se/nyheter/v%C3%A4rlden/knivman-d%C3%B6md-f%C3%B6r-terrorbrott-tidigare-1.23451278
+2020-02-03,06:01,GP,Kansas City Super Bowl-mästare,https://gp.se/sport/kansas-city-m%C3%A4stare-efter-sen-v%C3%A4ndning-1.23451050
+2020-02-03,06:05,GP,AF: Nyanlända kvinnor får sämre chans,https://gp.se/nyheter/sverige/af-nyanl%C3%A4nda-kvinnor-f%C3%A5r-s%C3%A4mre-chans-1.23451614
+2020-02-03,06:19,GP,500 turister instängda efter jordskred,https://gp.se/nyheter/v%C3%A4rlden/500-turister-inst%C3%A4ngda-efter-jordskred-1.23452310
+2020-02-03,06:19,IDG,Den svenska marknaden för internetaccesser har begåvats med en ny definition av vad internetaccess faktiskt är. Internetstiftelsen, Netnod och 40 olika organisationer har spikat vad en internetaccess ska innehålla och hur det ska mätas.,https://computersweden.idg.se/2.2683/1.717925/ny-definition-internetuppkoppling
+2020-02-03,06:20,GP,Stora prisskillnader mellan tandläkare,https://gp.se/nyheter/sverige/stora-prisskillnader-mellan-tandl%C3%A4kare-1.23452672
+2020-02-03,06:20,GP,Dans som prisar bebisars intellekt,https://gp.se/kultur/kultur-n%C3%B6je/dans-som-prisar-bebisars-intellekt-1.23452514
+2020-02-03,06:24,GP,Att gå i skolan gör elever sjuka: ”Vill bara gå hem”,https://gp.se/nyheter/g%C3%B6teborg/axel-och-lucas-10-blev-sjuka-av-att-g%C3%A5-i-%C3%A5keredsskolan-1.23342003
+2020-02-03,06:24,GP,Skolan är utdömd – ändå fortsätter undervisningen,https://gp.se/nyheter/g%C3%B6teborg/%C3%A5keredsskolan-%C3%A4r-utd%C3%B6md-%C3%A4nd%C3%A5-forts%C3%A4tter-undervisningen-1.23330059
+2020-02-03,06:25,GP,Linde möter Lavrov: Viktigt med nära kontakt,https://gp.se/nyheter/sverige/linde-m%C3%B6ter-lavrov-viktigt-med-n%C3%A4ra-kontakt-1.23452824
+2020-02-03,06:29,GP,Persbrandts röst ska få folk att somna,https://gp.se/kultur/kultur-n%C3%B6je/persbrandts-r%C3%B6st-ska-f%C3%A5-folk-att-somna-1.23452908
+2020-02-03,06:33,AB,Flicka död – nedsprungen av häst,https://live.aftonbladet.se/supernytt/news/5e37b050a6db5200113d961e
+2020-02-03,06:41,GP,Virusoro driver guldpriset mot toppnivåer,https://gp.se/ekonomi/virusoro-driver-guldpriset-mot-toppniv%C3%A5er-1.23453242
+2020-02-03,06:54,GP,Lopez och Shakira hyllade efter sin show,https://gp.se/kultur/kultur-n%C3%B6je/lopez-och-shakira-hyllade-efter-sin-show-1.23453354
+2020-02-03,06:58,GP,Tonårsflicka död – blev nersprungen av häst,https://gp.se/nyheter/sverige/ton%C3%A5rsflicka-d%C3%B6d-blev-nersprungen-av-h%C3%A4st-1.23453404
+2020-02-03,07:00,GP,Duplantis: "Har aldrig känt mig så här bra",https://gp.se/sport/duplantis-har-aldrig-k%C3%A4nt-mig-s%C3%A5-h%C3%A4r-bra-1.23453561
+2020-02-03,07:02,GP,Tröttsamma schablonbilder i "Tsunami",https://gp.se/kultur/kultur/recension-tsunami-svt-1.23443955
+2020-02-03,07:02,GP,Inför derbyt – tuffingen är tillbaka i Sävehof,https://gp.se/sport/handboll/christoffer-br%C3%A4nnberger-tillbaka-i-s%C3%A4vehof-inf%C3%B6r-derbyt-1.23447093
+2020-02-03,07:02,GP,"Trillade ned i samma trollgryta som Obelix",https://gp.se/sport/handboll/redbergslids-fystr%C3%A4nare-om-derbymotst%C3%A5ndaren-s%C3%A4vehof-1.23447378
+2020-02-03,07:10,GP,Fler döda i coronaviruset än i sars,https://gp.se/nyheter/v%C3%A4rlden/fler-d%C3%B6da-i-coronaviruset-%C3%A4n-i-sars-1.23454099
+2020-02-03,07:13,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-03,07:16,GP,Tele2 höjer utdelningen,https://gp.se/ekonomi/tele2-h%C3%B6jer-utdelningen-1.23454629
+2020-02-03,07:17,GP,Rusning efter vego i butiken,https://gp.se/ekonomi/rusning-efter-vego-i-butiken-1.23454778
+2020-02-03,07:23,GP,Fyra turkiska soldater döda i syrisk räd,https://gp.se/nyheter/v%C3%A4rlden/fyra-turkiska-soldater-d%C3%B6da-i-syrisk-r%C3%A4d-1.23454962
+2020-02-03,07:34,GP,Sänkt utdelning från Tele2,https://gp.se/ekonomi/s%C3%A4nkt-utdelning-fr%C3%A5n-tele2-1.23454629
+2020-02-03,07:43,GP,Kinesiskt börsras kan slå mot global tillväxt,https://gp.se/ekonomi/kinesiskt-b%C3%B6rsras-kan-sl%C3%A5-mot-global-tillv%C3%A4xt-1.23455359
+2020-02-03,07:43,AB,Börsras i Kina,https://live.aftonbladet.se/supernytt/news/5e37c10d85ec770011af7963
+2020-02-03,07:49,GP,Tonårsflicka död – nersprungen av häst,https://gp.se/nyheter/sverige/ton%C3%A5rsflicka-d%C3%B6d-nersprungen-av-h%C3%A4st-1.23453404
+2020-02-03,07:49,GP,Kinabörserna rasar efter epidemin,https://gp.se/ekonomi/kinab%C3%B6rserna-rasar-efter-epidemin-1.23455395
+2020-02-03,07:55,GP,Därför kommer Postnord inte att gå i konkurs,https://gp.se/ekonomi/d%C3%A4rf%C3%B6r-kommer-postnord-inte-att-g%C3%A5-i-konkurs-1.23364299
+2020-02-03,07:55,GP,Turkiska soldater döda i syrisk räd,https://gp.se/nyheter/v%C3%A4rlden/turkiska-soldater-d%C3%B6da-i-syrisk-r%C3%A4d-1.23454962
+2020-02-03,07:55,GP,Ingen gripen för explosion i Helsingborg,https://gp.se/nyheter/sverige/ingen-gripen-f%C3%B6r-explosion-i-helsingborg-1.23450425
+2020-02-03,07:56,GP,Massiv kritik mot omgjort spel,https://gp.se/kultur/kultur-n%C3%B6je/massiv-kritik-mot-omgjort-spel-1.23456390
+2020-02-03,07:56,GP,Blöt vinter får skogsnäringen att halka efter,https://gp.se/ekonomi/bl%C3%B6t-vinter-f%C3%A5r-skogsn%C3%A4ringen-att-halka-efter-1.23456265
+2020-02-03,07:56,GP,Professor: Spel har uppnått en mognadsålder,https://gp.se/kultur/kultur-n%C3%B6je/professor-spel-har-uppn%C3%A5tt-en-mognads%C3%A5lder-1.23456200
+2020-02-03,08:01,GP,Förbundets plan – betala 2 miljarder till offren,https://gp.se/sport/f%C3%B6rbundets-plan-betala-2-miljarder-till-offren-1.23456697
+2020-02-03,08:01,GP,Viruset stoppar inte OS,https://gp.se/sport/viruset-stoppar-inte-os-1.23456615
+2020-02-03,08:04,GP,Förbundets plan – 2 miljarder till offren,https://gp.se/sport/f%C3%B6rbundets-plan-2-miljarder-till-offren-1.23456697
+2020-02-03,08:05,GP,Bil i diket på E45,https://gp.se/nyheter/g%C3%B6teborg/bil-i-diket-p%C3%A5-e45-1.23456808
+2020-02-03,08:18,GP,Man misstänkt för våldtäkt – greps i bostad,https://gp.se/nyheter/sverige/man-misst%C3%A4nkt-f%C3%B6r-v%C3%A5ldt%C3%A4kt-greps-i-bostad-1.23457265
+2020-02-03,08:28,GP,Planen – 2 miljarder till läkarens offer,https://gp.se/sport/f%C3%B6rbundets-plan-2-miljarder-till-offren-1.23456697
+2020-02-03,08:33,GP,Fler aktiebolag med nya regler,https://gp.se/ekonomi/fler-aktiebolag-med-nya-regler-1.23457599
+2020-02-03,08:35,GP,Många döda i syrisk-turkiska strider,https://gp.se/nyheter/v%C3%A4rlden/m%C3%A5nga-d%C3%B6da-i-syrisk-turkiska-strider-1.23454962
+2020-02-03,08:38,GP,Frontalkrock i Mark – väg avstängd,https://gp.se/nyheter/v%C3%A4stsverige/frontalkrock-i-mark-v%C3%A4g-avst%C3%A4ngd-1.23457789
+2020-02-03,08:40,GP,Ljusare tecken på konjunkturhimlen,https://gp.se/ekonomi/ljusare-tecken-p%C3%A5-konjunkturhimlen-1.23457837
+2020-02-03,08:52,GP,Virusoro kan slå mot global tillväxt,https://gp.se/ekonomi/virusoro-kan-sl%C3%A5-mot-global-tillv%C3%A4xt-1.23455359
+2020-02-03,08:52,GP,CTT Systems får Airbus-order,https://gp.se/ekonomi/ctt-systems-f%C3%A5r-airbus-order-1.23458429
+2020-02-03,09:03,GP,Ingen förstod varför Jonathan, 19, dog,https://gp.se/livsstil/jonathan-blev-bara-19-%C3%A5r-dog-i-%C3%A4rftlig-hj%C3%A4rtsjukdom-1.22899470
+2020-02-03,09:05,GP,Så ska koldioxiden låsas in i berget för gott,https://gp.se/nyheter/sverige/s%C3%A5-ska-koldioxiden-l%C3%A5sas-in-i-berget-f%C3%B6r-gott-1.23458751
+2020-02-03,09:08,GP,Vi får inte glömma bort vikten av att koka kaffe,https://gp.se/kultur/kultur/vi-f%C3%A5r-inte-gl%C3%B6mma-bort-vikten-av-att-koka-kaffe-1.23266326
+2020-02-03,09:08,GP,Nya regler: Körkortsfusk kan ge fängelse,https://gp.se/nyheter/sverige/nya-regler-k%C3%B6rkortsfusk-kan-ge-f%C3%A4ngelse-1.23458943
+2020-02-03,09:11,AB,Stockholmsbörsen trotsar Kinaoro,https://live.aftonbladet.se/supernytt/news/5e37d57b85ec770011af7967
+2020-02-03,09:12,GP,Börsen trotsar Kinaoro,https://gp.se/ekonomi/b%C3%B6rsen-trotsar-kinaoro-1.23459006
+2020-02-03,09:20,GP,Boeings Maxproblem sinkar Ryanair,https://gp.se/ekonomi/boeings-maxproblem-sinkar-ryanair-1.23459149
+2020-02-03,09:21,GP,Frölundas drömbesked – trion tillbaka till finalen,https://gp.se/sport/ishockey/fr%C3%B6lundas-sk%C3%B6na-tillskott-inf%C3%B6r-finalen-trio-tillbaka-1.23459277
+2020-02-03,09:26,GP,Rekordhög andel sålda laddbara bilar,https://gp.se/ekonomi/rekordh%C3%B6g-andel-s%C3%A5lda-laddbara-bilar-1.23459439
+2020-02-03,09:30,GP,Koppartjuvar härjar – tåg blir stående,https://gp.se/nyheter/sverige/koppartjuvar-h%C3%A4rjar-t%C3%A5g-blir-st%C3%A5ende-1.23451432
+2020-02-03,09:30,GP,Kritiken mot Trump efter pinsamma missen: "Idiot",https://gp.se/sport/kritiken-mot-trump-efter-pinsamma-missen-idiot-1.23459659
+2020-02-03,09:31,GP,Frölundas drömbesked inför finalen,https://gp.se/sport/ishockey/fr%C3%B6lundas-sk%C3%B6na-tillskott-inf%C3%B6r-finalen-trio-tillbaka-1.23459277
+2020-02-03,09:41,GP,Trump hånas efter Kansasfel: "Idiot",https://gp.se/sport/trump-h%C3%A5nas-efter-kansasfel-idiot-1.23459974
+2020-02-03,09:41,GP,IP-Only vill bli ledande i Nordeuropa,https://gp.se/ekonomi/ip-only-vill-bli-ledande-i-nordeuropa-1.23459805
+2020-02-03,09:44,GP,Brexit är över – nu börjar handelskampen,https://gp.se/nyheter/v%C3%A4rlden/brexit-%C3%A4r-%C3%B6ver-nu-b%C3%B6rjar-handelskampen-1.23460477
+2020-02-03,09:47,GP,Därför drivs guldpriset i höjden efter virusutbrottet,https://gp.se/ekonomi/virusoro-driver-guldpriset-mot-toppniv%C3%A5er-1.23460274
+2020-02-03,09:54,GP,Börsen vänder ned,https://gp.se/ekonomi/b%C3%B6rsen-v%C3%A4nder-ned-1.23459006
+2020-02-03,09:54,GP,Därför går guldpriset i höjden,https://gp.se/ekonomi/virusoro-driver-guldpriset-mot-toppniv%C3%A5er-1.23460274
+2020-02-03,09:54,AB,Man försvunnen på fjället,https://live.aftonbladet.se/supernytt/news/5e37df8785ec770011af796c
+2020-02-03,09:59,GP,Djokovic på tennistronen igen,https://gp.se/sport/djokovic-p%C3%A5-tennistronen-igen-1.23461062
+2020-02-03,10:04,GP,Veckans kulturmåsten i Göteborg,https://gp.se/kultur/kultur/veckans-kulturm%C3%A5sten-i-g%C3%B6teborg-vecka-6-1.23460613
+2020-02-03,10:17,GP,Rekordår för Sveriges djurparker,https://gp.se/ekonomi/rekord%C3%A5r-f%C3%B6r-sveriges-djurparker-1.23461531
+2020-02-03,10:27,AB,Nooshi Dadgostar kandiderar för V,https://live.aftonbladet.se/supernytt/news/5e37e732a6db5200113d9634
+2020-02-03,10:33,GP,Ulf Johansson lämnar "Uppdrag granskning",https://gp.se/kultur/kultur/ulf-johansson-l%C3%A4mnar-uppdrag-granskning-1.23462661
+2020-02-03,10:33,GP,Hongkongs ekonomiska nedgång fördjupas,https://gp.se/ekonomi/hongkongs-ekonomiska-nedg%C3%A5ng-f%C3%B6rdjupas-1.23462604
+2020-02-03,10:36,GP,Mamma åtalas för mord på sin fyraåring,https://gp.se/nyheter/v%C3%A4stsverige/mamma-%C3%A5talas-f%C3%B6r-mord-p%C3%A5-sin-fyra%C3%A5ring-1.23462749
+2020-02-03,10:36,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,10:38,GP,Vård för klimakteriebesvär ska ses över,https://gp.se/nyheter/sverige/v%C3%A5rd-f%C3%B6r-klimakteriebesv%C3%A4r-ska-ses-%C3%B6ver-1.23463036
+2020-02-03,10:38,GP,Två begärs häktade efter våldsamt gårdsrån,https://gp.se/nyheter/sverige/tv%C3%A5-beg%C3%A4rs-h%C3%A4ktade-efter-v%C3%A5ldsamt-g%C3%A5rdsr%C3%A5n-1.23462967
+2020-02-03,10:41,AB,Hongkong stänger Kina-gränsen ytterligare,https://live.aftonbladet.se/supernytt/news/5e37ea8aa6db5200113d9637
+2020-02-03,10:42,GP,Iran slutar dela bevis med Ukraina,https://gp.se/nyheter/v%C3%A4rlden/iran-slutar-dela-bevis-med-ukraina-1.23463298
+2020-02-03,10:42,GP,Dadgostar vill bli Vänsterledare,https://gp.se/nyheter/sverige/dadgostar-vill-bli-v%C3%A4nsterledare-1.23463261
+2020-02-03,10:47,AB,Bil och lastbil i olycka,https://live.aftonbladet.se/supernytt/news/5e37ebed54ab5b0011727d89
+2020-02-03,10:51,GP,Kvinna åtalas för att ha strypt sin son,https://gp.se/nyheter/sverige/kvinna-%C3%A5talas-f%C3%B6r-att-ha-strypt-sin-son-1.23463634
+2020-02-03,10:54,GP,Dadgostar vill bli ny Vänsterledare,https://gp.se/nyheter/sverige/dadgostar-vill-bli-ny-v%C3%A4nsterledare-1.23463261
+2020-02-03,10:55,GP,M vill strama åt arbetskraftsinvandring,https://gp.se/nyheter/sverige/m-vill-strama-%C3%A5t-arbetskraftsinvandring-1.23464014
+2020-02-03,11:01,GP,Duo begärs häktad efter våldsamma gårdsrån,https://gp.se/nyheter/sverige/duo-beg%C3%A4rs-h%C3%A4ktad-efter-v%C3%A5ldsamma-g%C3%A5rdsr%C3%A5n-1.23462967
+2020-02-03,11:05,GP,Printz kungliga byte: "Lyckligt lottad",https://gp.se/sport/printz-kungliga-byte-lyckligt-lottad-1.23464673
+2020-02-03,11:05,GP,Margot Robbie krävde barnförbjudet,https://gp.se/kultur/kultur-n%C3%B6je/margot-robbie-kr%C3%A4vde-barnf%C3%B6rbjudet-1.23464628
+2020-02-03,11:05,GP,Knutbyrättegång avbröts – misstänkt jäv,https://gp.se/nyheter/sverige/knutbyr%C3%A4tteg%C3%A5ng-avbr%C3%B6ts-misst%C3%A4nkt-j%C3%A4v-1.23464485
+2020-02-03,11:05,GP,Lastbilsolycka på Norrleden,https://gp.se/nyheter/g%C3%B6teborg/lastbilsolycka-p%C3%A5-norrleden-1.23464358
+2020-02-03,11:10,GP,Dadgostar vill ta över efter Sjöstedt,https://gp.se/nyheter/sverige/dadgostar-vill-ta-%C3%B6ver-efter-sj%C3%B6stedt-1.23464774
+2020-02-03,11:12,GP,Erdogan varnar Ryssland efter blodig natt,https://gp.se/nyheter/v%C3%A4rlden/erdogan-varnar-ryssland-efter-blodig-natt-1.23454962
+2020-02-03,11:23,GP,Efter förlusten mot Frölunda – får sparken,https://gp.se/sport/ishockey/shl-tr%C3%A4nare-f%C3%A5r-sparken-ers%C3%A4ttaren-klar-1.23465446
+2020-02-03,11:24,AB,Kvinna åtalas för att ha mördat sin son,https://live.aftonbladet.se/supernytt/news/5e37f47985ec770011af798c
+2020-02-03,11:27,GP,Frölundaförlusten blev droppen – får sparken,https://gp.se/sport/ishockey/shl-tr%C3%A4nare-f%C3%A5r-sparken-ers%C3%A4ttaren-klar-1.23465446
+2020-02-03,11:33,GP,Coronaviruset hårt slag mot Kinas ekonomi,https://gp.se/ekonomi/coronaviruset-h%C3%A5rt-slag-mot-kinas-ekonomi-1.23466326
+2020-02-03,11:33,GP,Han ska få svenska modejätten på fötter,https://gp.se/ekonomi/ingvar-larsson-ska-f%C3%A5-svenska-modej%C3%A4tten-mq-p%C3%A5-f%C3%B6tter-1.23216300
+2020-02-03,11:33,GP,Förlusten mot Frölunda blev droppen – får sparken,https://gp.se/sport/ishockey/shl-tr%C3%A4nare-f%C3%A5r-sparken-ers%C3%A4ttaren-klar-1.23465446
+2020-02-03,11:43,GP,Inga nya misstänka fall i Jönköping,https://gp.se/nyheter/sverige/inga-nya-misst%C3%A4nka-fall-i-j%C3%B6nk%C3%B6ping-1.23466825
+2020-02-03,11:43,GP,Nya råd: Gravida ska dricka ännu mindre kaffe,https://gp.se/nyheter/sverige/nya-r%C3%A5d-gravida-ska-dricka-%C3%A4nnu-mindre-kaffe-1.23466655
+2020-02-03,11:44,GP,Svedjedal lämnar Natur & Kultur,https://gp.se/kultur/kultur-n%C3%B6je/svedjedal-l%C3%A4mnar-natur-kultur-1.23467100
+2020-02-03,11:48,GP,Kvinna från Göteborgsområdet bland de evakuerade,https://gp.se/nyheter/v%C3%A4stsverige/kvinna-fr%C3%A5n-g%C3%B6teborgsomr%C3%A5det-bland-de-evakuerade-1.23467209
+2020-02-03,11:55,GP,Var tredje såld bil laddbar: "En brytpunkt",https://gp.se/ekonomi/var-tredje-s%C3%A5ld-bil-laddbar-en-brytpunkt-1.23459439
+2020-02-03,12:04,GP,Karin har alltid fullt fokus på det hållbara byggandet,https://gp.se/livsstil/karin-har-alltid-fullt-fokus-p%C3%A5-det-h%C3%A5llbara-byggandet-1.23151305
+2020-02-03,12:04,GP,"Publiken vrålar runt som en samling obehärskade skeppsgossar",https://gp.se/kultur/kultur/recension-raw-comedy-club-radisson-blu-1.23460831
+2020-02-03,12:04,GP,Det här var den bästa krönikan jag kunde skriva just nu...,https://gp.se/livsstil/det-h%C3%A4r-var-den-b%C3%A4sta-kr%C3%B6nikan-jag-kunde-skriva-just-nu-1.23305749
+2020-02-03,12:09,IDG,AI är allt från användning av datorers råstyrka för att automatisera enkla saker, till övermänskliga färdigheter. Stora datavolymer finns ofta med i bilden. Här är några heta tillämpningar för AI.,https://techworld.idg.se/2.2524/1.699032/ai-sa-funkar
+2020-02-03,12:10,GP,Så byggs ett sjukhus – på en vecka,https://gp.se/nyheter/v%C3%A4rlden/s%C3%A5-byggs-ett-sjukhus-p%C3%A5-en-vecka-1.23468354
+2020-02-03,12:18,GP,Stora skillnader i vård för klimakteriebesvär,https://gp.se/nyheter/sverige/stora-skillnader-i-v%C3%A5rd-f%C3%B6r-klimakteriebesv%C3%A4r-1.23463036
+2020-02-03,12:21,GP,Kända pepparkaksbageriet till salu,https://gp.se/ekonomi/har-bakat-k%C3%A4nda-pepparkakorna-i-45-%C3%A5r-nu-s%C3%A4ljs-g%C3%B6teborgs-pepparkaksbageri-1.23468903
+2020-02-03,12:25,GP,M vill köra över regeringen igen,https://gp.se/nyheter/sverige/m-vill-k%C3%B6ra-%C3%B6ver-regeringen-igen-1.23464014
+2020-02-03,12:35,GP,Studie: Fetma hos unga kvinnor stor hjärtrisk,https://gp.se/nyheter/sverige/studie-fetma-hos-unga-kvinnor-stor-hj%C3%A4rtrisk-1.23469818
+2020-02-03,12:35,GP,Han ersätter Flinck i Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/han-ers%C3%A4tter-flinck-i-melodifestivalen-1.23469715
+2020-02-03,12:35,GP,Sköt ned plan – Sverige ej erbjudet ersättning,https://gp.se/nyheter/sverige/sk%C3%B6t-ned-plan-sverige-ej-erbjudet-ers%C3%A4ttning-1.23469556
+2020-02-03,12:41,GP,Viruset kommer från fladdermöss,https://gp.se/nyheter/v%C3%A4rlden/viruset-kommer-fr%C3%A5n-fladderm%C3%B6ss-1.23470203
+2020-02-03,12:43,GP,Kända pepparkaksbageriet ute till försäljning,https://gp.se/ekonomi/har-bakat-k%C3%A4nda-pepparkakorna-i-45-%C3%A5r-nu-s%C3%A4ljs-g%C3%B6teborgs-pepparkaksbageri-1.23468903
+2020-02-03,12:50,GP,Alla Legobitar ska bli gröna,https://gp.se/ekonomi/alla-legobitar-ska-bli-gr%C3%B6na-1.23470620
+2020-02-03,12:56,GP,OIC följer Arabförbundet–avfärdar Trumpplan,https://gp.se/nyheter/v%C3%A4rlden/oic-f%C3%B6ljer-arabf%C3%B6rbundet-avf%C3%A4rdar-trumpplan-1.23470750
+2020-02-03,12:58,GP,Polischefen: "Ett sätt att skrämmas",https://gp.se/nyheter/sverige/polischefen-ett-s%C3%A4tt-att-skr%C3%A4mmas-1.23450425
+2020-02-03,12:59,GP,WHO ska stoppa spridning av falsk virusfakta,https://gp.se/nyheter/v%C3%A4rlden/who-ska-stoppa-spridning-av-falsk-virusfakta-1.23471121
+2020-02-03,13:02,GP,Johnson aviserar hårdare tag mot terrorn,https://gp.se/nyheter/v%C3%A4rlden/johnson-aviserar-h%C3%A5rdare-tag-mot-terrorn-1.23451278
+2020-02-03,13:02,GP,ÖHK sparkar tränaren: "Inte på väg dit vi vill",https://gp.se/sport/handboll/%C3%B6hk-sparkar-tr%C3%A4naren-inte-p%C3%A5-v%C3%A4g-dit-vi-vill-1.23471212
+2020-02-03,13:06,GP,Allt talar för Donald Trump i valet,https://gp.se/nyheter/v%C3%A4rlden/allt-talar-f%C3%B6r-donald-trump-i-valet-1.23472013
+2020-02-03,13:06,GP,Nu riktas världens ögon mot Iowa,https://gp.se/nyheter/v%C3%A4rlden/nu-riktas-v%C3%A4rldens-%C3%B6gon-mot-iowa-1.23471705
+2020-02-03,13:06,GP,Inget erbjudande om ersättning från Iran,https://gp.se/nyheter/sverige/inget-erbjudande-om-ers%C3%A4ttning-fr%C3%A5n-iran-1.23469556
+2020-02-03,13:08,GP,Polisbefäl i Örebro åtalas för våldtäkt,https://gp.se/nyheter/sverige/polisbef%C3%A4l-i-%C3%B6rebro-%C3%A5talas-f%C3%B6r-v%C3%A5ldt%C3%A4kt-1.23472146
+2020-02-03,13:08,IDG,Cloi Servebot har plats för fyra matbrickor och kan ta sig fram på egen hand. När maten serveras ändras ansiktsuttrycket på den inbyggda skärmen.,https://techworld.idg.se/2.2524/1.730067/robot-serverar-mat
+2020-02-03,13:11,GP,Biotoppen: "1917" sågs av flest på bio,https://gp.se/kultur/kultur-n%C3%B6je/biotoppen-1917-s%C3%A5gs-av-flest-p%C3%A5-bio-1.23472279
+2020-02-03,13:14,GP,Rättegång mot Thorsten Flinck i Varberg i år,https://gp.se/kultur/musik/r%C3%A4tteg%C3%A5ng-mot-thorsten-flinck-i-varberg-i-%C3%A5r-1.23472392
+2020-02-03,13:15,IDG,För första gången ska en ny läkemedelsmolekyl som har utvecklats av AI börja testas på människor. Läkemedlet är tänkt att mildra tvångssyndrom.,https://computersweden.idg.se/2.2683/1.730055/ai-utvecklat-lakemedel
+2020-02-03,13:22,IDG,De massiva diskkrascherna i Västra Götalandsregionen i höstas förblir ett mysterium. Nyligen avbröts felsökningen utan att man hittat rotorsaken. Men alla 19 400 diskar i den berörda datormodellen byts ut.,https://computersweden.idg.se/2.2683/1.730019/vgr-diskkrascher-atea
+2020-02-03,13:30,GP,Johnson: Terrordömda ska ej släppas så tidigt,https://gp.se/nyheter/v%C3%A4rlden/johnson-terrord%C3%B6mda-ska-ej-sl%C3%A4ppas-s%C3%A5-tidigt-1.23451278
+2020-02-03,13:31,IDG,Amerikanska forskare har tagit fram ett nytt system som baseras på tusentals minimala antenner. Resultatet är att den genomsnittliga signalstyrkan ökas tiofalt.,https://techworld.idg.se/2.2524/1.730066/rfocus-wifi-mottagning
+2020-02-03,13:36,GP,Kan bryta kontraktet efter virusutbrottet : "Jag vill leva",https://gp.se/sport/zahui-vill-inte-%C3%A5ka-tillbaka-till-kina-kan-bryta-kontraktet-1.23473054
+2020-02-03,13:39,GP,Svenskan vill bryta kontraktet efter virusutbrottet: "Vill leva",https://gp.se/sport/zahui-vill-inte-%C3%A5ka-tillbaka-till-kina-kan-bryta-kontraktet-1.23473054
+2020-02-03,14:03,GP,Tv-toppen: Så många såg Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/tv-toppen-s%C3%A5-m%C3%A5nga-s%C3%A5g-melodifestivalen-1.23474561
+2020-02-03,14:03,GP,Klæbo har brutit fingret – missar Falun,https://gp.se/sport/kl%C3%A6bo-har-brutit-fingret-missar-falun-1.23474534
+2020-02-03,14:03,GP,LO till Löfven: Börja förhandla med M,https://gp.se/nyheter/sverige/lo-till-l%C3%B6fven-b%C3%B6rja-f%C3%B6rhandla-med-m-1.23474404
+2020-02-03,14:18,GP,Danmark åtalar tre för spioneri,https://gp.se/nyheter/v%C3%A4rlden/danmark-%C3%A5talar-tre-f%C3%B6r-spioneri-1.23475332
+2020-02-03,14:24,GP,Basketstjärnan kan lämna efter coronaviruset,https://gp.se/sport/basketstj%C3%A4rnan-kan-l%C3%A4mna-efter-coronaviruset-1.23475549
+2020-02-03,14:25,GP,Viruschocken slår hårt mot kinesisk ekonomi,https://gp.se/ekonomi/viruschocken-sl%C3%A5r-h%C3%A5rt-mot-kinesisk-ekonomi-1.23466326
+2020-02-03,14:26,GP,Ukraina: Läckt ljudfil visar att Iran visste,https://gp.se/nyheter/v%C3%A4rlden/ukraina-l%C3%A4ckt-ljudfil-visar-att-iran-visste-1.23463298
+2020-02-03,14:28,GP,LO: Löfven bör förhandla med Moderaterna,https://gp.se/nyheter/sverige/lo-l%C3%B6fven-b%C3%B6r-f%C3%B6rhandla-med-moderaterna-1.23474404
+2020-02-03,14:33,AB,Stor påverkan på E4 efter olycka,https://live.aftonbladet.se/supernytt/news/5e3820dc6167fe001109783d
+2020-02-03,14:37,AB,Uppgifter: Död man hittad på utedass,https://live.aftonbladet.se/supernytt/news/5e3821da9adfbb0011f6c283
+2020-02-03,14:39,GP,Norska stjärnan har brutit fingret – missar Falun,https://gp.se/sport/kl%C3%A6bo-har-brutit-fingret-missar-falun-1.23474534
+2020-02-03,14:43,GP,Halverad rysk tillväxt i fjol,https://gp.se/ekonomi/halverad-rysk-tillv%C3%A4xt-i-fjol-1.23476727
+2020-02-03,14:49,GP,Regionen byter ut 20 000 hårddiskar efter omfattande datorhaveri,https://gp.se/nyheter/g%C3%B6teborg/regionen-byter-ut-20-000-h%C3%A5rddiskar-1.23477090
+2020-02-03,14:55,AB,Flera tusen utan el,https://live.aftonbladet.se/supernytt/news/5e3826409adfbb0011f6c285
+2020-02-03,15:02,GP,Misstänkt mord i Billingsfors,https://gp.se/nyheter/sverige/misst%C3%A4nkt-mord-i-billingsfors-1.23477696
+2020-02-03,15:06,AB,Lastbil och bil i krock,https://live.aftonbladet.se/supernytt/news/5e3828eb6167fe0011097844
+2020-02-03,15:07,AB,Sex skadade i skottlossning på buss i USA,https://live.aftonbladet.se/supernytt/news/5e3829032046810011faf759
+2020-02-03,15:14,GP,Rögle värvar kanadensisk skyttekung,https://gp.se/sport/r%C3%B6gle-v%C3%A4rvar-kanadensisk-skyttekung-1.23478123
+2020-02-03,15:18,GP,Minderårig kund våldtogs i butik,https://gp.se/nyheter/sverige/minder%C3%A5rig-kund-v%C3%A5ldtogs-i-butik-1.23478676
+2020-02-03,15:18,GP,Efter brexit: Tuff kamp om handel och fiske,https://gp.se/nyheter/v%C3%A4rlden/efter-brexit-tuff-kamp-om-handel-och-fiske-1.23460477
+2020-02-03,15:20,GP,Grönsiskan bubblare i årets fågelräkning,https://gp.se/nyheter/sverige/gr%C3%B6nsiskan-bubblare-i-%C3%A5rets-f%C3%A5gelr%C3%A4kning-1.23478954
+2020-02-03,15:20,GP,Coronaviruset får oljepriset på fall,https://gp.se/ekonomi/coronaviruset-f%C3%A5r-oljepriset-p%C3%A5-fall-1.23478865
+2020-02-03,15:25,AB,Norsk medborgare anklagas för spioneri,https://live.aftonbladet.se/supernytt/news/5e382d456167fe001109784c
+2020-02-03,15:26,AB,Trio åtalas för spioneri,https://live.aftonbladet.se/supernytt/news/5e382d456167fe001109784c
+2020-02-03,15:30,GP,Skolchefen efter dödsfallet: "Vi är i chock",https://gp.se/nyheter/sverige/skolchefen-efter-d%C3%B6dsfallet-vi-%C3%A4r-i-chock-1.23453404
+2020-02-03,15:33,GP,Svenskarna köper rekordmånga laddbara bilar,https://gp.se/ekonomi/svenska-folket-k%C3%B6per-laddbart-s%C3%A5-h%C3%B6g-var-andelen-i-januari-1.23477320
+2020-02-03,15:33,GP,Trots Kinaras kretsar börsen runt nollan,https://gp.se/ekonomi/trots-kinaras-kretsar-b%C3%B6rsen-runt-nollan-1.23459006
+2020-02-03,15:37,GP,Danmark: Tre ska ha spionerat åt Saudiarabien,https://gp.se/nyheter/v%C3%A4rlden/danmark-tre-ska-ha-spionerat-%C3%A5t-saudiarabien-1.23475332
+2020-02-03,15:40,GP,Sköt pucken i huvudet på domaren – efter avblåsning,https://gp.se/sport/ishockey/sk%C3%B6t-pucken-i-huvudet-p%C3%A5-domaren-efter-avbl%C3%A5sning-1.23480512
+2020-02-03,15:40,GP,Svensk raket ska undersöka norrsken,https://gp.se/nyheter/sverige/svensk-raket-ska-unders%C3%B6ka-norrsken-1.23480433
+2020-02-03,15:40,GP,Kikki Danielsson åker på kyrkoturné,https://gp.se/kultur/kultur-n%C3%B6je/kikki-danielsson-%C3%A5ker-p%C3%A5-kyrkoturn%C3%A9-1.23480269
+2020-02-03,15:43,GP,Sköt domaren i huvudet – efter avblåsning,https://gp.se/sport/ishockey/sk%C3%B6t-pucken-i-huvudet-p%C3%A5-domaren-efter-avbl%C3%A5sning-1.23480512
+2020-02-03,15:50,AB,Trio misstänkta för spioneri,https://live.aftonbladet.se/supernytt/news/5e382d456167fe001109784c
+2020-02-03,15:55,GP,Advokaten: "En fullständigt undermålig hantering",https://gp.se/nyheter/v%C3%A4stsverige/advokaten-en-fullst%C3%A4ndigt-underm%C3%A5lig-hantering-1.23469923
+2020-02-03,15:55,AB,Trio misstänks för spioneri,https://live.aftonbladet.se/supernytt/news/5e382d456167fe001109784c
+2020-02-03,16:01,GP,Skidskytten sjuk inför VM – har isolerats,https://gp.se/sport/skidskytten-sjuk-inf%C3%B6r-vm-har-isolerats-1.23481039
+2020-02-03,16:05,GP,Black Pumas till Sverige i höst,https://gp.se/kultur/kultur-n%C3%B6je/black-pumas-till-sverige-i-h%C3%B6st-1.23481346
+2020-02-03,16:14,GP,Dicks boende kritiseras: ”Ostimulerad och ensam”,https://gp.se/nyheter/v%C3%A4stsverige/ivo-kritiserar-autistiske-dicks-boende-1.23480735
+2020-02-03,16:14,GP,V överväger stödja M mot regeringen igen,https://gp.se/nyheter/sverige/v-%C3%B6verv%C3%A4ger-st%C3%B6dja-m-mot-regeringen-igen-1.23481693
+2020-02-03,16:22,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e383a7e2046810011faf764
+2020-02-03,16:28,GP,Zlatan besökte Hammarby – för första gången,https://gp.se/sport/zlatan-bes%C3%B6kte-hammarby-f%C3%B6r-f%C3%B6rsta-g%C3%A5ngen-1.23482244
+2020-02-03,16:28,GP,Dadgostar vill leda och bredda Vänsterpartiet,https://gp.se/nyheter/sverige/dadgostar-vill-leda-och-bredda-v%C3%A4nsterpartiet-1.23463261
+2020-02-03,16:31,GP,Hon evakuerades från Wuhan: "Så overkligt",https://gp.se/nyheter/sverige/hon-evakuerades-fr%C3%A5n-wuhan-s%C3%A5-overkligt-1.23482425
+2020-02-03,16:31,GP,Rekordtidiga vårtecken har siktats på västkusten,https://gp.se/nyheter/g%C3%B6teborg/krokus-sn%C3%B6droppar-och-huggormar-tror-att-v%C3%A5ren-%C3%A4r-h%C3%A4r-1.23476088
+2020-02-03,16:31,GP,Varmaste januari på 31 år,https://gp.se/nyheter/g%C3%B6teborg/varmaste-januari-p%C3%A5-31-%C3%A5r-i-g%C3%B6teborg-1.23480863
+2020-02-03,16:35,GP,Flera bilar med sönderskurna däck i Majorna,https://gp.se/nyheter/g%C3%B6teborg/flera-bilar-med-s%C3%B6nderskurna-d%C3%A4ck-i-majorna-1.23482809
+2020-02-03,16:35,GP,Död man hittad på utedass – polisen misstänker mord,https://gp.se/nyheter/sverige/misst%C3%A4nkt-mord-i-billingsfors-1.23482647
+2020-02-03,16:39,GP,Danmark: Åtal för spionage åt Saudiarabien,https://gp.se/nyheter/v%C3%A4rlden/danmark-%C3%A5tal-f%C3%B6r-spionage-%C3%A5t-saudiarabien-1.23475332
+2020-02-03,16:45,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,16:51,GP,Två häktade efter våldsamma gårdsrån,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-efter-v%C3%A5ldsamma-g%C3%A5rdsr%C3%A5n-1.23462967
+2020-02-03,16:57,GP,Karlholm om resan tillbaka med Lindome: "Mitt mål är att ta mig till allsvenskan",https://gp.se/sport/karlholm-om-resan-tillbaka-med-lindome-mitt-m%C3%A5l-%C3%A4r-att-ta-mig-till-allsvenskan-1.23483206
+2020-02-03,16:59,GP,Mordmisstänkt man försatt på fri fot,https://gp.se/nyheter/sverige/mordmisst%C3%A4nkt-man-f%C3%B6rsatt-p%C3%A5-fri-fot-1.23483888
+2020-02-03,16:59,GP,Två alkoholutslag fällde pilot,https://gp.se/nyheter/sverige/tv%C3%A5-alkoholutslag-f%C3%A4llde-pilot-1.23483831
+2020-02-03,16:59,GP,Blev mamma både på och utanför planen,https://gp.se/sport/stensj%C3%B6-blev-mamma-b%C3%A5de-p%C3%A5-och-utanf%C3%B6r-planen-1.23449024
+2020-02-03,17:01,GP,Inte oproblematiskt för intellektuella att verka i Karlssons tankesmedja,https://gp.se/kultur/kultur/inte-oproblematiskt-f%C3%B6r-intellektuella-att-verka-i-mattias-karlssons-tankesmedja-1.23479933
+2020-02-03,17:06,GP,Trumps tal till nationen grusas av riksrätten,https://gp.se/nyheter/v%C3%A4rlden/trumps-tal-till-nationen-grusas-av-riksr%C3%A4tten-1.23479966
+2020-02-03,17:06,GP,Asap Rockys vän J Scott hittad död,https://gp.se/kultur/kultur-n%C3%B6je/asap-rockys-v%C3%A4n-j-scott-hittad-d%C3%B6d-1.23484021
+2020-02-03,17:10,IDG,Det nya gruppkommunikationsverktyget kommer troligtvis att presenteras på utvecklarkonferensen Google I/O i maj.,https://computersweden.idg.se/2.2683/1.729892/google-slack-utmanare
+2020-02-03,17:16,GP,Suede kommer till Stockholm,https://gp.se/kultur/kultur-n%C3%B6je/suede-kommer-till-stockholm-1.23484445
+2020-02-03,17:26,GP,Smittskyddsläkaren tror på fler smittade i Sverige,https://gp.se/nyheter/v%C3%A4stsverige/tror-p%C3%A5-fler-coronafall-i-sverige-men-j%C3%A4mf%C3%B6r-med-influensa-1.23484683
+2020-02-03,17:33,GP,Norska Intersport i konkurs,https://gp.se/ekonomi/norska-intersport-i-konkurs-1.23484877
+2020-02-03,17:38,GP,Kvintetten som slåss om kandidaturen,https://gp.se/nyheter/v%C3%A4rlden/kvintetten-som-sl%C3%A5ss-om-kandidaturen-1.23484951
+2020-02-03,17:43,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,17:52,GP,OS-brottaren Fransson fast i dopningstest,https://gp.se/sport/os-brottaren-fransson-fast-i-dopningstest-1.23485501
+2020-02-03,17:52,GP,Nödlandning på gång i Madrid,https://gp.se/nyheter/v%C3%A4rlden/n%C3%B6dlandning-p%C3%A5-g%C3%A5ng-i-madrid-1.23485380
+2020-02-03,17:57,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,17:58,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:06,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:11,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:11,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:11,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:11,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:11,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:11,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:11,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:11,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:11,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:11,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:11,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:11,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:11,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:11,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:11,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:11,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:11,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:11,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:13,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:13,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:13,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:13,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:13,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:13,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:13,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:13,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:13,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:14,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:14,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:14,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:14,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:14,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:14,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:14,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:14,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:14,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:15,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:15,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:15,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:15,IDG,Amerikanska forskare har tagit fram ett nytt system som baseras på tusentals minimala antenner. Resultatet är att den genomsnittliga signalstyrkan ökas tiofalt.,https://techworld.idg.se/2.2524/1.730066/rfocus-wifi-mottagning
+2020-02-03,18:15,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:15,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:15,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:15,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:15,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:15,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:15,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:15,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:15,IDG,Amerikanska forskare har tagit fram ett nytt system som baseras på tusentals minimala antenner. Resultatet är att den genomsnittliga signalstyrkan ökas tiofalt.,https://techworld.idg.se/2.2524/1.730066/rfocus-wifi-mottagning
+2020-02-03,18:15,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:15,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:15,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:15,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:15,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:16,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:17,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:17,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:17,GP,Svenska OS-medaljören fast i dopningstest,https://gp.se/sport/svenska-os-medalj%C3%B6ren-jenny-fransson-fast-i-dopningstest-1.23485185
+2020-02-03,18:17,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:17,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:17,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:17,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:17,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:17,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:18,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:18,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:18,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:18,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:18,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:18,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:18,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:18,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:18,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:20,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:20,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:20,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:20,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:20,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:20,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:20,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:20,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:20,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:22,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:22,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:22,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:22,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:22,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:22,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:22,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:22,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:22,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:22,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:22,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:22,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:22,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:22,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:22,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:22,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:22,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:22,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:24,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:24,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:24,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:24,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:24,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:24,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:24,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:24,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:24,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:25,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:25,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:25,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:25,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:25,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:25,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:25,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:25,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:25,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:26,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:26,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:26,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:26,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:26,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:26,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:26,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:26,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:26,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:29,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:29,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:29,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:29,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:29,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:29,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:29,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:29,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:29,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:29,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:29,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:29,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:29,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:29,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:29,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:29,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:29,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:29,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:30,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:30,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:30,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:30,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:30,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:30,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:30,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:30,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:30,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:31,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:31,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:31,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:31,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:31,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:31,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:31,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:31,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:31,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:31,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:31,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:31,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:31,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:31,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:31,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:31,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:31,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:31,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:36,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:36,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:36,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:36,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:36,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:36,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:36,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:36,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:36,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:36,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:36,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:36,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:36,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:36,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:36,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:36,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:36,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:36,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:36,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:36,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:37,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:37,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:37,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:37,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:37,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:37,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:37,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:37,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:37,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:37,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:39,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:39,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:39,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:39,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:39,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:39,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:39,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:39,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:39,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:39,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:40,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:40,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:40,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:40,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:40,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:40,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:40,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:40,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:40,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:40,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:41,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:41,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:41,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:41,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:41,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:41,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:41,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:41,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:41,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:41,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:42,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:42,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:42,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:42,GP,Börsen stängde kring nollan,https://gp.se/ekonomi/b%C3%B6rsen-st%C3%A4ngde-kring-nollan-1.23459006
+2020-02-03,18:42,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:42,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:42,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:42,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:42,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:42,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:47,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,18:50,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,18:50,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:50,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:50,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:50,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:50,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:50,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:50,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:50,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:50,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:51,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,18:51,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:51,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:51,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:51,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:51,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:51,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:51,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:51,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:51,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:52,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,18:52,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:52,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:52,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:52,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:52,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:52,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:52,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:52,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:52,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,18:59,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,18:59,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,18:59,GP,Snar nödlandning i Madrid – jaktflyg uppsänt,https://gp.se/nyheter/v%C3%A4rlden/snar-n%C3%B6dlandning-i-madrid-jaktflyg-upps%C3%A4nt-1.23485380
+2020-02-03,18:59,GP,Man död i frontalkrock utanför Östersund,https://gp.se/nyheter/sverige/man-d%C3%B6d-i-frontalkrock-utanf%C3%B6r-%C3%B6stersund-1.23486008
+2020-02-03,18:59,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,18:59,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:59,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,18:59,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,18:59,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,18:59,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:04,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:04,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:07,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:07,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:08,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:08,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:08,GP,Färgtest i läkarutbildningar stoppas,https://gp.se/nyheter/sverige/f%C3%A4rgtest-i-l%C3%A4karutbildningar-stoppas-1.23486630
+2020-02-03,19:08,GP,Maria Wetterstrand till Bryssel,https://gp.se/ekonomi/maria-wetterstrand-till-bryssel-1.23486367
+2020-02-03,19:08,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,19:08,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:08,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:08,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:08,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:08,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:09,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:09,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:10,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:10,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:10,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:10,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:10,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:10,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:10,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:10,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:10,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:10,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:10,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:11,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,19:13,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:13,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:13,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:13,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:13,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,19:13,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:13,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:13,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:13,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:13,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:14,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:14,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:14,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:14,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:14,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:14,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:14,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:14,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:14,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:14,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:14,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:15,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,19:17,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:17,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:17,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:17,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:17,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:17,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:17,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:17,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:17,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:17,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:20,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:20,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:20,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/sverige/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:20,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:20,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:20,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:20,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:20,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:20,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:20,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:20,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:20,GP,Youtube plockar ner falsk valinformation,https://gp.se/nyheter/v%C3%A4rlden/youtube-plockar-ner-falsk-valinformation-1.23487151
+2020-02-03,19:20,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:20,GP,Då kommer filmversionen av "Hamilton",https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-filmversionen-av-hamilton-1.23486878
+2020-02-03,19:20,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:20,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:20,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:20,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:20,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:20,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862

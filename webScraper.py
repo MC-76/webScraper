@@ -41,7 +41,8 @@ unProcessedNews = []
 
 flagSilent = False
 flagLinks = True                   # display links in output?
-flagOnlyHiglights = False           # If True, only print if news is in highlight list
+flagHiglights = True           # If True, only print if news is in highlight list
+flagHIT = False
 
 # Variables
 path = './newsLog/'                 # Where newslog is stored
@@ -61,7 +62,7 @@ for opt, arg in opts:
         flagSilent = True
         logger.info('Application Flag: flagSilent')  
     if opt=='-i':                   # Only highlights
-        flagOnlyHiglights = True
+        flagHiglights = True
         logger.info('Application Flag: flagOnlyHiglights')  
     if opt=='-h':                   # Show help (and quit)
         showOnlyHelp()
@@ -77,12 +78,12 @@ if not flagSilent:
     print('Latest news from GP, IDG and Aftonbladet')
     st.title('Latest news from GP, IDG and Aftonbladet')
     #st.divide()
-    if flagOnlyHiglights:
-        print('Only showing highlights:')
-        st.write('Only showing highlights:')
+    if flagHiglights:
+        print('Showing highlights')
+        #st.write('Showing highlights')
     if flagLinks:
-        print('Including links:')
-        st.subheader('Including links:')
+        print('Including links')
+        #st.write('Including links')
 
 lastFileDate = datetime.date.today()
 
@@ -95,9 +96,7 @@ news4 = st.empty()
 news5 = st.empty()
 news6 = st.empty()
 
-
-
-
+st.write()
 # check if folder exists, if not create folder
 if not os.path.exists(path):
     try:
@@ -108,6 +107,7 @@ if not os.path.exists(path):
         logger.error(f'Error creating folder: {path}')
         sys.exit()
 
+st.subheader('History')
 while True: # Run forever
     logger.debug('Starting new loop')
     unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
@@ -122,23 +122,27 @@ while True: # Run forever
             trimmed_title = "{:<80}".format(news.title[:80]) 
             output = f'{news.label}\t{news.source}\t{trimmed_title}\t'
 
+            flagHIT = False
             if flagSilent:
                 pass
             else:
                 if flagLinks:
                     output += f'{news.url}'
 
-                if flagOnlyHiglights:
+                if flagHiglights:
                     for word in highLights:
-                        if word in news.title:
-                            logger.info(f'Highlight hit: {word}')
-                            print('\007')       # Print sound?!?    
-                            print(output)     
-                            st.write(output)              
-                else:                
+                        if word.lower() in news.title.lower():
+                            flagHIT = True      
+                    if flagHIT:
+                        st.warning(output)
+                        print('Highlight HIT!')
+                        print(output)
+                    else:
+                        st.info(output)
+                else:
                     print(output)
-                    st.write(output)
-
+                    st.info(output) 
+                     
                                       
             # Clear buffer when new date
             if lastFileDate != datetime.date.today():

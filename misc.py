@@ -1,10 +1,12 @@
 highLights = [
     'SKF',
     'Västtrafik',
-    'IT',
     'Iran',
     'Trump',
     'Vänersborg',
     'koden',
     'MVP',
+    'E4',
+    'pilot',
+    'Corona',
 ]
