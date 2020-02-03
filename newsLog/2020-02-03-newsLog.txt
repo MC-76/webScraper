@@ -1,0 +1,44 @@
+2020-02-03,00:43,AB,Nya siffror: Så många har dött och smittats,https://live.aftonbladet.se/supernytt/news/5e375e9754ab5b0011727cf8
+2020-02-03,00:43,AB,Tjuvar försvann med kassaskåp,https://live.aftonbladet.se/supernytt/news/5e37531da6db5200113d95a1
+2020-02-03,00:43,AB,Ung man hittad skjuten,https://live.aftonbladet.se/supernytt/news/5e37434754ab5b0011727cdf
+2020-02-03,00:43,AB,20-tal personer på planet från Wuhan uppvisar ”misstänkta symptom”,https://live.aftonbladet.se/supernytt/news/5e372ef5f4672b00129baedd
+2020-02-03,00:43,AB,Eldade på äldre mans hår på SL-buss,https://live.aftonbladet.se/supernytt/news/5e37283c54ab5b0011727cc7
+2020-02-03,00:43,AB,Nya siffror: Så många har dött och smittats,https://live.aftonbladet.se/supernytt/news/5e375e9754ab5b0011727cf8
+2020-02-03,00:44,GP,Pettersson gjorde jubileumsmål i NHL,https://gp.se/sport/pettersson-gjorde-jubileumsm%C3%A5l-i-nhl-1.23449751
+2020-02-03,00:44,GP,Målsuccén fortsätter för Isak,https://gp.se/sport/m%C3%A5lsucc%C3%A9n-forts%C3%A4tter-f%C3%B6r-isak-1.23436501
+2020-02-03,00:44,GP,Krigsdramat "1917" bästa film på Baftagalan,https://gp.se/kultur/kultur-n%C3%B6je/krigsdramat-1917-b%C3%A4sta-film-p%C3%A5-baftagalan-1.23449916
+2020-02-03,00:44,GP,Man skottskadad i Norrköping,https://gp.se/nyheter/sverige/man-skottskadad-i-norrk%C3%B6ping-1.23449782
+2020-02-03,00:44,GP,Östafrikanska ledare vill minska spänningar,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6stafrikanska-ledare-vill-minska-sp%C3%A4nningar-1.23449432
+2020-02-03,00:44,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-03,00:45,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-03,01:09,IDG,Vilka som utförde attackerna är i skrivande stund oklart, men enligt säkerhetsexperter kan det röra sig om den kinesiska gruppen APT27 (Emissary Panda).,https://techworld.idg.se/2.2524/1.729336/cyberattacker-usa-frammande-makt
+2020-02-03,01:10,IDG,Att utveckla personalens kompetens med hjälp av portaler blir allt vanligare. Systembolaget går den vägen och målet är att verktygen ska vara enkla att använda för medarbetarna.,https://computersweden.idg.se/2.2683/1.445004/systembolagets-portal-lyfter-kompetensen
+2020-02-03,01:16,IDG,Att ”visa leg” kräver fortfarande ett plastkort i fickan. Kan e-legitimationer vara mer än bara ett verktyg för säker inloggning och identifiering? Freja e-id+ visar hur e-legitimationer egentligen borde funka.,https://techworld.idg.se/2.2524/1.723519/freja-e-id-test
+2020-02-03,01:23,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-03,01:26,AB,Explosion i Helsingborg,https://live.aftonbladet.se/supernytt/news/5e376892a6db5200113d95c4
+2020-02-03,01:32,IDG,Bill och Melinda Gates satsar genom sin välgörenhetsfond 10 miljoner dollar – motsvarande 96 miljoner kronor – på att bekämpa Coronavirusets spridning i Kina och Afrika.,https://computersweden.idg.se/2.2683/1.729878/gates-miljoner-bekampa-coronavirus
+2020-02-03,01:39,GP,Morales vill kandidera till senaten,https://gp.se/nyheter/v%C3%A4rlden/morales-vill-kandidera-till-senaten-1.23450304
+2020-02-03,01:56,GP,Explosion vid bostadshus i Helsingborg,https://gp.se/nyheter/sverige/explosion-vid-bostadshus-i-helsingborg-1.23450425
+2020-02-03,02:03,GP,Över 17 000 smittade i Kina,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6ver-17-000-smittade-i-kina-1.23450594
+2020-02-03,02:06,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-03,02:15,IDG,Google samlar säkerhetsinställningar och användaruppgifter på en portal. Om du någonsin undrat hur mycket Google egentligen vet om dig är det läge att kolla.,https:/2.1085/1.629410/har-kan-du-kolla-hur-mycket-google-vet-om-dig
+2020-02-03,02:39,IDG,Det är Microsoft som är huvudleverantör i molnet för den nya nordiska konsultgiganten Tietoevry. Det basunerar bolaget nu ut tillsammans med Microsoft.,https://computersweden.idg.se/2.2683/1.729974/tietoevry-azure-specialister
+2020-02-03,02:50,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-03,02:53,GP,Tillverkningen faller i Japan,https://gp.se/ekonomi/tillverkningen-faller-i-japan-1.23450741
+2020-02-03,03:12,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-03,03:13,IDG,Amazons molnbolag AWS fortsätter casha in och ökade sina intäkter med 34 procent det fjärde kvartalet. Med det slår man marknadens förväntningar.,https://computersweden.idg.se/2.2683/1.729992/aws-kassako
+2020-02-03,03:31,GP,Kinabörser rasar efter virusoro,https://gp.se/ekonomi/kinab%C3%B6rser-rasar-efter-virusoro-1.23450757
+2020-02-03,03:38,AB,Sabotage stoppar tågtrafiken,https://live.aftonbladet.se/supernytt/news/5e3787a585ec770011af7941
+2020-02-03,04:01,GP,Super Mario-rekord sattes i Växjö,https://gp.se/kultur/kultur-n%C3%B6je/super-mario-rekord-sattes-i-v%C3%A4xj%C3%B6-1.23450905
+2020-02-03,04:08,IDG,Gänget bakom Rebtel ska nu bygga vidare på sin målgrupp genom att starta en banktjänst för världens migranter.,https://computersweden.idg.se/2.2683/1.726492/svenska-majority-bank-migranter
+2020-02-03,04:09,IDG,I mars ska Stockholms skolor byta hårdvaruleverantör, när Atea tar över efter Advania. Men än en gång verkar det vara strid in i det sista, då Ateas anbud ifrågasätts.,https://computersweden.idg.se/2.2683/1.729686/atea-advania-skolor-stockholm
+2020-02-03,04:14,IDG,Den globala smartphone-marknaden visade modest tillväxt under fjärde kvartalet. Apple sålde flest enheter under perioden, tack vare stark efterfrågan på Iphone 11.,https://computersweden.idg.se/2.2683/1.729978/apple-revansch-smartphone-marknaden
+2020-02-03,04:27,GP,Kansas City mästare efter sen vändning,https://gp.se/sport/kansas-city-m%C3%A4stare-efter-sen-v%C3%A4ndning-1.23451050
+2020-02-03,04:33,IDG,Ett stort dataintrång drabbade FN i somras. Hacket skedde genom en sårbarhet i Microsofts Sharepoint.,https://computersweden.idg.se/2.2683/1.729939/cyberattack-fn
+2020-02-03,05:03,GP,Se de dolda skatterna inne i Börshuset,https://gp.se/kultur/kultur/se-de-dolda-skatterna-inne-i-b%C3%B6rshuset-p%C3%A5-gustaf-adolfs-torg-1.23013886
+2020-02-03,05:10,IDG,Ibland pekas vissa utvecklare ut som mer avgörande för ett lyckat projekt än andra. Och nu pekar forskare på att det kan stämma. Och det handlar inte bara om skickligt kodande utan också om god social förmåga.,https://computersweden.idg.se/2.2683/1.730002/hjalteutvecklare-finns
+2020-02-03,05:12,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-03,05:14,GP,Knivman dömd för terrorbrott tidigare,https://gp.se/nyheter/v%C3%A4rlden/knivman-d%C3%B6md-f%C3%B6r-terrorbrott-tidigare-1.23451278
+2020-02-03,05:18,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-03,05:25,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-03,05:39,GP,Misstänkta koppartjuvar orsakade tågstopp,https://gp.se/nyheter/sverige/misst%C3%A4nkta-koppartjuvar-orsakade-t%C3%A5gstopp-1.23451432

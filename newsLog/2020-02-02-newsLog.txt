@@ -1,0 +1,689 @@
+2020-02-02,00:13,IDG,Den globala smartphone-marknaden visade modest tillväxt under fjärde kvartalet. Apple sålde flest enheter under perioden, tack vare stark efterfrågan på Iphone 11.,https://computersweden.idg.se/2.2683/1.729978/apple-revansch-smartphone-marknaden
+2020-02-02,00:13,AB,Kemlarm på Arlanda blåstes av,https://live.aftonbladet.se/supernytt/news/5e35f21d85ec770011af77d2
+2020-02-02,00:13,AB,Man rånad på sin Porsche,https://live.aftonbladet.se/supernytt/news/5e35f21d85ec770011af77d2
+2020-02-02,00:13,AB,Skottlossning vid begravning – två döda,https://live.aftonbladet.se/supernytt/news/5e35e91d54ab5b0011727bec
+2020-02-02,00:13,AB,Biljakt slutade med krasch för polisbil: Körde in i plank,https://live.aftonbladet.se/supernytt/news/5e35e16af4672b00129bae00
+2020-02-02,00:13,AB,Ex-diplomater kritiserar UD:s hantering av Kinaambassadör,https://live.aftonbladet.se/supernytt/news/5e35dd0ba6db5200113d9488
+2020-02-02,00:14,GP,Se mötet mellan Bäcken och Grästorp,https://gp.se/sport/031-hockey/se-m%C3%B6tet-mellan-b%C3%A4cken-och-gr%C3%A4storp-1.22735119
+2020-02-02,00:14,GP,Felix Sandman: Fortsätter ge allt,https://gp.se/kultur/kultur-n%C3%B6je/felix-sandman-forts%C3%A4tter-ge-allt-1.23424045
+2020-02-02,00:14,GP,Skrällartad lycka för The Mamas och Bengtsson,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4llartad-lycka-f%C3%B6r-the-mamas-och-bengtsson-1.23402924
+2020-02-02,00:14,GP,Bilfirma beskjuten i Malmö,https://gp.se/nyheter/sverige/bilfirma-beskjuten-i-malm%C3%B6-1.23418902
+2020-02-02,00:14,GP,Jihadister i attack mot storstaden Aleppo,https://gp.se/nyheter/v%C3%A4rlden/jihadister-i-attack-mot-storstaden-aleppo-1.23405587
+2020-02-02,00:14,IDG,Det är Microsoft som är huvudleverantör i molnet för den nya nordiska konsultgiganten Tietoevry. Det basunerar bolaget nu ut tillsammans med Microsoft.,https://computersweden.idg.se/2.2683/1.729974/tietoevry-azure-specialister
+2020-02-02,00:15,IDG,Den globala smartphone-marknaden visade modest tillväxt under fjärde kvartalet. Apple sålde flest enheter under perioden, tack vare stark efterfrågan på Iphone 11.,https://computersweden.idg.se/2.2683/1.729978/apple-revansch-smartphone-marknaden
+2020-02-02,00:17,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,00:23,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,00:30,AB,Polisinsats i Djursholm – utredning om människorov,https://live.aftonbladet.se/supernytt/news/5e3609d8f4672b00129bae1e
+2020-02-02,00:38,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-02,00:45,GP,Telenor gav olovlig information till polisen,https://gp.se/ekonomi/telenor-gav-olovlig-information-till-polisen-1.23424324
+2020-02-02,01:00,AB,Polisinsats i Djursholm – man kidnappad,https://live.aftonbladet.se/supernytt/news/5e3609d8f4672b00129bae1e
+2020-02-02,01:10,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,01:13,GP,Storbrand nedklassad i Australien,https://gp.se/nyheter/v%C3%A4rlden/storbrand-nedklassad-i-australien-1.23424461
+2020-02-02,01:28,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,01:36,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,01:41,IDG,Ett stort dataintrång drabbade FN i somras. Hacket skedde genom en sårbarhet i Microsofts Sharepoint.,https://computersweden.idg.se/2.2683/1.729939/cyberattack-fn
+2020-02-02,01:52,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,02:08,IDG,Ibland pekas vissa utvecklare ut som mer avgörande för ett lyckat projekt än andra. Och nu pekar forskare på att det kan stämma. Och det handlar inte bara om skickligt kodande utan också om god social förmåga.,https://computersweden.idg.se/2.2683/1.730002/hjalteutvecklare-finns
+2020-02-02,02:17,GP,Allt färre båtmotorer stjäls,https://gp.se/nyheter/sverige/allt-f%C3%A4rre-b%C3%A5tmotorer-stj%C3%A4ls-1.23424622
+2020-02-02,02:17,IDG,Vilka som utförde attackerna är i skrivande stund oklart, men enligt säkerhetsexperter kan det röra sig om den kinesiska gruppen APT27 (Emissary Panda).,https://techworld.idg.se/2.2524/1.729336/cyberattacker-usa-frammande-makt
+2020-02-02,02:20,GP,Tusentals nya virusfall på ett dygn,https://gp.se/nyheter/v%C3%A4rlden/tusentals-nya-virusfall-p%C3%A5-ett-dygn-1.23424665
+2020-02-02,02:52,GP,Iran planerar satellituppskjutning,https://gp.se/nyheter/v%C3%A4rlden/iran-planerar-satellituppskjutning-1.23424872
+2020-02-02,02:56,AB,Strömavbrott i Hässelby,https://live.aftonbladet.se/supernytt/news/5e362c4054ab5b0011727c06
+2020-02-02,03:03,GP,Pamela Anderson separerar – efter 12 dagar,https://gp.se/kultur/kultur-n%C3%B6je/pamela-anderson-separerar-efter-12-dagar-1.23424984
+2020-02-02,03:11,AB,Nya siffror: Mer än 300 döda i viruset,https://live.aftonbladet.se/supernytt/news/5e362f7654ab5b0011727c09
+2020-02-02,03:33,GP,Så byggs ett sjukhus – på sex dagar,https://gp.se/nyheter/v%C3%A4rlden/s%C3%A5-byggs-ett-sjukhus-p%C3%A5-sex-dagar-1.23425281
+2020-02-02,03:55,GP,Strömavbrott i Stockholm,https://gp.se/nyheter/sverige/str%C3%B6mavbrott-i-stockholm-1.23425436
+2020-02-02,03:59,GP,Japansk jagare till Omanbukten,https://gp.se/nyheter/v%C3%A4rlden/japansk-jagare-till-omanbukten-1.23425700
+2020-02-02,04:36,GP,Porsche stals – gärningsmän jagas,https://gp.se/nyheter/sverige/porsche-stals-g%C3%A4rningsm%C3%A4n-jagas-1.23425928
+2020-02-02,04:41,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,04:47,GP,Shanghai förlänger rapportidsfrist,https://gp.se/ekonomi/shanghai-f%C3%B6rl%C3%A4nger-rapportidsfrist-1.23426009
+2020-02-02,04:57,GP,Rekordlågt stöd för S,https://gp.se/nyheter/sverige/rekordl%C3%A5gt-st%C3%B6d-f%C3%B6r-s-1.23426219
+2020-02-02,04:57,GP,Första dödsfallet i Wuhanviruset utanför Kina,https://gp.se/nyheter/v%C3%A4rlden/f%C3%B6rsta-d%C3%B6dsfallet-i-wuhanviruset-utanf%C3%B6r-kina-1.23424665
+2020-02-02,05:04,GP,När musiken tystnade på Schillerska,https://gp.se/kultur/kultur/n%C3%A4r-musiken-tystnade-p%C3%A5-schillerska-1.23158337
+2020-02-02,05:04,GP,Här är 18 kändisar som gått på Schillerska gymnasiet,https://gp.se/kultur/kultur/h%C3%A4r-%C3%A4r-18-k%C3%A4ndisar-som-g%C3%A5tt-p%C3%A5-schillerska-gymnasiet-1.23160929
+2020-02-02,05:04,GP,13 sprängningar i Storgöteborg – mycket eller lite?,https://gp.se/nyheter/13-spr%C3%A4ngningar-i-storg%C3%B6teborg-mycket-eller-lite-1.23365787
+2020-02-02,05:08,GP,Lundqvist fick glänsa igen,https://gp.se/sport/lundqvist-fick-gl%C3%A4nsa-igen-1.23426492
+2020-02-02,05:16,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-02,06:02,IDG,88 procent av deltagarna sa att de kunde identifiera nätfiske, men bara 5 procent av dem kunde upptäcka alla bluffar.,https://computersweden.idg.se/2.2683/1.729989/usel-avgora-lurad-natet
+2020-02-02,06:41,GP,Svårare att räkna fåglar i år,https://gp.se/nyheter/sverige/sv%C3%A5rare-att-r%C3%A4kna-f%C3%A5glar-i-%C3%A5r-1.23426832
+2020-02-02,06:52,GP,Blodigt dåd i Airbnb-bostad,https://gp.se/nyheter/v%C3%A4rlden/blodigt-d%C3%A5d-i-airbnb-bostad-1.23427177
+2020-02-02,06:57,AB,Man hotad och rånad i bostad,https://live.aftonbladet.se/supernytt/news/5e36648e85ec770011af7800
+2020-02-02,07:00,GP,Lundqvist glänste och Steen hyllades,https://gp.se/sport/lundqvist-gl%C3%A4nste-och-steen-hyllades-1.23426492
+2020-02-02,07:02,GP,Första världskriget är närmare än på länge,https://gp.se/kultur/kultur/f%C3%B6rsta-v%C3%A4rldskriget-%C3%A4r-n%C3%A4rmare-%C3%A4n-p%C3%A5-l%C3%A4nge-1.23266946
+2020-02-02,07:02,GP,"Barcelona ville skriva ett åttaårskontrakt",https://gp.se/sport/fotboll/johnny-ekstr%C3%B6m-minns-tillbaka-p%C3%A5-karri%C3%A4ren-fick-ett-%C3%A5tta%C3%A5rskontrakt-av-barcelona-1.23356198
+2020-02-02,07:02,GP,Frågorna som Frölunda inte svarar på: "Hemligt läge nu",https://gp.se/sport/ishockey/finaldags-f%C3%B6r-fr%C3%B6lunda-d%C3%A5-blir-det-locket-p%C3%A5-1.23424172
+2020-02-02,07:04,GP,Misstänkt kidnappning i Djursholm,https://gp.se/nyheter/sverige/misst%C3%A4nkt-kidnappning-i-djursholm-1.23428064
+2020-02-02,07:08,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,07:11,IDG,Cybersäkerhet är just nu ett av branschens flitigast använda ord. Nu hakar även Manpower-bolaget Experis på hajpen.,https://computersweden.idg.se/2.2683/1.729865/manpower-sakerhet
+2020-02-02,07:21,IDG,Amazons molnbolag AWS fortsätter casha in och ökade sina intäkter med 34 procent det fjärde kvartalet. Med det slår man marknadens förväntningar.,https://computersweden.idg.se/2.2683/1.729992/aws-kassako
+2020-02-02,07:32,GP,Lundqvist glänste i seger: "Han var otrolig",https://gp.se/sport/lundqvist-gl%C3%A4nste-i-seger-han-var-otrolig-1.23426492
+2020-02-02,07:37,GP,Analytiker: Konjunkturbotten är nådd,https://gp.se/ekonomi/analytiker-konjunkturbotten-%C3%A4r-n%C3%A5dd-1.23428518
+2020-02-02,07:45,GP,Minst 20 trampades till döds vid gudstjänst,https://gp.se/nyheter/v%C3%A4rlden/minst-20-trampades-till-d%C3%B6ds-vid-gudstj%C3%A4nst-1.23428693
+2020-02-02,07:47,GP,Steen nådde drömgräns – i gamla hemstaden,https://gp.se/sport/steen-n%C3%A5dde-dr%C3%B6mgr%C3%A4ns-i-gamla-hemstaden-1.23428753
+2020-02-02,07:53,GP,Kvinna skadad i trafikolycka,https://gp.se/nyheter/sverige/kvinna-skadad-i-trafikolycka-1.23428778
+2020-02-02,08:11,GP,Kvinna knivskuren på spårvagn – man gripen,https://gp.se/nyheter/kvinna-knivskuren-p%C3%A5-sp%C3%A5rvagn-man-gripen-1.23428928
+2020-02-02,08:12,IDG,Ett nytt plugin har förvandlat Pirate Bay och andra torrentsajter till gigantiska streamingsajter. Men vem vågar använda det?,https:/2.1085/1.650114/allt-om-torrents-time
+2020-02-02,08:14,GP,The Mamas: Vi flyger fortfarande,https://gp.se/kultur/kultur-n%C3%B6je/the-mamas-vi-flyger-fortfarande-1.23429068
+2020-02-02,08:20,GP,Sandersfeber inför USA:s första primärval,https://gp.se/nyheter/v%C3%A4rlden/sandersfeber-inf%C3%B6r-usa-s-f%C3%B6rsta-prim%C3%A4rval-1.23429255
+2020-02-02,08:47,GP,Kvinna knivskuren på spårvagn,https://gp.se/nyheter/sverige/kvinna-knivskuren-p%C3%A5-sp%C3%A5rvagn-1.23429408
+2020-02-02,08:52,AB,Man bröt sig in med kofot – till sitt eget hem,https://live.aftonbladet.se/supernytt/news/5e367f9df4672b00129bae45
+2020-02-02,09:02,GP,"Det finns inga allergivänliga hundar och katter",https://gp.se/livsstil/l%C3%A4karen-allergiv%C3%A4nliga-katter-och-hundar-%C3%A4r-bara-en-myt-1.22902800
+2020-02-02,09:02,GP,Trots allergi räddade Ida övergivna katter,https://gp.se/livsstil/ida-r%C3%A4ddade-tv%C3%A5-%C3%B6vergivna-katter-trots-sin-allergi-1.22902291
+2020-02-02,09:02,GP,101 matcher med Andreas Alm,https://gp.se/sport/fotboll/101-matcher-med-andreas-alm-1.23424135
+2020-02-02,09:02,GP,Bäckentränarens frustration efter uddamålsförlusten,https://gp.se/sport/031-hockey/b%C3%A4ckentr%C3%A4narens-frustration-efter-uddam%C3%A5lsf%C3%B6rlusten-1.23327592
+2020-02-02,09:02,GP,Det här avgör hur länge du lever,https://gp.se/nyheter/sverige/det-h%C3%A4r-avg%C3%B6r-hur-l%C3%A4nge-du-lever-1.23429743
+2020-02-02,09:05,GP,Guvernören inför OS: Tvätta händerna,https://gp.se/sport/guvern%C3%B6ren-inf%C3%B6r-os-tv%C3%A4tta-h%C3%A4nderna-1.23430151
+2020-02-02,09:12,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e368448f4672b00129bae4b
+2020-02-02,09:33,GP,Experten: Så blir du bättre på att investera,https://gp.se/ekonomi/shoka-%C3%A5hrman-s%C3%A5-blir-du-b%C3%A4ttre-p%C3%A5-att-investera-1.23209730
+2020-02-02,09:39,GP,Jag saknade modet att fråga mamma,https://gp.se/nyheter/jag-saknade-modet-att-fr%C3%A5ga-mamma-1.23352743
+2020-02-02,09:45,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,09:48,GP,"Hållbara fonder mest marknadsföring",https://gp.se/ekonomi/h%C3%A5llbara-fonder-mest-marknadsf%C3%B6ring-1.23430735
+2020-02-02,09:48,GP,Trädgårdsmästare: Dags att rensa ogräs,https://gp.se/nyheter/sverige/tr%C3%A4dg%C3%A5rdsm%C3%A4stare-dags-att-rensa-ogr%C3%A4s-1.23430643
+2020-02-02,09:56,GP,Marcus Berg om framtiden: "Jag förstår Blåvitts fans",https://gp.se/sport/fotboll/marcus-berg-om-framtiden-jag-f%C3%B6rst%C3%A5r-bl%C3%A5vitts-fans-1.23430817
+2020-02-02,10:09,GP,Svenskar evakueras – anländer i dag,https://gp.se/nyheter/sverige/svenskar-evakueras-anl%C3%A4nder-i-dag-1.23431002
+2020-02-02,10:15,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,10:18,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,12:24,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:24,GP,Thorsten Flinck diskas från Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinck-diskas-fr%C3%A5n-melodifestivalen-1.23432147
+2020-02-02,12:24,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:24,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:24,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:24,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,12:24,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:24,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:24,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:24,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:24,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:24,GP,Thorsten Flinck diskas från Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinck-diskas-fr%C3%A5n-melodifestivalen-1.23432147
+2020-02-02,12:24,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:24,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:24,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:24,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,12:24,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:24,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:24,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:24,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:25,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:25,GP,Thorsten Flinck diskas från Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinck-diskas-fr%C3%A5n-melodifestivalen-1.23432147
+2020-02-02,12:25,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:25,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:25,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:25,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,12:25,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:25,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:25,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:25,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:26,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:26,GP,Thorsten Flinck diskas från Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinck-diskas-fr%C3%A5n-melodifestivalen-1.23432147
+2020-02-02,12:26,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:26,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:26,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:26,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,12:26,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:26,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:26,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:26,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:28,GP,Thorsten Flinks team: Vi är otroligt ledsna,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinks-team-vi-%C3%A4r-otroligt-ledsna-1.23432147
+2020-02-02,12:28,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,12:30,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,12:34,GP,Thorsten Flinks team: Vi är otroligt ledsna,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinks-team-vi-%C3%A4r-otroligt-ledsna-1.23432147
+2020-02-02,12:34,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:34,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:34,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:34,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:34,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,12:34,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:34,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:34,AB,Thorsten Flinck diskas från Melodifestivalen,https://live.aftonbladet.se/supernytt/news/5e36a26f85ec770011af7833
+2020-02-02,12:34,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:34,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:34,GP,Thorsten Flinks team: Vi är otroligt ledsna,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinks-team-vi-%C3%A4r-otroligt-ledsna-1.23432147
+2020-02-02,12:34,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:34,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:34,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:34,GP,Svenska Greta i karantän efter virusutbrottet,https://gp.se/nyheter/sverige/svenska-greta-i-karant%C3%A4n-efter-virusutbrottet-1.23433216
+2020-02-02,12:34,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,12:34,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:34,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:34,AB,Thorsten Flinck diskas från Melodifestivalen,https://live.aftonbladet.se/supernytt/news/5e36a26f85ec770011af7833
+2020-02-02,12:34,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:34,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:38,GP,Las Vegas byter ut klassisk slogan i reklamkampanj,https://gp.se/nyheter/v%C3%A4rlden/reklamkampanj-byter-ut-las-vegas-klassiska-slogan-1.23434128
+2020-02-02,12:38,GP,Rattfyllo dödade tre barn,https://gp.se/nyheter/v%C3%A4rlden/rattfyllo-d%C3%B6dade-tre-barn-1.23434090
+2020-02-02,12:38,GP,Utdragen strid mellan cyklister och vandrare,https://gp.se/nyheter/g%C3%B6teborg/l%C3%A5ngdragen-strid-mellan-cyklister-och-fotg%C3%A4ngare-i-%C3%A4ngg%C3%A5rdsbergen-1.23392754
+2020-02-02,12:38,GP,Thorsten Flinks team: Vi är otroligt ledsna,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flinks-team-vi-%C3%A4r-otroligt-ledsna-1.23432147
+2020-02-02,12:38,GP,Frankrike skickar fler soldater till Sahel,https://gp.se/nyheter/v%C3%A4rlden/frankrike-skickar-fler-soldater-till-sahel-1.23433755
+2020-02-02,12:38,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,12:38,AB,Lugnt när Bandidos firade 25 år,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:38,AB,Larm om hög smäll var tappad container,https://live.aftonbladet.se/supernytt/news/5e36a5e485ec770011af7839
+2020-02-02,12:38,AB,Thorsten Flinck diskas från Melodifestivalen,https://live.aftonbladet.se/supernytt/news/5e36a26f85ec770011af7833
+2020-02-02,12:38,AB,Två till sjukhus efter voltolycka,https://live.aftonbladet.se/supernytt/news/5e369302f4672b00129bae59
+2020-02-02,12:38,AB,Brand i villa – räddningstjänsten på plats,https://live.aftonbladet.se/supernytt/news/5e368bf585ec770011af781b
+2020-02-02,12:39,GP,Tv-predikan väckte hat: "Beklagligt",https://gp.se/nyheter/sverige/tv-predikan-v%C3%A4ckte-hat-beklagligt-1.23428282
+2020-02-02,12:39,GP,Utslängd från skolan – sedan har designern Naim Josefi fått sin revansch,https://gp.se/livsstil/utsl%C3%A4ngd-fr%C3%A5n-skolan-sedan-har-designern-naim-josefi-f%C3%A5tt-sin-revansch-1.23167523
+2020-02-02,12:39,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,12:45,GP,Evakuerade från Kina snart hemma i Sverige,https://gp.se/nyheter/sverige/evakuerade-fr%C3%A5n-kina-snart-hemma-i-sverige-1.23431002
+2020-02-02,12:48,GP,Djokovic utbrott på domaren: "Du gör dig till kändis",https://gp.se/sport/djokovic-utbrott-p%C3%A5-domaren-du-g%C3%B6r-dig-till-k%C3%A4ndis-1.23434420
+2020-02-02,12:48,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,12:55,GP,Fyra anhållna efter misstänkt kidnappning,https://gp.se/nyheter/sverige/fyra-anh%C3%A5llna-efter-misst%C3%A4nkt-kidnappning-1.23428064
+2020-02-02,12:55,GP,Flicka skakad efter fall i fjällen,https://gp.se/nyheter/sverige/flicka-skakad-efter-fall-i-fj%C3%A4llen-1.23434642
+2020-02-02,12:55,AB,Man och kvinna begärs häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36b85bf4672b00129bae7b
+2020-02-02,12:56,AB,Föräldrar begärs häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36b85bf4672b00129bae7b
+2020-02-02,13:02,GP,Begärs häktade för vållande till annans död,https://gp.se/nyheter/sverige/beg%C3%A4rs-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-annans-d%C3%B6d-1.23435116
+2020-02-02,13:02,GP,Nödläge i Somalia när gräshoppor svärmar in,https://gp.se/nyheter/v%C3%A4rlden/n%C3%B6dl%C3%A4ge-i-somalia-n%C3%A4r-gr%C3%A4shoppor-sv%C3%A4rmar-in-1.23435015
+2020-02-02,13:05,GP,Northug ångrade comebacken efter 300 meter,https://gp.se/sport/northug-%C3%A5ngrade-comebacken-efter-300-meter-1.23435183
+2020-02-02,13:06,GP,Celik tillbaka i Gais-tröjan: "Fått massa kärlek",https://gp.se/sport/fotboll/celik-om-gais-comebacken-f%C3%A5tt-massa-k%C3%A4rlek-1.23435253
+2020-02-02,13:08,AB,Krockade med fyrhjuling – allvarligt skadad,https://live.aftonbladet.se/supernytt/news/5e36bb9385ec770011af7852
+2020-02-02,13:13,GP,Svensktoppen: Miss Li kvar i täten,https://gp.se/kultur/kultur-n%C3%B6je/svensktoppen-miss-li-kvar-i-t%C3%A4ten-1.23435339
+2020-02-02,13:18,GP,Två begärs häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-beg%C3%A4rs-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,13:23,GP,Rattfyllo dödade fyra barn,https://gp.se/nyheter/v%C3%A4rlden/rattfyllo-d%C3%B6dade-fyra-barn-1.23434090
+2020-02-02,13:23,GP,Guiden till Göteborgs alla bryggerier med hantverksöl,https://gp.se/livsstil/tv%C3%A5-dagar/h%C3%A4r-%C3%A4r-guiden-till-g%C3%B6teborgs-alla-bryggerier-med-hantverks%C3%B6l-1.23268690
+2020-02-02,13:31,GP,Wallberg tvåa i Calgary: "Väntat på det här",https://gp.se/sport/wallberg-tv%C3%A5a-i-calgary-v%C3%A4ntat-p%C3%A5-det-h%C3%A4r-1.23431312
+2020-02-02,13:36,IDG,Det har blivit dags att avslöja Sveriges 100 bästa på nätet. Här är sajterna, tjänsterna och personerna som får en utmärkelse på den prestigefyllda listan Topp100 2017.,https://topp100.idg.se/2.39772/1.676684/topp100-2017-hela-listan
+2020-02-02,13:50,GP,Djokovic tog åttonde (!) titeln i Melbourne,https://gp.se/sport/novak-djokovic-segrare-i-australian-open-1.23436014
+2020-02-02,13:50,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,13:56,GP,Schweizisk bank infiltrerade Greenpeace,https://gp.se/ekonomi/schweizisk-bank-infiltrerade-greenpeace-1.23436234
+2020-02-02,13:56,AB,Fotgängare till sjukhus efter trafikolycka,https://live.aftonbladet.se/supernytt/news/5e36c6ca85ec770011af7860
+2020-02-02,14:04,GP,Djokovic tog åttonde titeln efter rysare,https://gp.se/sport/djokovic-tog-%C3%A5ttonde-titeln-efter-rysare-1.23436399
+2020-02-02,14:05,AB,Flera fordon inblandade i trafikolycka,https://live.aftonbladet.se/supernytt/news/5e36c8f6f4672b00129bae86
+2020-02-02,14:06,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,14:08,GP,Målsuccén fortsätter för Isak,https://gp.se/sport/m%C3%A5lsucc%C3%A9n-forts%C3%A4tter-f%C3%B6r-isak-1.23436501
+2020-02-02,14:12,GP,La Bohème borde lita mer på vad som sägs i musiken,https://gp.se/kultur/kultur/recension-la-boheme-g%C3%B6teborgsoperan-1.23436540
+2020-02-02,14:16,GP,Tumult utanför restaurang i Majorna – flydde i bil,https://gp.se/nyheter/misshandlade-ordningsvakt-och-taxichauff%C3%B6r-flydde-i-bil-1.23436621
+2020-02-02,14:20,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt
+2020-02-02,14:22,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-02,14:30,GP,Nytt kolkraftverk ockuperat i miljöprotest,https://gp.se/nyheter/v%C3%A4rlden/nytt-kolkraftverk-ockuperat-i-milj%C3%B6protest-1.23437000
+2020-02-02,14:30,GP,Olsson körde ur på tio sekunder: "Fiasko",https://gp.se/sport/olsson-k%C3%B6rde-ur-p%C3%A5-tio-sekunder-fiasko-1.23431866
+2020-02-02,14:33,GP,Minst 20 trampades till döds vid gudstjänst,https://gp.se/nyheter/v%C3%A4rlden/minst-20-trampades-till-d%C3%B6ds-vid-gudstj%C3%A4nst-1.23428693
+2020-02-02,14:49,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36d330f4672b00129bae96
+2020-02-02,14:57,GP,I bland är en bra jäkla tennisfinal precis vad jag behöver,https://gp.se/sport/i-bland-%C3%A4r-en-bra-j%C3%A4kla-tennisfinal-precis-vad-jag-beh%C3%B6ver-1.23437371
+2020-02-02,14:57,GP,Lanserar nytt varumärke med pop up-butik mitt i stan,https://gp.se/livsstil/tv%C3%A5-dagar/karolina-kling-g%C3%A5r-fr%C3%A5n-mode-till-inredning-lanserar-eget-varum%C3%A4rke-1.23259247
+2020-02-02,15:01,GP,Flicka föll från klippa – förd till sjukhus,https://gp.se/nyheter/sverige/flicka-f%C3%B6ll-fr%C3%A5n-klippa-f%C3%B6rd-till-sjukhus-1.23434642
+2020-02-02,15:06,GP,Tuff svensk dag när McDowell vann,https://gp.se/sport/tuff-svensk-dag-n%C3%A4r-mcdowell-vann-1.23437832
+2020-02-02,15:08,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,15:24,GP,Svensk storseger i VM-kvalet,https://gp.se/sport/svensk-storseger-i-vm-kvalet-1.23438181
+2020-02-02,15:32,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,15:34,GP,Hotellen blåser nytt liv i bortglömt Portugal,https://gp.se/livsstil/tv%C3%A5-dagar/hotellen-bl%C3%A5ser-nytt-liv-i-bortgl%C3%B6mt-portugal-1.23261745
+2020-02-02,15:39,GP,Snart kan du söka till SVT:s nya frågesport,https://gp.se/kultur/kultur/efter-vem-vet-mest-s%C3%A5-blir-svt-s-nya-fr%C3%A5gesport-1.23272823
+2020-02-02,15:55,GP,Irans president vill se ökad väljarmakt,https://gp.se/nyheter/v%C3%A4rlden/irans-president-vill-se-%C3%B6kad-v%C3%A4ljarmakt-1.23438918
+2020-02-02,16:02,GP,Thailändskt framsteg i behandling av viruset,https://gp.se/nyheter/v%C3%A4rlden/thail%C3%A4ndskt-framsteg-i-behandling-av-viruset-1.23439166
+2020-02-02,16:05,GP,Avliden har legat tio månader i bårhus,https://gp.se/nyheter/sverige/avliden-har-legat-tio-m%C3%A5nader-i-b%C3%A5rhus-1.23439409
+2020-02-02,16:05,GP,Här ska det bli nytt i centrala Göteborg,https://gp.se/ekonomi/h%C3%A4r-ska-det-bli-nytt-i-centrala-g%C3%B6teborg-1.23355975
+2020-02-02,16:07,IDG,Ett stort dataintrång drabbade FN i somras. Hacket skedde genom en sårbarhet i Microsofts Sharepoint.,https://computersweden.idg.se/2.2683/1.729939/cyberattack-fn
+2020-02-02,16:10,GP,Två häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,16:10,IDG,Amazons molnbolag AWS fortsätter casha in och ökade sina intäkter med 34 procent det fjärde kvartalet. Med det slår man marknadens förväntningar.,https://computersweden.idg.se/2.2683/1.729992/aws-kassako
+2020-02-02,16:11,GP,Jonathan Levi klar för IFK Norrköping,https://gp.se/sport/jonathan-levi-klar-f%C3%B6r-ifk-norrk%C3%B6ping-1.23439643
+2020-02-02,16:15,GP,Thorsten Flincks team: Vi är otroligt ledsna,https://gp.se/kultur/kultur-n%C3%B6je/thorsten-flincks-team-vi-%C3%A4r-otroligt-ledsna-1.23432147
+2020-02-02,16:19,IDG,Hur undviker man de vanligaste fallgroparna när man ska installera ett trådlöst nätverk? Det är dags för praktik i radioskolan. Lärare är TechWorlds wi-fi-expert Ronny Peschel – häng med!,https://techworld.idg.se/2.2524/1.545331/radioskolan-del-2sa-installerar-du-tradlost-utan-strul
+2020-02-02,16:26,GP,Knivattack i London – gärningsman skjuten,https://gp.se/nyheter/v%C3%A4rlden/knivattack-i-london-g%C3%A4rningsman-skjuten-1.23440034
+2020-02-02,16:28,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,16:30,GP,TT-FLASH: Flera knivhuggna i London,https://gp.se/nyheter/v%C3%A4rlden/tt-flash-flera-knivhuggna-i-london-1.23440240
+2020-02-02,16:34,GP,Misstänkt terrorbrott i London – flera knivhuggna,https://gp.se/nyheter/v%C3%A4rlden/knivattack-i-london-g%C3%A4rningsman-skjuten-1.23440034
+2020-02-02,16:51,GP,Grannar i skräck efter mystiska påhälsningar,https://gp.se/nyheter/g%C3%B6teborg/grannar-i-skr%C3%A4ck-efter-mystiska-p%C3%A5h%C3%A4lsningar-1.23435643
+2020-02-02,16:55,GP,Fotgängare påkörda vid övergångsställe,https://gp.se/nyheter/sverige/fotg%C3%A4ngare-p%C3%A5k%C3%B6rda-vid-%C3%B6verg%C3%A5ngsst%C3%A4lle-1.23440842
+2020-02-02,16:57,GP,Carola Grahn bejakar den egna ofullkomligheten,https://gp.se/kultur/kultur/recension-i-have-scrutinized-every-stone-and-log-on-the-southwest-side-of-the-mountain-r%C3%B6da-sten-konsthall-1.23441010
+2020-02-02,17:03,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:07,GP,Sandersfeber inför USA:s första primärval,https://gp.se/nyheter/v%C3%A4rlden/sandersfeber-inf%C3%B6r-usa-s-f%C3%B6rsta-prim%C3%A4rval-1.23429255
+2020-02-02,17:07,GP,Brand i radhus i Bollebygd,https://gp.se/nyheter/v%C3%A4stsverige/brand-i-radhus-i-bollebygd-1.23441396
+2020-02-02,17:11,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:17,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:17,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:22,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:25,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:25,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:25,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:25,GP,Sandersfeber inför USA:s första primärval,https://gp.se/nyheter/v%C3%A4rlden/sandersfeber-inf%C3%B6r-usa-s-f%C3%B6rsta-prim%C3%A4rval-1.23429255
+2020-02-02,17:25,GP,Brand i radhus i Bollebygd,https://gp.se/nyheter/v%C3%A4stsverige/brand-i-radhus-i-bollebygd-1.23441396
+2020-02-02,17:25,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-02,17:25,AB,Flera fordon inblandade i trafikolycka,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:25,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:25,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:25,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:25,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36d330f4672b00129bae96
+2020-02-02,17:25,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:25,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:25,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:25,GP,Sandersfeber inför USA:s första primärval,https://gp.se/nyheter/v%C3%A4rlden/sandersfeber-inf%C3%B6r-usa-s-f%C3%B6rsta-prim%C3%A4rval-1.23429255
+2020-02-02,17:25,GP,Brand i radhus i Bollebygd,https://gp.se/nyheter/v%C3%A4stsverige/brand-i-radhus-i-bollebygd-1.23441396
+2020-02-02,17:25,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-02,17:25,AB,Flera fordon inblandade i trafikolycka,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:25,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:25,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:25,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:25,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36d330f4672b00129bae96
+2020-02-02,17:26,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:26,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:26,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:26,GP,Sandersfeber inför USA:s första primärval,https://gp.se/nyheter/v%C3%A4rlden/sandersfeber-inf%C3%B6r-usa-s-f%C3%B6rsta-prim%C3%A4rval-1.23429255
+2020-02-02,17:26,GP,Brand i radhus i Bollebygd,https://gp.se/nyheter/v%C3%A4stsverige/brand-i-radhus-i-bollebygd-1.23441396
+2020-02-02,17:26,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,17:26,AB,Flera fordon inblandade i trafikolycka,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:26,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:26,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:26,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:26,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36d330f4672b00129bae96
+2020-02-02,17:27,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:27,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:27,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:27,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:27,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:27,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,17:27,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:27,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:27,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:27,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:27,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:28,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:28,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:28,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:28,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:28,GP,Arsenal på väg mot rekord i kryss?,https://gp.se/sport/arsenal-p%C3%A5-v%C3%A4g-mot-rekord-i-kryss-1.23441572
+2020-02-02,17:28,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,17:28,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:28,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:28,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:28,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:28,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:41,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:41,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:41,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:41,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:41,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:41,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,17:41,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:41,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:41,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:41,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:41,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:41,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:41,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:41,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:41,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:41,GP,Heid värvar ungdomslandslagsspelare,https://gp.se/sport/handboll/heid-v%C3%A4rvar-ungdomslandslagsspelare-1.23441754
+2020-02-02,17:41,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,17:41,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:41,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:41,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:41,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:41,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:42,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,17:42,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:42,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:42,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:42,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:42,IDG,IBM har utsett Arvind Krishna till ny vd. Därmed tar han över rodret på it-jätten efter Virginia Rometty som innehaft posten i åtta år.,https://computersweden.idg.se/2.2683/1.729991/arvind-krishna-vd-ibm
+2020-02-02,17:42,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:42,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:42,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:42,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:42,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:42,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,17:42,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:42,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:42,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:42,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:42,IDG,IBM har utsett Arvind Krishna till ny vd. Därmed tar han över rodret på it-jätten efter Virginia Rometty som innehaft posten i åtta år.,https://computersweden.idg.se/2.2683/1.729991/arvind-krishna-vd-ibm
+2020-02-02,17:42,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:42,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:42,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:42,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:42,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:43,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,17:43,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:43,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:43,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:43,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:43,IDG,IBM har utsett Arvind Krishna till ny vd. Därmed tar han över rodret på it-jätten efter Virginia Rometty som innehaft posten i åtta år.,https://computersweden.idg.se/2.2683/1.729991/arvind-krishna-vd-ibm
+2020-02-02,17:43,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:43,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:43,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:43,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:43,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:44,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,17:45,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,17:45,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:45,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:45,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:45,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:45,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,17:45,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:45,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:45,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:45,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:45,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,17:51,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,17:51,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,17:51,GP,Man skadad i radhusbrand,https://gp.se/nyheter/sverige/man-skadad-i-radhusbrand-1.23442175
+2020-02-02,17:51,GP,Chelsea hakar på i toppen efter 8–0-kross,https://gp.se/sport/chelsea-hakar-p%C3%A5-i-toppen-efter-8-0-kross-1.23442110
+2020-02-02,17:51,GP,Skrämmande virusfilmen lockar ny publik,https://gp.se/kultur/kultur-n%C3%B6je/skr%C3%A4mmande-virusfilmen-lockar-ny-publik-1.23441840
+2020-02-02,17:51,IDG,Den 25 maj 2018 trädde GDPR, de nya dataskyddsreglerna inom EU, i kraft. Här är allt du behöver veta om ditt företag eller din organisation hanterar personuppgifter.,https://cio.idg.se/2.1782/1.674864/gdpr
+2020-02-02,17:51,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:51,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,17:51,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,17:51,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,17:51,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,18:08,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:08,GP,Avliden har legat tio månader i bårhus,https://gp.se/nyheter/sverige/avliden-har-legat-tio-m%C3%A5nader-i-b%C3%A5rhus-1.23439409
+2020-02-02,18:08,GP,Två häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,18:08,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,18:08,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,18:08,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,18:08,AB,Två personer påkörda– båda till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:08,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:08,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:08,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:08,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e36dd67a6db5200113d9536
+2020-02-02,18:08,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:08,GP,Avliden har legat tio månader i bårhus,https://gp.se/nyheter/sverige/avliden-har-legat-tio-m%C3%A5nader-i-b%C3%A5rhus-1.23439409
+2020-02-02,18:08,GP,Två häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,18:08,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,18:08,GP,Försökte stjäla bil – med pistolliknande föremål,https://gp.se/nyheter/g%C3%B6teborg/f%C3%B6rs%C3%B6kte-stj%C3%A4la-bil-med-pistolliknande-f%C3%B6rem%C3%A5l-1.23442455
+2020-02-02,18:08,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,18:08,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:08,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:08,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:08,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:08,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:09,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:09,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:09,GP,Avliden har legat tio månader i bårhus,https://gp.se/nyheter/sverige/avliden-har-legat-tio-m%C3%A5nader-i-b%C3%A5rhus-1.23439409
+2020-02-02,18:09,GP,Två häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,18:09,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,18:09,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:09,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:09,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:09,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:09,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:09,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:10,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,18:11,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:11,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:11,GP,Avliden har legat tio månader i bårhus,https://gp.se/nyheter/sverige/avliden-har-legat-tio-m%C3%A5nader-i-b%C3%A5rhus-1.23439409
+2020-02-02,18:11,GP,Två häktade för vållande till barns död,https://gp.se/nyheter/sverige/tv%C3%A5-h%C3%A4ktade-f%C3%B6r-v%C3%A5llande-till-barns-d%C3%B6d-1.23435116
+2020-02-02,18:11,GP,Samuel Lindberg hjälte för AHK efter målshow,https://gp.se/sport/handboll/samuel-lindberg-hj%C3%A4lte-f%C3%B6r-ahk-efter-m%C3%A5lshow-1.23442682
+2020-02-02,18:11,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,18:11,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:11,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:11,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:11,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:11,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:13,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:26,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:26,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:26,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:26,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:26,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:26,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:26,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:26,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:26,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:26,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:26,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:28,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:28,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:28,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:28,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:28,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:28,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:28,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:28,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:28,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:28,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:28,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:29,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:29,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:29,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:29,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:29,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:29,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:29,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:29,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:29,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:29,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:29,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:31,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:31,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:31,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:31,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:31,GP,Från västkusten – till Silverstone och Le Mans,https://gp.se/sport/johan-stigefelt-leder-motogp-stallet-fr%C3%A5n-villan-i-kullavik-1.23380304
+2020-02-02,18:31,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:31,AB,Uppgifter: Knivman skjuten av polis i London,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:31,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:31,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:31,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:31,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e36ea6ca6db5200113d9546
+2020-02-02,18:43,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:43,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:43,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:43,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:43,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:43,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:43,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:43,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:43,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:43,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:43,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:44,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:44,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:44,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:44,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:44,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:44,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:44,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:44,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:44,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:44,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:44,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:45,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:45,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:45,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:45,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:45,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:45,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:45,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:45,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:45,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:45,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:45,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:46,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:46,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:46,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:46,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:46,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:46,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:46,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:46,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:46,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:46,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:46,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:46,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:46,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:46,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:46,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:46,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:46,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:46,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:46,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:46,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:46,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:46,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:47,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:47,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:47,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:47,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:47,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:47,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:47,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:47,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:47,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:47,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:47,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:47,GP,Manuspris till "Parasit" och "Jojo Rabbit",https://gp.se/kultur/kultur-n%C3%B6je/manuspris-till-parasit-och-jojo-rabbit-1.23444260
+2020-02-02,18:47,GP,GFC spelade ut men föll mot norska mästaren,https://gp.se/sport/fotboll/gfc-spelade-ut-men-f%C3%B6ll-mot-norska-m%C3%A4staren-1.23443920
+2020-02-02,18:47,GP,Björnen sover... inte,https://gp.se/nyheter/sverige/bj%C3%B6rnen-sover-inte-1.23443781
+2020-02-02,18:47,GP,Italien tar emot 363 migranter från fartyg,https://gp.se/nyheter/v%C3%A4rlden/italien-tar-emot-363-migranter-fr%C3%A5n-fartyg-1.23443581
+2020-02-02,18:47,GP,Dubbla svenska mål i Madridderbyt,https://gp.se/sport/dubbla-svenska-m%C3%A5l-i-madridderbyt-1.23443307
+2020-02-02,18:47,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,18:47,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:47,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,18:47,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,18:47,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,18:47,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,18:48,GP,Sävehof föll i streckmöte,https://gp.se/sport/s%C3%A4vehof-f%C3%B6ll-i-streckm%C3%B6te-1.23444483
+2020-02-02,18:48,GP,Man fick livshotande skador i brand,https://gp.se/nyheter/sverige/man-fick-livshotande-skador-i-brand-1.23442175
+2020-02-02,18:48,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:49,GP,Sävehof föll i streckmöte,https://gp.se/sport/s%C3%A4vehof-f%C3%B6ll-i-streckm%C3%B6te-1.23444483
+2020-02-02,18:49,GP,Man fick livshotande skador i brand,https://gp.se/nyheter/sverige/man-fick-livshotande-skador-i-brand-1.23442175
+2020-02-02,18:49,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,18:49,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,18:50,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,18:54,GP,Attack mot civila i Burkina Faso – många döda,https://gp.se/nyheter/v%C3%A4rlden/attack-mot-civila-i-burkina-faso-m%C3%A5nga-d%C3%B6da-1.23444734
+2020-02-02,19:06,GP,Hon har skrivit tv-serien "Tsunami",https://gp.se/kultur/kultur/sara-kadefors-g%C3%A5r-ig%C3%A5ng-p%C3%A5-trassliga-relationer-1.23355357
+2020-02-02,19:10,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:10,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:11,IDG,Nu kommer Amazon Web Services hybridmolntjänst Outposts till Sverige. ”Det blir en förlängning av molnet in till sitt eget datacenter”, säger Johan Broman på AWS.,https://computersweden.idg.se/2.2683/1.729676/aws-hybridmoln-sverige
+2020-02-02,19:14,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:16,GP,Hon har skapat tv-serien "Tsunami",https://gp.se/kultur/kultur/sara-kadefors-g%C3%A5r-ig%C3%A5ng-p%C3%A5-trassliga-relationer-1.23355357
+2020-02-02,19:16,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:16,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:16,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:16,GP,Hon har skapat tv-serien "Tsunami",https://gp.se/kultur/kultur/sara-kadefors-g%C3%A5r-ig%C3%A5ng-p%C3%A5-trassliga-relationer-1.23355357
+2020-02-02,19:16,GP,Attack mot civila i Burkina Faso – många döda,https://gp.se/nyheter/v%C3%A4rlden/attack-mot-civila-i-burkina-faso-m%C3%A5nga-d%C3%B6da-1.23444734
+2020-02-02,19:16,IDG,Nu kommer Amazon Web Services hybridmolntjänst Outposts till Sverige. ”Det blir en förlängning av molnet in till sitt eget datacenter”, säger Johan Broman på AWS.,https://computersweden.idg.se/2.2683/1.729676/aws-hybridmoln-sverige
+2020-02-02,19:16,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:16,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:16,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:16,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:16,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:17,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:19,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:19,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:19,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:19,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:19,GP,Hon har skapat tv-serien "Tsunami",https://gp.se/kultur/kultur/sara-kadefors-g%C3%A5r-ig%C3%A5ng-p%C3%A5-trassliga-relationer-1.23355357
+2020-02-02,19:19,IDG,Nu kommer Amazon Web Services hybridmolntjänst Outposts till Sverige. ”Det blir en förlängning av molnet in till sitt eget datacenter”, säger Johan Broman på AWS.,https://computersweden.idg.se/2.2683/1.729676/aws-hybridmoln-sverige
+2020-02-02,19:19,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:19,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:19,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:19,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:19,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:25,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:25,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:25,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:25,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:25,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:25,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:25,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:25,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:25,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:25,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:25,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:26,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:26,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:26,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:26,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:26,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:26,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:26,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:26,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:26,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:26,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:26,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:27,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:27,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:27,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:27,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:27,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:27,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:27,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:27,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:27,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:27,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:27,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:28,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:28,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:28,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:28,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:28,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:28,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:28,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:28,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:28,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:28,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:28,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:28,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:28,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:28,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:28,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:28,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:28,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:28,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:28,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:28,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:28,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:28,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:29,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:29,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:29,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:29,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:29,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:29,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:29,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:29,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:29,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:29,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:29,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:29,GP,Terrorrörelse påstår sig ligga bakom USA-dåd,https://gp.se/nyheter/v%C3%A4rlden/terrorr%C3%B6relse-p%C3%A5st%C3%A5r-sig-ligga-bakom-usa-d%C3%A5d-1.23445480
+2020-02-02,19:29,GP,Venedig tömdes efter krigsbombsfynd,https://gp.se/nyheter/v%C3%A4rlden/venedig-t%C3%B6mdes-efter-krigsbombsfynd-1.23445265
+2020-02-02,19:29,GP,Dålig första halvlek sänkte Sävehof i Champions League,https://gp.se/sport/handboll/d%C3%A5lig-f%C3%B6rsta-halvlek-s%C3%A4nkte-s%C3%A4vehof-i-champions-league-1.23445008
+2020-02-02,19:29,GP,De slåss om väljarna i Iowa och New Hampshire,https://gp.se/nyheter/v%C3%A4rlden/de-sl%C3%A5ss-om-v%C3%A4ljarna-i-iowa-och-new-hampshire-1.23317784
+2020-02-02,19:29,GP,Valet kan avgöras i Iowas lador och kaféer,https://gp.se/nyheter/v%C3%A4rlden/valet-av-kandidat-kan-avg%C3%B6ras-i-iowas-lador-och-kaf%C3%A9er-1.23318133
+2020-02-02,19:29,IDG,Med hjälp av det nya projektet OpenSK kan du göra dina egna säkerhetsnycklar som är kompatibla med Fido U2F och Fido 2.,https://techworld.idg.se/2.2524/1.730016/google-opensource-sakerhetsnycklar
+2020-02-02,19:29,AB,Föräldrar häktade efter 3-årings död,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:29,AB,Två knivskurna i Gent: Misstänkt man skjuten,https://live.aftonbladet.se/supernytt/news/5e3708da54ab5b0011727cb7
+2020-02-02,19:29,AB,Död person har legat på bårhus i tio månader,https://live.aftonbladet.se/supernytt/news/5e3701fe54ab5b0011727cb5
+2020-02-02,19:29,AB,Radhusbrand i Bollebygd– en till sjukhus,https://live.aftonbladet.se/supernytt/news/5e36f841f4672b00129baec9
+2020-02-02,19:29,AB,Ulla Andersson nomineras till att bli ny V-ledare,https://live.aftonbladet.se/supernytt/news/5e36f2b5a6db5200113d9549
+2020-02-02,19:31,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,19:31,IDG,Det är dags att sluta med Whatsapp, Messenger och sms. Det finns ett alternativ som både är säkrare och som håller all din data hemlig.,https:/2.1085/1.665484/chatta-hemligt-krypterat
+2020-02-02,19:34,GP,Arsenal kryssade igen – Tottenham slog City,https://gp.se/sport/arsenal-kryssade-igen-tottenham-slog-city-1.23441572
+2020-02-02,19:34,GP,Arsenal kryssade igen – Tottenham slog City,https://gp.se/sport/arsenal-kryssade-igen-tottenham-slog-city-1.23441572
+2020-02-02,19:41,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,19:41,IDG,Ambia Trading Group, som tidigt lade bud på Teknikmagasinets konkursbo, har nu köpt verksamheten för 41 miljoner kronor. Kedjan ska leva vidare, men många butiker kommer också att läggas ner.,https://computersweden.idg.se/2.2683/1.729946/teknikmagasinet-lever-vidare
+2020-02-02,20:07,IDG,Det är Microsoft som är huvudleverantör i molnet för den nya nordiska konsultgiganten Tietoevry. Det basunerar bolaget nu ut tillsammans med Microsoft.,https://computersweden.idg.se/2.2683/1.729974/tietoevry-azure-specialister
+2020-02-02,20:07,IDG,Det är Microsoft som är huvudleverantör i molnet för den nya nordiska konsultgiganten Tietoevry. Det basunerar bolaget nu ut tillsammans med Microsoft.,https://computersweden.idg.se/2.2683/1.729974/tietoevry-azure-specialister
+2020-02-02,20:09,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,20:09,IDG,Många konversationer på planeringsverktyget Trello är markerade som offentliga, något som gör att vem som helst kan ta del av känslig information om ditt företag.,https://techworld.idg.se/2.2524/1.730028/kanslig-information-trello
+2020-02-02,20:16,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,20:16,IDG,Om du hittar en sårbarhet som gör det möjligt att köra skadlig kod på nyare modeller av Xbox kan du få upp till 193 000 kronor i ersättning.,https://techworld.idg.se/2.2524/1.730011/microsoft-buggjagarprogram-xbox
+2020-02-02,20:31,GP,Coronaviruset – svår balans mellan oro och lugn,https://gp.se/nyheter/sverige/coronaviruset-sv%C3%A5r-balans-mellan-oro-och-lugn-1.23446759
+2020-02-02,20:52,AB,Eldade på äldre mans hår på SL-buss,https://live.aftonbladet.se/supernytt/news/5e37283c54ab5b0011727cc7
+2020-02-02,20:53,IDG,Chatbotten Meena drivs av 341 gigabyte sociala medier och ska kunna prata om i stort sett allting.,https://computersweden.idg.se/2.2683/1.729987/google-meena-chatbot
+2020-02-02,20:59,GP,Därför får Västsverige en koldioxidbudget,https://gp.se/nyheter/v%C3%A4stsverige/v%C3%A4stra-g%C3%B6taland-p%C3%A5-v%C3%A4g-att-f%C3%A5-en-koldioxidbudget-1.23392181
+2020-02-02,21:00,GP,Fler distrikt stöttar Ulla Andersson,https://gp.se/nyheter/sverige/fler-distrikt-st%C3%B6ttar-ulla-andersson-1.23447203
+2020-02-02,21:14,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-02,21:15,GP,Crosbys Pittsburgh vann stjärnmöte,https://gp.se/sport/crosbys-pittsburgh-vann-stj%C3%A4rnm%C3%B6te-1.23447734
+2020-02-02,21:15,GP,Massör dömd för våldtäkt på hotell,https://gp.se/nyheter/sverige/mass%C3%B6r-d%C3%B6md-f%C3%B6r-v%C3%A5ldt%C3%A4kt-p%C3%A5-hotell-1.23447620
+2020-02-02,21:20,AB,20-tal personer på planet från Wuhan uppvisar ”misstänkta symptom”,https://live.aftonbladet.se/supernytt/news/5e372ef5f4672b00129baedd
+2020-02-02,21:33,GP,Iran erbjuder ersättning till offers anhöriga,https://gp.se/nyheter/v%C3%A4rlden/iran-erbjuder-ers%C3%A4ttning-till-offers-anh%C3%B6riga-1.23448150
+2020-02-02,21:37,GP,Flygande trekant – fortfarande olöst fall,https://gp.se/nyheter/sverige/flygande-trekant-fortfarande-ol%C3%B6st-fall-1.23448338
+2020-02-02,21:42,GP,Glödhet Ronaldo förlängde målsvit,https://gp.se/sport/gl%C3%B6dhet-ronaldo-f%C3%B6rl%C3%A4ngde-m%C3%A5lsvit-1.23448364
+2020-02-02,21:54,GP,Häcken föll – efter två drömmål på fyra minuter,https://gp.se/sport/fotboll/h%C3%A4cken-f%C3%B6ll-efter-tv%C3%A5-dr%C3%B6mm%C3%A5l-p%C3%A5-fyra-minuter-1.23448441
+2020-02-02,21:58,GP,Evakuerade från Kina hemma i Sverige,https://gp.se/nyheter/sverige/evakuerade-fr%C3%A5n-kina-hemma-i-sverige-1.23431002
+2020-02-02,22:12,IDG,Lönelistan 2018: Det är tronskifte i år på Computer Swedens årliga lönelista. Men det är fortfarande spelvärlden som dominerar när vi listar inkomsterna för 174 profiler från den svenska it-branschen.,https://computersweden.idg.se/2.2683/1.712073/lonelistan-it-toppar-2018
+2020-02-02,22:24,GP,Evakuerade från Wuhan har landat på Arlanda,https://gp.se/nyheter/v%C3%A4rlden/evakuerade-fr%C3%A5n-wuhan-har-landat-p%C3%A5-arlanda-1.23448846
+2020-02-02,22:25,GP,Fick lyfta bucklan – efter 7175 dagar,https://gp.se/sport/ishockey/peter-sykora-fick-lyfta-bucklan-efter-7175-dagar-1.23448882
+2020-02-02,22:29,GP,Många evakuerade från Kina har virussymptom,https://gp.se/nyheter/v%C3%A4rlden/m%C3%A5nga-evakuerade-fr%C3%A5n-kina-har-virussymptom-1.23424665
+2020-02-02,22:34,IDG,AI är allt från användning av datorers råstyrka för att automatisera enkla saker, till övermänskliga färdigheter. Stora datavolymer finns ofta med i bilden. Här är några heta tillämpningar för AI.,https://techworld.idg.se/2.2524/1.699032/ai-sa-funkar
+2020-02-02,22:46,GP,Tog till sig tränarnas råd – och blev målskytt,https://gp.se/sport/fotboll/tog-till-sig-tr%C3%A4narnas-r%C3%A5d-och-blev-m%C3%A5lskytt-1.23449153
+2020-02-02,22:48,AB,Ung man skjuten,https://live.aftonbladet.se/supernytt/news/5e37434754ab5b0011727cdf
+2020-02-02,22:49,AB,Ung man hittad skjuten,https://live.aftonbladet.se/supernytt/news/5e37434754ab5b0011727cdf
+2020-02-02,22:51,GP,Östafrikanska ledare vill minska spänningar,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6stafrikanska-ledare-vill-minska-sp%C3%A4nningar-1.23449432
+2020-02-02,23:11,GP,Man skottskadad i Norrköping,https://gp.se/nyheter/sverige/man-skottskadad-i-norrk%C3%B6ping-1.23449782
+2020-02-02,23:11,GP,Pettersson gjorde jubileumsmål i NHL,https://gp.se/sport/pettersson-gjorde-jubileumsm%C3%A5l-i-nhl-1.23449751
+2020-02-02,23:12,IDG,Sedan i måndags är Visolit nu på plats i sitt nya gemensamma hem, vilket enligt koncernchef Terje Mjøs är en milstolpe i kulturbyggandet.,https://computersweden.idg.se/2.2683/1.729902/visolit-flyttar-ihop
+2020-02-02,23:14,GP,Krigsdramat "1917" bästa film på Baftagalan,https://gp.se/kultur/kultur-n%C3%B6je/krigsdramat-1917-b%C3%A4sta-film-p%C3%A5-baftagalan-1.23449916
+2020-02-02,23:16,IDG,Enligt ett lagförslag som presenterades av inrikesminister Mikael Damberg på förmiddagen ska Polisen få tillgång till så kallad hemlig dataavläsning. Polisen ska kunna avlyssna krypterad kommunikation och placera ut trojaner.,https://computersweden.idg.se/2.2683/1.725305/polisen-hacka-mobiler-trojaner
+2020-02-02,23:20,GP,Målsuccén fortsätter för Isak,https://gp.se/sport/m%C3%A5lsucc%C3%A9n-forts%C3%A4tter-f%C3%B6r-isak-1.23436501
+2020-02-02,23:54,AB,Tjuvar försvann med kassaskåp,https://live.aftonbladet.se/supernytt/news/5e37531da6db5200113d95a1
+2020-02-02,23:55,IDG,Rivna organisationsgränser, mer samarbete och ihopsamlade kompetenser – i Ängelholms kommun har man inspirerats av det agila arbetssätt som föddes i it-branschen.,https://computersweden.idg.se/2.2683/1.729714/angelholm-kommun-agilt

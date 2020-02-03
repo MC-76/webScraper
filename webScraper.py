@@ -14,7 +14,7 @@ import datetime                     # for logfilename
 import sys,getopt                   # for args
 from misc import highLights         # Highlight file
 import logging
-
+import streamlit as st
 
 #Create and configure logger 
 logging.basicConfig(filename="system.log", 
@@ -40,7 +40,7 @@ newsFlow = []
 unProcessedNews = []
 
 flagSilent = False
-flagLinks = False                   # display links in output?
+flagLinks = True                   # display links in output?
 flagOnlyHiglights = False           # If True, only print if news is in highlight list
 
 # Variables
@@ -73,13 +73,30 @@ for opt, arg in opts:
 
 # Print headers
 if not flagSilent:
-    print('Latest news from GP and IDG')
+    last_updated = st.empty()
+    print('Latest news from GP, IDG and Aftonbladet')
+    st.title('Latest news from GP, IDG and Aftonbladet')
+    #st.divide()
     if flagOnlyHiglights:
         print('Only showing highlights:')
+        st.write('Only showing highlights:')
     if flagLinks:
         print('Including links:')
+        st.subheader('Including links:')
 
 lastFileDate = datetime.date.today()
+
+# Placeholders
+st.subheader('Latest news:')
+news1 = st.empty()
+news2 = st.empty()
+news3 = st.empty()
+news4 = st.empty()
+news5 = st.empty()
+news6 = st.empty()
+
+
+
 
 # check if folder exists, if not create folder
 if not os.path.exists(path):
@@ -116,9 +133,11 @@ while True: # Run forever
                         if word in news.title:
                             logger.info(f'Highlight hit: {word}')
                             print('\007')       # Print sound?!?    
-                            print(output)                     
+                            print(output)     
+                            st.write(output)              
                 else:                
                     print(output)
+                    st.write(output)
 
                                       
             # Clear buffer when new date
@@ -134,5 +153,19 @@ while True: # Run forever
 
     # Clear unprocessed Que...should be processed by now       
     unProcessedNews.clear()
+   
+    top_news = len(newsFlow)-1
+    #while top_news > 0:
+    news1.text(f'{newsFlow[top_news].label}\n{newsFlow[top_news].title}\n{newsFlow[top_news].url}')
+    news2.text(f'{newsFlow[top_news-1].label}\n{newsFlow[top_news-1].title}\n{newsFlow[top_news-1].url}')
+    news3.text(f'{newsFlow[top_news-2].label}\n{newsFlow[top_news-2].title}\n{newsFlow[top_news-2].url}')
+    news4.text(f'{newsFlow[top_news-3].label}\n{newsFlow[top_news-3].title}\n{newsFlow[top_news-3].url}')
+  
+        
+
+    last_updated.text(f'Last updated: {datetime.datetime.now()}')
+    
+    
     time.sleep(waitTime)
+
     

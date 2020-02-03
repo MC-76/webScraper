@@ -1,0 +1,304 @@
+2020-01-28,00:17,GP,NBA flyttar LA-derby efter stjärnans död,https://gp.se/sport/nba-flyttar-la-derby-efter-stj%C3%A4rnans-d%C3%B6d-1.23188650
+2020-01-28,00:17,GP,USA bekräftar flygkrasch i Afghanistan,https://gp.se/nyheter/v%C3%A4rlden/usa-bekr%C3%A4ftar-flygkrasch-i-afghanistan-1.23157738
+2020-01-28,00:17,GP,Trump: Fredsplanen "kan ha en chans",https://gp.se/nyheter/v%C3%A4rlden/trump-fredsplanen-kan-ha-en-chans-1.23177683
+2020-01-28,00:17,GP,Åklagare: "Noll" samarbete från prins Andrew,https://gp.se/nyheter/v%C3%A4rlden/%C3%A5klagare-noll-samarbete-fr%C3%A5n-prins-andrew-1.23179055
+2020-01-28,00:17,IDG,Kan i framtiden användas för att hjälpa elektronik hålla sin temperatur och undvika överhettning.,https:/2.1085/1.729751/elektronik-kylning-svettas
+2020-01-28,00:17,AB,Knivskadad tonårspojke till sjukhus,https://live.aftonbladet.se/supernytt/news/5e2f640057f8310011ac2cbe
+2020-01-28,00:17,AB,Kronprinsessan kvar i Polen – fel på planet,https://live.aftonbladet.se/supernytt/news/5e2f640057f8310011ac2cbe
+2020-01-28,00:17,AB,Person skjuten i Kristianstad,https://live.aftonbladet.se/supernytt/news/5e2f5d1257f8310011ac2cb4
+2020-01-28,00:17,AB,Tonårsflicka utsatt för överfallsvåldtäkt,https://live.aftonbladet.se/supernytt/news/5e2f4fac4a76d100114452c0
+2020-01-28,00:17,AB,Gymnasieskola stängs efter hot,https://live.aftonbladet.se/supernytt/news/5e2f4f054f99ef00110361b2
+2020-01-28,00:18,GP,NBA flyttar LA-derby efter stjärnans död,https://gp.se/sport/nba-flyttar-la-derby-efter-stj%C3%A4rnans-d%C3%B6d-1.23188650
+2020-01-28,00:23,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-01-28,00:26,AB,Coronasmittan har nått Tyskland,https://live.aftonbladet.se/supernytt/news/5e2f715857f8310011ac2cc4
+2020-01-28,00:46,IDG,För att höja kontosäkerheten har många företag börjat använda flerfaktorsautentisering på konton med administrativa behörigheter. Det är numera gratis men Microsoft gör i februari en ändring som gör att du plötsligt kan stå helt utan skydd.,https://techworld.idg.se/2.2524/1.729457/kontosakerhet-azure-mfa
+2020-01-28,00:49,AB,Bönerum på Mölndals sjukhus vandaliserat,https://live.aftonbladet.se/supernytt/news/5e2f76c14a76d100114452e5
+2020-01-28,01:05,IDG,Efter en testperiod släpper Google nu söktjänsten Dataset Search där användare kan söka bland tabeller eller andra datamängder om ett specifikt ämne.,https://computersweden.idg.se/2.2683/1.729726/google-dataset-search
+2020-01-28,01:05,AB,Kvinna söks i oländig terräng,https://live.aftonbladet.se/supernytt/news/5e2f7ad157f8310011ac2ccc
+2020-01-28,01:10,IDG,En felaktig uppsättning kommandon har gjort att Curiosity inte kan röra sig. Nu ska Nasa skicka nya instruktioner med målet att få i gång farkosten igen.,https://techworld.idg.se/2.2524/1.729729/systemfel-stoppar-curiosity
+2020-01-28,01:12,GP,Svenska pensionärer i Portugal kan få skatta,https://gp.se/ekonomi/svenska-pension%C3%A4rer-i-portugal-kan-f%C3%A5-skatta-1.23188945
+2020-01-28,01:30,GP,Första coronavirusfallet i Tyskland,https://gp.se/nyheter/v%C3%A4rlden/f%C3%B6rsta-coronavirusfallet-i-tyskland-1.23189033
+2020-01-28,01:43,GP,Man skottskadad i Kristianstad,https://gp.se/nyheter/sverige/man-skottskadad-i-kristianstad-1.23187954
+2020-01-28,02:01,GP,Nigeria säger nej till motorcyklar,https://gp.se/nyheter/v%C3%A4rlden/nigeria-s%C3%A4ger-nej-till-motorcyklar-1.23189467
+2020-01-28,02:06,IDG,En högteknologisk törnrosasömn skulle kunna vara precis vad som behövs för att kunna skicka människor till stjärnorna.,https:/2.1085/1.652061/nasa-rymden-sova
+2020-01-28,02:11,GP,Fler än tusen nya virussmittade upptäckta,https://gp.se/nyheter/v%C3%A4rlden/fler-%C3%A4n-tusen-nya-virussmittade-uppt%C3%A4ckta-1.23189033
+2020-01-28,02:15,IDG,I juni nästa år ska EU:s omdebatterade upphovsrättsdirektiv vara infört i medlemsstaterna. Men Storbritannien ska inte införa de nya reglerna – trots att de från början var positiva.,https://computersweden.idg.se/2.2683/1.729709/brexit-britter-upphovsratt
+2020-01-28,02:30,GP,Sex soldater dödade vid Tchadsjön,https://gp.se/nyheter/v%C3%A4rlden/sex-soldater-d%C3%B6dade-vid-tchadsj%C3%B6n-1.23189775
+2020-01-28,02:46,IDG,Teslas snabba frammarsch har gjort de traditionella biltillverkarna rejält nervösa. Här är några av utmanarna på den stekheta elbilsmarknaden.,https:/2.1085/1.654416/tesla-allt-elbilen-modeller
+2020-01-28,03:09,IDG,Två profiler på samma telefon - en privat och en professionell som krypterar all data. Med mobila säkerhetslösningen Knox hoppas Samsung vinna it-avdelningarnas hjärtan.,https://techworld.idg.se/2.2524/1.532280/sa-funkar-samsungs-mobila-sakerhetslosning-knox
+2020-01-28,03:13,AB,Över hundra döda i virussmittan,https://live.aftonbladet.se/supernytt/news/5e2f987b4a76d100114452f1
+2020-01-28,03:21,IDG,Ska simulera nödsituationer för att skapa nya säkerhetsmetoder och protokoll.,https:/2.1085/1.729744/vatgasdrivna-dronare
+2020-01-28,03:32,GP,Kenin första spelare till semifinal,https://gp.se/sport/kenin-f%C3%B6rsta-spelare-till-semifinal-1.23190835
+2020-01-28,03:32,GP,Explosion vid villa i Solna,https://gp.se/nyheter/sverige/explosion-vid-villa-i-solna-1.23190652
+2020-01-28,03:55,GP,Svenska i Wuhan: Det är en mardröm,https://gp.se/nyheter/v%C3%A4rlden/svenska-i-wuhan-det-%C3%A4r-en-mardr%C3%B6m-1.23191344
+2020-01-28,03:59,GP,Syrien och Libyen i fokus i Trumpsamtal,https://gp.se/nyheter/v%C3%A4rlden/syrien-och-libyen-i-fokus-i-trumpsamtal-1.23191370
+2020-01-28,04:13,AB,Trähus brinner – stor spridningsrisk,https://live.aftonbladet.se/supernytt/news/5e2fa6b14f99ef00110361eb
+2020-01-28,04:20,GP,NBA flyttar derby efter Bryants död,https://gp.se/sport/nba-flyttar-derby-efter-bryants-d%C3%B6d-1.23188650
+2020-01-28,04:46,GP,Norska busschaufförer strejksugna,https://gp.se/ekonomi/norska-busschauff%C3%B6rer-strejksugna-1.23191653
+2020-01-28,05:03,GP,200 barn sjunger sina egna dikter – så låter det,https://gp.se/kultur/kultur/200-barn-sjunger-sina-egna-dikter-s%C3%A5-l%C3%A5ter-det-1.23013789
+2020-01-28,05:03,GP,Göteborgsklubbens uteslutning hävs – på grund av jäv,https://gp.se/sport/fotboll/beslut-om-neutralas-uteslutning-stryks-av-svff-1.23174849
+2020-01-28,05:03,GP,Fem citypoliser om rånen: "Måste ge en korrekt bild",https://gp.se/nyheter/g%C3%B6teborg/fem-citypoliser-om-r%C3%A5nen-m%C3%A5ste-ge-en-korrekt-bild-1.22994960
+2020-01-28,05:03,GP,Glasgrodans comeback glädjeämne i Bolivia,https://gp.se/nyheter/v%C3%A4rlden/glasgrodans-comeback-gl%C3%A4dje%C3%A4mne-i-bolivia-1.23191866
+2020-01-28,05:09,GP,LRF: Fasa ut fossila bränslen till 2030,https://gp.se/nyheter/sverige/lrf-fasa-ut-fossila-br%C3%A4nslen-till-2030-1.23192158
+2020-01-28,05:11,IDG,Kan komma att förstöra andra satelliter i närheten.,https:/2.1085/1.729648/satellit-riskerar-explodera
+2020-01-28,05:11,AB,Trähus eldhärjat – bostäder utrymda,https://live.aftonbladet.se/supernytt/news/5e2fa6b14f99ef00110361eb
+2020-01-28,05:17,GP,Virusoro fortsätter att tynga Tokyobörsen,https://gp.se/ekonomi/virusoro-forts%C3%A4tter-att-tynga-tokyob%C3%B6rsen-1.23192251
+2020-01-28,05:34,AB,Vandrarhem eldhärjat – bostäder utrymda,https://live.aftonbladet.se/supernytt/news/5e2fa6b14f99ef00110361eb
+2020-01-28,05:43,GP,Elva dog – nu prövas dråp-åtal mot drogsäljare,https://gp.se/nyheter/sverige/elva-dog-nu-pr%C3%B6vas-dr%C3%A5p-%C3%A5tal-mot-drogs%C3%A4ljare-1.23192346
+2020-01-28,05:59,GP,Gigantiska värden på spel i rapportsäsongen,https://gp.se/ekonomi/gigantiska-v%C3%A4rden-p%C3%A5-spel-i-rapports%C3%A4songen-1.23192788
+2020-01-28,06:07,GP,Forsberg berättar om tumören i "Superstars",https://gp.se/kultur/kultur-n%C3%B6je/forsberg-ber%C3%A4ttar-om-tum%C3%B6ren-i-superstars-1.23193447
+2020-01-28,06:07,GP,Postnord svarar riksdagen om krisläge,https://gp.se/nyheter/sverige/postnord-svarar-riksdagen-om-krisl%C3%A4ge-1.23193341
+2020-01-28,06:07,GP,Bolund sågar Swedavias gröna satsning,https://gp.se/ekonomi/bolund-s%C3%A5gar-swedavias-gr%C3%B6na-satsning-1.23193228
+2020-01-28,06:07,GP,Fler 40-plussare pluggar,https://gp.se/nyheter/sverige/fler-40-plussare-pluggar-1.23192970
+2020-01-28,06:08,GP,Johnson hoppas på Huaweikompromiss,https://gp.se/ekonomi/johnson-hoppas-p%C3%A5-huaweikompromiss-1.23193547
+2020-01-28,06:20,GP,Kulinariskt segertåg för japanska kockar,https://gp.se/ekonomi/kulinariskt-segert%C3%A5g-f%C3%B6r-japanska-kockar-1.23193600
+2020-01-28,06:25,GP,"Tsunami"-regissören: Många är hotade,https://gp.se/kultur/kultur-n%C3%B6je/tsunami-regiss%C3%B6ren-m%C3%A5nga-%C3%A4r-hotade-1.23193742
+2020-01-28,06:33,GP,Premiärmål för Sandin vid Torontovinst,https://gp.se/sport/premi%C3%A4rm%C3%A5l-f%C3%B6r-sandin-vid-torontovinst-1.23194007
+2020-01-28,06:33,GP,Viruset kan bli en vinstlott för hotade djur,https://gp.se/nyheter/v%C3%A4rlden/viruset-kan-bli-en-vinstlott-f%C3%B6r-hotade-djur-1.23193973
+2020-01-28,06:39,GP,Hemmahoppet Barty till semifinal,https://gp.se/sport/hemmahoppet-barty-till-semifinal-1.23190835
+2020-01-28,06:44,GP,Ledningen till svars för Postnords krisläge,https://gp.se/nyheter/sverige/ledningen-till-svars-f%C3%B6r-postnords-krisl%C3%A4ge-1.23193341
+2020-01-28,07:02,GP,Kärlek och våld i Arazo Arifs poesidebut,https://gp.se/kultur/recension-m%C3%B6rkret-inuti-och-frukten-arazo-arif-1.23163380
+2020-01-28,07:06,GP,Dubbla betalningar efter SEB:s teknikstrul,https://gp.se/nyheter/sverige/dubbla-betalningar-efter-seb-s-teknikstrul-1.23166260
+2020-01-28,07:07,GP,Bättre än väntat av Swedbank,https://gp.se/ekonomi/b%C3%A4ttre-%C3%A4n-v%C3%A4ntat-av-swedbank-1.23196197
+2020-01-28,07:11,AB,Bättre än väntat för Swedbank,https://live.aftonbladet.se/supernytt/news/5e2fd05ef7cd940011085639
+2020-01-28,07:12,GP,Stora störningar på E6 efter olycka,https://gp.se/nyheter/g%C3%B6teborg/stora-st%C3%B6rningar-p%C3%A5-e6-efter-olycka-1.23196463
+2020-01-28,07:12,GP,25-årig man död efter skottlossning,https://gp.se/nyheter/sverige/25-%C3%A5rig-man-d%C3%B6d-efter-skottlossning-1.23196496
+2020-01-28,07:15,GP,Dubbla betalningar – teknikstrul på SEB,https://gp.se/nyheter/sverige/dubbla-betalningar-efter-seb-s-teknikstrul-1.23166260
+2020-01-28,07:24,AB,Man knivskuren efter storbråk,https://live.aftonbladet.se/supernytt/news/5e2fd338f7cd94001108563c
+2020-01-28,07:28,GP,Kajsa Ekis Ekman får Leninpriset,https://gp.se/kultur/kultur-n%C3%B6je/kajsa-ekis-ekman-f%C3%A5r-leninpriset-1.23198368
+2020-01-28,07:28,IDG,I mars ska Stockholms skolor byta hårdvaruleverantör, när Atea tar över efter Advania. Men än en gång verkar det vara strid in i det sista, då Ateas anbud ifrågasätts.,https://computersweden.idg.se/2.2683/1.729686/atea-advania-skolor-stockholm
+2020-01-28,07:41,GP,Sämre än väntat för SSAB,https://gp.se/ekonomi/s%C3%A4mre-%C3%A4n-v%C3%A4ntat-f%C3%B6r-ssab-1.23200065
+2020-01-28,07:41,GP,Olja och penningtvätt pressar Swedbank,https://gp.se/ekonomi/olja-och-penningtv%C3%A4tt-pressar-swedbank-1.23199929
+2020-01-28,07:41,IDG,Begagnade smartphones blir en hetare marknad – både hos konsumenter och företag. Varje år ökar den globala försäljningen med 13 procent. "Det är mycket stark tillväxt för begagnade smartphones också i Sverige", säger Peter Onstrand på 3stepIT.,https://computersweden.idg.se/2.2683/1.729645/begagnade-smartphones
+2020-01-28,07:51,AB,Explosion vid villa orsakade brand,https://live.aftonbladet.se/supernytt/news/5e2fd9c44a76d10011445302
+2020-01-28,08:02,GP,Svag konjunktur tynger SSAB,https://gp.se/ekonomi/svag-konjunktur-tynger-ssab-1.23200065
+2020-01-28,08:07,GP,Tjuvar bröt sig in på Göteborgsoperan,https://gp.se/kultur/kultur/tjuvar-br%C3%B6t-sig-in-p%C3%A5-g%C3%B6teborgsoperan-1.23201207
+2020-01-28,08:09,GP,Tjuvar bröt sig in på Operan,https://gp.se/kultur/kultur/tjuvar-br%C3%B6t-sig-in-p%C3%A5-g%C3%B6teborgsoperan-1.23201207
+2020-01-28,08:10,GP,LeBron efter vännens död: "Börjar gråta igen",https://gp.se/sport/lebron-james-ord-efter-n%C3%A4ra-v%C3%A4nnens-bortg%C3%A5ng-f%C3%B6rkrossad-1.23201273
+2020-01-28,08:15,GP,Byggmax föreslår utdelning till aktieägarna,https://gp.se/ekonomi/byggmax-f%C3%B6resl%C3%A5r-utdelning-till-aktie%C3%A4garna-1.23201314
+2020-01-28,08:20,GP,SMHI varnar för stora snömängder,https://gp.se/nyheter/sverige/smhi-varnar-f%C3%B6r-stora-sn%C3%B6m%C3%A4ngder-1.23201699
+2020-01-28,08:24,AB,Klass 1-varnar för snöfall i Dalarna,https://live.aftonbladet.se/supernytt/news/5e2fe17b4f99ef0011036200
+2020-01-28,08:37,GP,Philips letar köpare av verksamhet,https://gp.se/ekonomi/philips-letar-k%C3%B6pare-av-verksamhet-1.23202116
+2020-01-28,08:37,GP,Polisinsats efter försvunnen kvinna,https://gp.se/nyheter/v%C3%A4stsverige/polisinsats-efter-f%C3%B6rsvunnen-kvinna-1.23202100
+2020-01-28,08:42,GP,"Fågelfångarens son" prisad på festival,https://gp.se/kultur/kultur-n%C3%B6je/f%C3%A5gelf%C3%A5ngarens-son-prisad-p%C3%A5-festival-1.23202322
+2020-01-28,08:48,GP,Swedbank pressas på bolånemarknaden,https://gp.se/ekonomi/swedbank-pressas-p%C3%A5-bol%C3%A5nemarknaden-1.23196197
+2020-01-28,08:54,GP,Federer räddade sju matchbollar – till semi,https://gp.se/sport/federer-r%C3%A4ddade-sju-matchbollar-till-semi-1.23202650
+2020-01-28,09:03,GP,Så hittade stjärnkocken Frida Ronge sitt kulinariska hem,https://gp.se/livsstil/s%C3%A5-hittade-stj%C3%A4rnkocken-frida-ronge-sitt-kulinariska-hem-1.22994520
+2020-01-28,09:03,GP,Mia Gahnes stekta risrätter,https://gp.se/kultur/mat-dryck/mat/risr%C3%A4tter-%C3%A4r-alltid-r%C3%A4tt-1.23152786
+2020-01-28,09:03,GP,Bosnier sålde vapen till svenska nazister,https://gp.se/nyheter/sverige/bosnier-s%C3%A5lde-vapen-till-svenska-nazister-1.23202924
+2020-01-28,09:05,GP,Arderns popularitet på prov i Nya Zeeland,https://gp.se/nyheter/v%C3%A4rlden/arderns-popularitet-p%C3%A5-prov-i-nya-zeeland-1.23203330
+2020-01-28,09:05,GP,Chalmers på väg mot ekonomisk kris – inför anställningsstopp,https://gp.se/ekonomi/chalmers-p%C3%A5-v%C3%A4g-mot-ekonomisk-kris-inf%C3%B6r-anst%C3%A4llningsstopp-1.23203006
+2020-01-28,09:11,GP,Första virusfallen kartlagda,https://gp.se/nyheter/v%C3%A4rlden/f%C3%B6rsta-virusfallen-kartlagda-1.23203472
+2020-01-28,09:12,GP,Netanyahu backar om försök till immunitet,https://gp.se/nyheter/v%C3%A4rlden/netanyahu-backar-om-f%C3%B6rs%C3%B6k-till-immunitet-1.23203851
+2020-01-28,09:17,GP,Swedbank lyfter på börsen,https://gp.se/ekonomi/swedbank-lyfter-p%C3%A5-b%C3%B6rsen-1.23203941
+2020-01-28,09:23,GP,Sista dagen i rampljuset för Trumps försvar,https://gp.se/nyheter/v%C3%A4rlden/sista-dagen-i-rampljuset-f%C3%B6r-trumps-f%C3%B6rsvar-1.23204182
+2020-01-28,09:26,GP,Federer räddade sju matchbollar – "Hade tur",https://gp.se/sport/federer-r%C3%A4ddade-sju-matchbollar-hade-tur-1.23202650
+2020-01-28,09:27,GP,Flera artister klara för Brännbollsyran,https://gp.se/kultur/kultur-n%C3%B6je/flera-artister-klara-f%C3%B6r-br%C3%A4nnbollsyran-1.23204446
+2020-01-28,09:27,GP,Danska importer – svensk badmintons räddning?,https://gp.se/sport/danska-importer-svensk-badmintons-r%C3%A4ddning-1.23175610
+2020-01-28,09:35,AB,Polisen söker försvunnen kvinna i Broddetorp,https://live.aftonbladet.se/supernytt/news/5e2ff236f7cd940011085656
+2020-01-28,09:38,GP,Anna Odell sätter män i gynstolen,https://gp.se/kultur/kultur-n%C3%B6je/anna-odell-s%C3%A4tter-m%C3%A4n-i-gynstolen-1.23204862
+2020-01-28,09:38,GP,Stark yttrandefrihet är ett vaccin mot dumhet,https://gp.se/nyheter/det-%C3%A4r-v%C3%A5rt-ansvar-att-f%C3%B6ra-ber%C3%A4ttelserna-om-f%C3%B6rintelsen-vidare-1.23204721
+2020-01-28,09:41,GP,SSAB:s aktie tar stryk efter rapporten,https://gp.se/ekonomi/ssab-s-aktie-tar-stryk-efter-rapporten-1.23200065
+2020-01-28,09:41,GP,Åklagare anser det för dyrt att åtala,https://gp.se/nyheter/sverige/%C3%A5klagare-anser-det-f%C3%B6r-dyrt-att-%C3%A5tala-1.23204990
+2020-01-28,09:45,GP,Handelsnettot 0,3 miljarder,https://gp.se/ekonomi/handelsnettot-0-3-miljarder-1.23205237
+2020-01-28,09:45,GP,Handeln ökade med 3,4 procent,https://gp.se/ekonomi/handeln-%C3%B6kade-med-3-4-procent-1.23205235
+2020-01-28,09:51,GP,Riskfylld utlåning kräver mer bankkapital,https://gp.se/ekonomi/riskfylld-utl%C3%A5ning-kr%C3%A4ver-mer-bankkapital-1.23205591
+2020-01-28,09:53,GP,Paulo Coelho raderade Kobe Bryants barnbok,https://gp.se/kultur/kultur-n%C3%B6je/paulo-coelho-raderade-kobe-bryants-barnbok-1.23205663
+2020-01-28,09:56,GP,Gais bekräftar – publikfavoriten återvänder,https://gp.se/sport/fotboll/gais-bekr%C3%A4ftar-mervan-celik-%C3%A5terv%C3%A4nder-1.23205731
+2020-01-28,10:04,GP,Nu försöker Litauen tvätta sig ren från Förintelsen,https://gp.se/kultur/kultur/nu-f%C3%B6rs%C3%B6ker-litauen-tv%C3%A4tta-sig-ren-fr%C3%A5n-f%C3%B6rintelsen-1.23205899
+2020-01-28,10:12,GP,Leninpriset till "hänsynslöst självständig socialist",https://gp.se/kultur/kultur/kajsa-ekis-ekman-yngsta-mottagaren-av-leninpriset-1.23206073
+2020-01-28,10:17,GP,Federer efter vändningen: "Tror på mirakel",https://gp.se/sport/federer-efter-v%C3%A4ndningen-tror-p%C3%A5-mirakel-1.23202650
+2020-01-28,10:23,GP,Då kommer Justin Biebers nya album,https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-kommer-justin-biebers-nya-album-1.23206542
+2020-01-28,10:23,GP,Experten: Alla kan smittas,https://gp.se/nyheter/v%C3%A4rlden/experten-alla-kan-smittas-1.23206389
+2020-01-28,10:23,GP,"Jag vet att fansen står bakom mig",https://gp.se/sport/fotboll/jag-vet-att-fansen-st%C3%A5r-bakom-mig-1.23206337
+2020-01-28,10:23,AB,Kina kräver ursäkt av Jyllandsposten för Corona-skämt,https://live.aftonbladet.se/supernytt/news/5e2ffd684a76d1001144531b
+2020-01-28,10:30,GP,Whitesnake till Partille,https://gp.se/kultur/kultur/whitesnake-till-partille-1.23207040
+2020-01-28,10:30,GP,Kina kräver ursäkt efter dansk satirteckning,https://gp.se/nyheter/v%C3%A4rlden/kina-kr%C3%A4ver-urs%C3%A4kt-efter-dansk-satirteckning-1.23206919
+2020-01-28,10:35,GP,Andra mordet på kort tid i Kristianstad,https://gp.se/nyheter/sverige/andra-mordet-p%C3%A5-kort-tid-i-kristianstad-1.23196496
+2020-01-28,10:35,GP,FI skärper kraven på bankerna,https://gp.se/ekonomi/finansinspektionen-sk%C3%A4rper-kraven-p%C3%A5-bankerna-1.23207056
+2020-01-28,10:41,GP,Brexit närmar sig – sista ministermötet i dag,https://gp.se/nyheter/v%C3%A4rlden/brexit-n%C3%A4rmar-sig-sista-ministerm%C3%B6tet-i-dag-1.23207468
+2020-01-28,10:41,GP,Brynäs byter spelare med SaiPa – får Persson,https://gp.se/sport/bryn%C3%A4s-byter-spelare-med-saipa-f%C3%A5r-persson-1.23207345
+2020-01-28,10:43,AB,Kina kräver ursäkt av Jyllandsposten för coronaskämt,https://live.aftonbladet.se/supernytt/news/5e2ffd684a76d1001144531b
+2020-01-28,10:51,GP,Whatsapp slutar fungera i miljontals telefoner,https://gp.se/nyheter/sverige/whatsapp-slutar-fungera-i-miljontals-telefoner-1.23207880
+2020-01-28,10:56,GP,Stora störningar i Region Skånes it-system,https://gp.se/nyheter/sverige/stora-st%C3%B6rningar-i-region-sk%C3%A5nes-it-system-1.23208124
+2020-01-28,11:05,GP,Stina Nilsson en bit från comeback,https://gp.se/sport/stina-nilsson-en-bit-fr%C3%A5n-comeback-1.23208842
+2020-01-28,11:08,GP,Viruset spreds mellan människor i Tyskland,https://gp.se/nyheter/v%C3%A4rlden/viruset-spreds-mellan-m%C3%A4nniskor-i-tyskland-1.23189033
+2020-01-28,11:11,GP,Whitesnake åter till Sverige,https://gp.se/kultur/kultur-n%C3%B6je/whitesnake-%C3%A5ter-till-sverige-1.23209360
+2020-01-28,11:11,GP,Beordrade bort kvinnorna – dödade männen,https://gp.se/nyheter/v%C3%A4rlden/beordrade-bort-kvinnorna-d%C3%B6dade-m%C3%A4nnen-1.23209259
+2020-01-28,11:17,AB,Man död – kvinna misstänks för dråp,https://live.aftonbladet.se/supernytt/news/5e3009ce4a76d10011445323
+2020-01-28,11:25,GP,Någon hade sopat en blank rektangel på sjön,https://gp.se/livsstil/v%C3%A4rldens-g%C3%A5ng/n%C3%A5gon-hade-sopat-en-blank-rektangel-p%C3%A5-sj%C3%B6n-1.23209656
+2020-01-28,11:26,GP,Vem ägde 2019 – Camilla Läckberg eller David Lagercrantz?,https://gp.se/kultur/vem-%C3%A4gde-2019-camilla-l%C3%A4ckberg-eller-david-lagercrantz-1.23175082
+2020-01-28,11:29,GP,Kvinna gripen för dråp i Västerås,https://gp.se/nyheter/sverige/kvinna-gripen-f%C3%B6r-dr%C3%A5p-i-v%C3%A4ster%C3%A5s-1.23209879
+2020-01-28,11:31,GP,Ville hedra Kobe Bryant – stoppas av ligan,https://gp.se/sport/ville-hedra-kobe-bryant-stoppas-av-ligan-1.23210073
+2020-01-28,11:35,GP,Polisen söker svar efter fästningsolyckan,https://gp.se/nyheter/v%C3%A4stsverige/polisen-s%C3%B6ker-svar-efter-f%C3%A4stningsolyckan-1.23210402
+2020-01-28,11:37,GP,Därför är Mervan Mr X,https://gp.se/sport/fotboll/d%C3%A4rf%C3%B6r-%C3%A4r-mervan-mr-x-1.23210361
+2020-01-28,11:48,AB,Securitas vd lämnar,https://live.aftonbladet.se/supernytt/news/5e301177c3d9cf0011812dd9
+2020-01-28,11:49,GP,Tennislegendarers aktion fördöms,https://gp.se/sport/tennislegendarers-aktion-f%C3%B6rd%C3%B6ms-1.23211112
+2020-01-28,11:53,GP,Securitas Sverige-vd slutar,https://gp.se/ekonomi/securitas-sverige-vd-slutar-1.23211391
+2020-01-28,12:02,GP,Falsk polis ringde Lena – med skräckbeskedet,https://gp.se/nyheter/v%C3%A4stsverige/falsk-polis-gav-lena-skr%C3%A4ckbesked-mitt-i-natten-din-son-%C3%A4r-allvarligt-skadad-1.23069533
+2020-01-28,12:07,GP,Säsongen över för Skellefteåtalangen,https://gp.se/sport/s%C3%A4songen-%C3%B6ver-f%C3%B6r-skellefte%C3%A5talangen-1.23211954
+2020-01-28,12:10,IDG,Han basar över själva grundstommen i internet i Sverige och leder en organisation som med sina domänmiljoner vill verka för ett öppet, fritt och tillgängligt internet. Danny Aerts, vd för Punkt SE, berättar om utmaningar, framtiden och huruvida ­ryktet om domännamnens död är betydligt överdrivet.,https://internetworld.idg.se/2.22604/1.473222/danny-och-domanmiljonerna
+2020-01-28,12:11,GP,Postnord hoppas på besked från politikerna,https://gp.se/nyheter/sverige/postnord-hoppas-p%C3%A5-besked-fr%C3%A5n-politikerna-1.23193341
+2020-01-28,12:12,GP,Sista britten i EU: Vi ska alltid vara vänner,https://gp.se/nyheter/v%C3%A4rlden/sista-britten-i-eu-vi-ska-alltid-vara-v%C3%A4nner-1.23207468
+2020-01-28,12:12,GP,Sämre än väntat för Atlas Copco,https://gp.se/ekonomi/s%C3%A4mre-%C3%A4n-v%C3%A4ntat-f%C3%B6r-atlas-copco-1.23212318
+2020-01-28,12:12,IDG,Microsoft kommer att rulla ut en våg av nya funktioner till Dynamics 365 och Power Platform – något som sker mellan april och september i år.,https://computersweden.idg.se/2.2683/1.729790/uppdateringar-dynamics-365
+2020-01-28,12:13,GP,Autoliv i linje med förväntningarna,https://gp.se/ekonomi/autoliv-i-linje-med-f%C3%B6rv%C3%A4ntningarna-1.23212806
+2020-01-28,12:13,GP,Stina Nilsson en bit ifrån comeback,https://gp.se/sport/stina-nilsson-en-bit-ifr%C3%A5n-comeback-1.23208842
+2020-01-28,12:13,GP,Störning i it-system har påverkat operationer,https://gp.se/nyheter/sverige/st%C3%B6rning-i-it-system-har-p%C3%A5verkat-operationer-1.23208124
+2020-01-28,12:20,GP,Staden i karantän har blivit spökstad,https://gp.se/nyheter/v%C3%A4rlden/staden-i-karant%C3%A4n-har-blivit-sp%C3%B6kstad-1.23213014
+2020-01-28,12:28,GP,Atlas Copco faller efter bokslutsrapport,https://gp.se/ekonomi/atlas-copco-faller-efter-bokslutsrapport-1.23212318
+2020-01-28,12:31,GP,Stims vd om strömningsfusket: Oacceptabelt,https://gp.se/kultur/kultur-n%C3%B6je/stims-vd-om-str%C3%B6mningsfusket-oacceptabelt-1.23213526
+2020-01-28,12:34,GP,LFC om stjärnan: "Inget intresse att diskutera med Göteborg",https://gp.se/sport/fotboll/lfc-om-stj%C3%A4rnan-inget-intresse-att-diskutera-med-g%C3%B6teborg-1.23213653
+2020-01-28,12:38,GP,Kulturvänstern har blivit liberal,https://gp.se/kultur/kultur/kulturv%C3%A4nstern-har-blivit-liberal-1.23213886
+2020-01-28,12:40,GP,Hårda EU-regler utlovas om Huawei,https://gp.se/ekonomi/h%C3%A5rda-eu-regler-utlovas-om-huawei-1.23214055
+2020-01-28,12:40,GP,Landets bästa barista och konditor finns i Göteborg,https://gp.se/nyheter/g%C3%B6teborg/b%C3%A4sta-baristan-och-konditorn-finns-i-g%C3%B6teborg-1.23213331
+2020-01-28,12:43,GP,Amanda Lind om kritiken: Inte mitt jobb,https://gp.se/kultur/kultur-n%C3%B6je/amanda-lind-om-kritiken-inte-mitt-jobb-1.23214147
+2020-01-28,12:51,GP,Djokovic och Federer möts i semifinal,https://gp.se/sport/djokovic-och-federer-m%C3%B6ts-i-semifinal-1.23202650
+2020-01-28,13:03,GP,Autoliv i linje - men spår utmaningar,https://gp.se/ekonomi/autoliv-i-linje-men-sp%C3%A5r-utmaningar-1.23212806
+2020-01-28,13:05,GP,Elvaåring räddade flicka från smugglare,https://gp.se/nyheter/v%C3%A4rlden/elva%C3%A5ring-r%C3%A4ddade-flicka-fr%C3%A5n-smugglare-1.23215055
+2020-01-28,13:08,GP,Siste medlemmen i Kingston Trio död,https://gp.se/kultur/kultur-n%C3%B6je/siste-medlemmen-i-kingston-trio-d%C3%B6d-1.23215234
+2020-01-28,13:11,GP,Många klagar på söktjänster på nätet,https://gp.se/nyheter/sverige/m%C3%A5nga-klagar-p%C3%A5-s%C3%B6ktj%C3%A4nster-p%C3%A5-n%C3%A4tet-1.23215619
+2020-01-28,13:11,GP,Tusentals vovvar i frimärkskamp,https://gp.se/nyheter/sverige/tusentals-vovvar-i-frim%C3%A4rkskamp-1.23215480
+2020-01-28,13:11,GP,SSAB:s vd: Utmanande kvartal,https://gp.se/ekonomi/ssab-s-vd-utmanande-kvartal-1.23200065
+2020-01-28,13:11,AB,Sex personer åtalas på Statens fastighetsverk,https://live.aftonbladet.se/supernytt/news/5e3024ac85ec770011af7105
+2020-01-28,13:15,IDG,Omkring 30 olika organisationer, så som regeringsdepartement, företag, ambassader med mera, ska ha drabbats.,https://techworld.idg.se/2.2524/1.729752/turkiet-hackare-cyberattacker
+2020-01-28,13:18,GP,Vänsterpartiets lokal vandaliserad – för andra gången på kort tid,https://gp.se/nyheter/g%C3%B6teborg/v%C3%A4nsterpartiets-lokal-vandaliserad-f%C3%B6r-andra-g%C3%A5ngen-p%C3%A5-kort-tid-1.23186536
+2020-01-28,13:18,GP,Sex åtalas för mutbrott i statligt verk,https://gp.se/ekonomi/sex-%C3%A5talas-f%C3%B6r-mutbrott-i-statligt-verk-1.23215729
+2020-01-28,13:19,AB,Mut-åtal mot Statens fastighetsverk,https://live.aftonbladet.se/supernytt/news/5e3024ac85ec770011af7105
+2020-01-28,13:20,GP,Kraftigare fall på mindre flygplatser,https://gp.se/ekonomi/kraftigare-fall-p%C3%A5-mindre-flygplatser-1.23216099
+2020-01-28,13:23,GP,Norsk mittback till Djurgården,https://gp.se/sport/norsk-mittback-till-djurg%C3%A5rden-1.23216216
+2020-01-28,13:23,GP,De spelar huvudrollerna i "Cabaret",https://gp.se/kultur/kultur-n%C3%B6je/de-spelar-huvudrollerna-i-cabaret-1.23216151
+2020-01-28,13:23,GP,Kaptenen: "Det blir med en tår i ögonvrån",https://gp.se/nyheter/v%C3%A4stsverige/f%C3%A4rjans-kapten-det-blir-med-en-t%C3%A5r-i-%C3%B6gonvr%C3%A5n-1.23216138
+2020-01-28,13:28,GP,Fallande intäkter för Pfizer,https://gp.se/ekonomi/fallande-int%C3%A4kter-f%C3%B6r-pfizer-1.23216658
+2020-01-28,13:30,GP,Höga statliga chefer åtalas i muthärva,https://gp.se/ekonomi/h%C3%B6ga-statliga-chefer-%C3%A5talas-i-muth%C3%A4rva-1.23215729
+2020-01-28,13:42,GP,Köll stoppas från Kinatävling,https://gp.se/sport/k%C3%B6ll-stoppas-fr%C3%A5n-kinat%C3%A4vling-1.23217154
+2020-01-28,13:46,GP,Hanna Fogelströms nya uppdrag: landslagsansvarig,https://gp.se/sport/handboll/hanna-fogelstr%C3%B6ms-nya-uppdrag-landslagsansvarig-1.23217819
+2020-01-28,13:46,GP,Det behöver du veta om nya viruset,https://gp.se/nyheter/v%C3%A4rlden/det-beh%C3%B6ver-du-veta-om-nya-viruset-1.23217662
+2020-01-28,13:50,AB,Fazer återkallar choklad,https://live.aftonbladet.se/supernytt/news/5e302ddd85ec770011af7118
+2020-01-28,13:52,GP,Fogelströms nya jobb: landslagsansvarig,https://gp.se/sport/fogelstr%C3%B6ms-nya-jobb-landslagsansvarig-1.23218165
+2020-01-28,13:52,GP,Swedbank lyfter trots krisen,https://gp.se/ekonomi/swedbank-lyfter-trots-krisen-1.23196197
+2020-01-28,14:05,GP,Fogelströms nya uppdrag – toppjobb i handbollsförbundet,https://gp.se/sport/handboll/hanna-fogelstr%C3%B6ms-nya-uppdrag-landslagsansvarig-1.23217819
+2020-01-28,14:07,GP,Svenska företag ändrar reseregler till Kina,https://gp.se/ekonomi/svenska-f%C3%B6retag-%C3%A4ndrar-reseregler-till-kina-1.23218684
+2020-01-28,14:12,AB,Två häktade för blåljussabotage i Sätra,https://live.aftonbladet.se/supernytt/news/5e3032f385ec770011af7123
+2020-01-28,14:20,GP,Eriksen klar för Inter,https://gp.se/sport/eriksen-klar-f%C3%B6r-inter-1.23219116
+2020-01-28,14:23,GP,Besked om brevutdelning dröjer,https://gp.se/nyheter/sverige/besked-om-brevutdelning-dr%C3%B6jer-1.23193341
+2020-01-28,14:28,GP,Margaret Atwood ger ut poesi igen,https://gp.se/kultur/kultur-n%C3%B6je/margaret-atwood-ger-ut-poesi-igen-1.23219928
+2020-01-28,14:28,GP,De löser mord med arkitektur och design,https://gp.se/kultur/kultur-n%C3%B6je/de-l%C3%B6ser-mord-med-arkitektur-och-design-1.23219850
+2020-01-28,14:28,GP,Sju JVM-spelare i Rysslands Globentrupp,https://gp.se/sport/sju-jvm-spelare-i-rysslands-globentrupp-1.23219780
+2020-01-28,14:32,AB,Busschaufför skuren i ansiktet,https://live.aftonbladet.se/supernytt/news/5e303801f4672b00129ba6ef
+2020-01-28,14:33,AB,En person skadad i lägenhetsbrand,https://live.aftonbladet.se/supernytt/news/5e303819a6db5200113d8d7d
+2020-01-28,14:39,GP,Busschaufför knivskuren i ansiktet,https://gp.se/nyheter/g%C3%B6teborg/busschauff%C3%B6r-knivskuren-i-ansiktet-1.23220515
+2020-01-28,14:39,GP,Rapportrysare från Harley-Davidson,https://gp.se/ekonomi/rapportrysare-fr%C3%A5n-harley-davidson-1.23220452
+2020-01-28,14:45,GP,Turbonegro och Stryper till Sweden Rock,https://gp.se/kultur/kultur-n%C3%B6je/turbonegro-och-stryper-till-sweden-rock-1.23221310
+2020-01-28,14:45,GP,Lockheed Martin höjer sin prognos,https://gp.se/ekonomi/lockheed-martin-h%C3%B6jer-sin-prognos-1.23221104
+2020-01-28,14:45,GP,Elva dog – nu prövas dråpåtal mot drogsäljare,https://gp.se/nyheter/sverige/elva-dog-nu-pr%C3%B6vas-dr%C3%A5p%C3%A5tal-mot-drogs%C3%A4ljare-1.23192346
+2020-01-28,14:54,GP,Huawei släpps in i brittiskt telenät,https://gp.se/ekonomi/huawei-sl%C3%A4pps-in-i-brittiskt-telen%C3%A4t-1.23193547
+2020-01-28,15:00,GP,Hon tar över Melodifestivalen efter Björkman,https://gp.se/kultur/kultur-n%C3%B6je/hon-tar-%C3%B6ver-melodifestivalen-efter-bj%C3%B6rkman-1.23222270
+2020-01-28,15:04,GP,En av världens första supermodeller var från Västra Götaland,https://gp.se/kultur/kultur/recension-fashion-talk-abecita-konstmuseum-1.23205828
+2020-01-28,15:04,GP,Transportstyrelsen: Flygstopp till Iran hävs,https://gp.se/nyheter/sverige/transportstyrelsen-flygstopp-till-iran-h%C3%A4vs-1.23222406
+2020-01-28,15:12,AB,Hundratal TV-apparater stulna,https://live.aftonbladet.se/supernytt/news/5e30412854ab5b0011727527
+2020-01-28,15:13,AB,Hundratal tv-apparater stulna,https://live.aftonbladet.se/supernytt/news/5e30412854ab5b0011727527
+2020-01-28,15:15,AB,Över 100 tv-apparater stulna,https://live.aftonbladet.se/supernytt/news/5e30412854ab5b0011727527
+2020-01-28,15:19,GP,Virusoro stoppar svenskar från Kinatävling,https://gp.se/sport/virusoro-stoppar-svenskar-fr%C3%A5n-kinat%C3%A4vling-1.23223132
+2020-01-28,15:21,IDG,Nu ska det återigen vara säkert att använda videokonferenslösningarna Webex Meetings Suite och Webex Meetings Online.,https://techworld.idg.se/2.2524/1.729801/cisco-webex-bugg
+2020-01-28,15:24,GP,FI vill veta hur Collector ska säkra kapitalet,https://gp.se/ekonomi/fi-vill-veta-hur-collector-ska-s%C3%A4kra-kapitalet-1.23223249
+2020-01-28,15:26,GP,Nu kommer Trumps hemliga fredsplan,https://gp.se/nyheter/v%C3%A4rlden/nu-kommer-trumps-hemliga-fredsplan-1.23223378
+2020-01-28,15:29,GP,Kraftigt kurslyft för Swedbank,https://gp.se/ekonomi/kraftigt-kurslyft-f%C3%B6r-swedbank-1.23203941
+2020-01-28,15:29,GP,Störning i it-system ställde in operationer,https://gp.se/nyheter/sverige/st%C3%B6rning-i-it-system-st%C3%A4llde-in-operationer-1.23208124
+2020-01-28,15:31,GP,Läkare larmade polis – kvinna gripen för dråp,https://gp.se/nyheter/sverige/l%C3%A4kare-larmade-polis-kvinna-gripen-f%C3%B6r-dr%C3%A5p-1.23209879
+2020-01-28,15:31,GP,Norska stjärnan Hegerberg knäskadad,https://gp.se/sport/norska-stj%C3%A4rnan-hegerberg-kn%C3%A4skadad-1.23223880
+2020-01-28,15:35,GP,Göteborgare mest sugna på att byta jobb i år,https://gp.se/ekonomi/g%C3%B6teborgare-%C3%A4r-mest-sugna-p%C3%A5-f%C3%B6r%C3%A4ndring-i-karri%C3%A4ren-2020-1.22694221
+2020-01-28,15:36,AB,Rekordlågt stöd för S,https://live.aftonbladet.se/supernytt/news/5e3046b285ec770011af713e
+2020-01-28,15:37,GP,Detta behöver du veta om det nya viruset,https://gp.se/nyheter/v%C3%A4rlden/detta-beh%C3%B6ver-du-veta-om-det-nya-viruset-1.23224100
+2020-01-28,15:50,GP,Mordförsök mot bussförare i Göteborg,https://gp.se/nyheter/sverige/mordf%C3%B6rs%C3%B6k-mot-bussf%C3%B6rare-i-g%C3%B6teborg-1.23224545
+2020-01-28,15:53,GP,Norska storstjärnan korsbandsskadad,https://gp.se/sport/hegerberg-skadad-jag-drog-korsbandet-1.23223880
+2020-01-28,15:56,GP,Norska storstjärnan knäskadad,https://gp.se/sport/hegerberg-skadad-jag-drog-korsbandet-1.23223880
+2020-01-28,15:57,GP,Världens åtgärder mot viruset,https://gp.se/nyheter/v%C3%A4rlden/v%C3%A4rldens-%C3%A5tg%C3%A4rder-mot-viruset-1.23224788
+2020-01-28,16:00,GP,Se mötet mellan Göteborg och Lerum,https://gp.se/sport/031-hockey/se-m%C3%B6tet-mellan-g%C3%B6teborg-och-lerum-1.21967047
+2020-01-28,16:00,GP,Atlas Copco stänger Kinafabrik,https://gp.se/ekonomi/atlas-copco-st%C3%A4nger-kinafabrik-1.23218684
+2020-01-28,16:03,GP,S får lägsta stödet hittills i en DN/Ipsos,https://gp.se/nyheter/sverige/s-f%C3%A5r-l%C3%A4gsta-st%C3%B6det-hittills-i-en-dn-ipsos-1.23225435
+2020-01-28,16:07,GP,Omkomna i afghansk flygkrasch bärgade,https://gp.se/nyheter/v%C3%A4rlden/omkomna-i-afghansk-flygkrasch-b%C3%A4rgade-1.23225638
+2020-01-28,16:08,GP,Man våldtog och filmade sin kollega – utvisas,https://gp.se/nyheter/g%C3%B6teborg/l%C3%A4t-kollegan-sova-%C3%B6ver-v%C3%A5ldtog-henne-1.23119508
+2020-01-28,16:21,GP,Geely skeppar hundratusentals munskydd till Kina,https://gp.se/ekonomi/geely-skeppar-hundratusentals-munskydd-till-kina-1.23224032
+2020-01-28,16:27,GP,Hundratusentals munskydd skeppas till Kina,https://gp.se/ekonomi/geely-skeppar-hundratusentals-munskydd-till-kina-1.23224032
+2020-01-28,16:32,GP,Höga kostnader bakom droppat åtal,https://gp.se/nyheter/sverige/h%C3%B6ga-kostnader-bakom-droppat-%C3%A5tal-1.23204990
+2020-01-28,16:38,GP,Atlas-chefen ser ökade marknadsandelar,https://gp.se/ekonomi/atlas-chefen-ser-%C3%B6kade-marknadsandelar-1.23212318
+2020-01-28,16:50,GP,Då gör Sverige entré i Eurovision,https://gp.se/kultur/kultur-n%C3%B6je/d%C3%A5-g%C3%B6r-sverige-entr%C3%A9-i-eurovision-1.23227266
+2020-01-28,16:58,GP,Man döms för våldtäkt på berusad kollega,https://gp.se/nyheter/sverige/man-d%C3%B6ms-f%C3%B6r-v%C3%A5ldt%C3%A4kt-p%C3%A5-berusad-kollega-1.23227575
+2020-01-28,17:04,GP,Josefine Frida gästar GP live från filmfestivalen,https://gp.se/kultur/kultur/josefine-frida-g%C3%A4star-gp-live-fr%C3%A5n-filmfestivalen-1.23208542
+2020-01-28,17:06,GP,Sköt med 3D-pistol mot grannes altanfönster,https://gp.se/nyheter/sverige/sk%C3%B6t-med-3d-pistol-mot-grannes-altanf%C3%B6nster-1.23227769
+2020-01-28,17:12,GP,Nya Hamnbanan ska minska koldioxidutsläppen rejält,https://gp.se/ekonomi/nya-hamnbanan-kan-minska-utsl%C3%A4ppen-stort-1.23207244
+2020-01-28,17:17,GP,Skellefteå värvar efter ny skadesmäll,https://gp.se/sport/skellefte%C3%A5-v%C3%A4rvar-efter-ny-skadesm%C3%A4ll-1.23211954
+2020-01-28,17:22,GP,Hundratals tvingas lämna migrationsboende,https://gp.se/nyheter/sverige/hundratals-tvingas-l%C3%A4mna-migrationsboende-1.23228467
+2020-01-28,17:30,GP,Hot- och riskgrupp startas efter trakasserier mot Västlänken-personal,https://gp.se/nyheter/g%C3%B6teborg/hot-och-riskgrupp-startas-efter-trakasserier-mot-v%C3%A4stl%C3%A4nken-personal-1.23228613
+2020-01-28,17:51,GP,Riksrätten i USA: Senator öppnar för Boltonbok,https://gp.se/nyheter/v%C3%A4rlden/riksr%C3%A4tten-i-usa-senator-%C3%B6ppnar-f%C3%B6r-boltonbok-1.23204182
+2020-01-28,17:55,GP,SD utesluter partitopp i Uppsala,https://gp.se/nyheter/sverige/sd-utesluter-partitopp-i-uppsala-1.23229126
+2020-01-28,17:55,AB,SD-topp utesluts ur partiet,https://live.aftonbladet.se/supernytt/news/5e30672e54ab5b0011727565
+2020-01-28,18:01,AB,Dansk misstänks vara smittad av cornoavirus,https://live.aftonbladet.se/supernytt/news/5e3068b9a6db5200113d8dcb
+2020-01-28,18:02,GP,Swedbank draglok när börsen steg,https://gp.se/ekonomi/swedbank-draglok-n%C3%A4r-b%C3%B6rsen-steg-1.23203941
+2020-01-28,18:07,GP,Riksdagen i debatt om 300 mördade kvinnor,https://gp.se/nyheter/sverige/riksdagen-i-debatt-om-300-m%C3%B6rdade-kvinnor-1.23229488
+2020-01-28,18:18,IDG,I ett öppet brev varnar tunga organisationer som Electronic Frontier Foundation och Consumer Federation of America för att tekniken kan komma att användas för att övervaka minoritetsgrupper och oliktänkande.,https://computersweden.idg.se/2.2683/1.729804/krav-stopp-ansiktsigenkanning
+2020-01-28,18:20,GP,Polis och brandmän drabbade samman i Paris,https://gp.se/nyheter/v%C3%A4rlden/polis-och-brandm%C3%A4n-drabbade-samman-i-paris-1.23230100
+2020-01-28,18:23,GP,EU flyger hem medborgare från Wuhan,https://gp.se/nyheter/v%C3%A4rlden/eu-flyger-hem-medborgare-fr%C3%A5n-wuhan-1.23230203
+2020-01-28,18:27,GP,Petterssons nya kontrakt: 39 miljoner om året,https://gp.se/sport/petterssons-nya-kontrakt-39-miljoner-om-%C3%A5ret-1.23230319
+2020-01-28,18:37,GP,Flygandet minskar snabbt: "Sverige unikt",https://gp.se/ekonomi/flygandet-minskar-snabbt-sverige-unikt-1.23230618
+2020-01-28,18:40,GP,Nyklippta spelare fick en rejäl hårtork,https://gp.se/sport/nyklippta-spelare-fick-en-rej%C3%A4l-h%C3%A5rtork-1.23230754
+2020-01-28,18:48,GP,Domaren: "En udda rättegång men intressant",https://gp.se/kultur/kultur/domaren-mats-hagelin-en-udda-r%C3%A4tteg%C3%A5ng-men-intressant-1.23231029
+2020-01-28,18:55,GP,Domaren: "En udda rättegång, men intressant",https://gp.se/kultur/kultur/domaren-mats-hagelin-en-udda-r%C3%A4tteg%C3%A5ng-men-intressant-1.23231029
+2020-01-28,18:56,GP,Trump: Fredsplanen palestiniernas sista chans,https://gp.se/nyheter/v%C3%A4rlden/trump-fredsplanen-palestiniernas-sista-chans-1.23223378
+2020-01-28,18:58,GP,Maj Karlsson ny V-gruppledare i riksdagen,https://gp.se/nyheter/sverige/maj-karlsson-ny-v-gruppledare-i-riksdagen-1.23231366
+2020-01-28,19:12,GP,Misstanken: Dömd mördare inblandad i krogmisshandel,https://gp.se/nyheter/g%C3%B6teborg/misstanken-d%C3%B6md-m%C3%B6rdare-i-trippelmisshandel-p%C3%A5-krogen-1.23216442
+2020-01-28,19:16,GP,Man som knivhögg polis i Älvdalen åtalas,https://gp.se/nyheter/sverige/man-som-knivh%C3%B6gg-polis-i-%C3%A4lvdalen-%C3%A5talas-1.23231970
+2020-01-28,19:22,GP,Eriksen till Inter: Dags för ny utmaning,https://gp.se/sport/eriksen-till-inter-dags-f%C3%B6r-ny-utmaning-1.23219116
+2020-01-28,19:33,GP,Myhrer långt efter i Schladming,https://gp.se/sport/myhrer-l%C3%A5ngt-efter-i-schladming-1.23232208
+2020-01-28,19:34,GP,Swedavias vd: "Det är upp till investerarna",https://gp.se/ekonomi/swedavias-vd-det-%C3%A4r-upp-till-investerarna-1.23232459
+2020-01-28,19:54,GP,I politiskt kaos väcker Trumps fredsplan skepsis – och kritik,https://gp.se/nyheter/analys-i-politiskt-kaos-v%C3%A4cker-trumps-fredsplan-hopp-och-kritik-1.23232685
+2020-01-28,19:58,GP,Doves aktuella med nytt album – efter elva år,https://gp.se/kultur/kultur-n%C3%B6je/doves-aktuella-med-nytt-album-efter-elva-%C3%A5r-1.23232944
+2020-01-28,20:09,GP,Trump: Jerusalem Israels "odelade" huvudstad,https://gp.se/nyheter/v%C3%A4rlden/trump-jerusalem-israels-odelade-huvudstad-1.23223378
+2020-01-28,20:15,GP,Veckans kulturmåsten i Göteborg – vecka 5,https://gp.se/kultur/kultur/veckans-kulturm%C3%A5sten-i-g%C3%B6teborg-vecka-5-1.23174150
+2020-01-28,20:20,GP,Veckans kulturmåsten i Göteborg,https://gp.se/kultur/kultur/veckans-kulturm%C3%A5sten-i-g%C3%B6teborg-vecka-5-1.23174150
+2020-01-28,20:21,GP,Så slår viruset mot Asiens ekonomi,https://gp.se/ekonomi/s%C3%A5-sl%C3%A5r-viruset-mot-asiens-ekonomi-1.23233681
+2020-01-28,20:22,AB,Forskarnas genombrott – vaccin mot viruset nära,https://live.aftonbladet.se/supernytt/news/5e3089d085ec770011af719c
+2020-01-28,20:24,AB,Stort steg mot corona-vaccin efter genombrott,https://live.aftonbladet.se/supernytt/news/5e3089d085ec770011af719c
+2020-01-28,20:25,AB,Genombrottet: Coronaviruset skapat av forskare,https://live.aftonbladet.se/supernytt/news/5e3089d085ec770011af719c
+2020-01-28,20:27,AB,Jordbävning på Jamaica,https://live.aftonbladet.se/supernytt/news/5e308b21a6db5200113d8e03
+2020-01-28,20:28,GP,Expert: Svårt för palestinierna att svälja,https://gp.se/nyheter/v%C3%A4rlden/expert-sv%C3%A5rt-f%C3%B6r-palestinierna-att-sv%C3%A4lja-1.23234066
+2020-01-28,20:28,GP,Traktorstölder ökar – nu agerar tillverkarna,https://gp.se/nyheter/sverige/traktorst%C3%B6lder-%C3%B6kar-nu-agerar-tillverkarna-1.23234010
+2020-01-28,20:37,GP,Skådespelaren Anne Kulle är död,https://gp.se/kultur/kultur-n%C3%B6je/sk%C3%A5despelaren-anne-kulle-%C3%A4r-d%C3%B6d-1.23234275
+2020-01-28,20:50,GP,Tsunamivarning efter jordskalv på Jamaica,https://gp.se/nyheter/v%C3%A4rlden/tsunamivarning-efter-jordskalv-p%C3%A5-jamaica-1.23234609
+2020-01-28,20:52,AB,Tsunamivarning efter jordskalv,https://live.aftonbladet.se/supernytt/news/5e308b21a6db5200113d8e03
+2020-01-28,20:54,GP,Flera välkända kommunala fastigheter kan säljas,https://gp.se/nyheter/g%C3%B6teborg/%C3%B6ver-20-kommunala-fastigheter-kan-s%C3%A4ljas-flera-av-dem-v%C3%A4lk%C3%A4nda-1.23230767
+2020-01-28,20:57,GP,Påvelund missade direktplats till semi,https://gp.se/sport/p%C3%A5velund-missade-direktplats-till-semi-efter-f%C3%B6rlust-i-finalreprisen-1.23234803
+2020-01-28,20:59,GP,Mångmiljonstad i karantän – funkar det?,https://gp.se/nyheter/v%C3%A4rlden/m%C3%A5ngmiljonstad-i-karant%C3%A4n-funkar-det-1.23235078
+2020-01-28,21:24,GP,Uppdrag: Vinna tillbaka användarnas förtroende,https://gp.se/ekonomi/uppdrag-vinna-tillbaka-anv%C3%A4ndarnas-f%C3%B6rtroende-1.23235745
+2020-01-28,21:27,GP,Ny svensk pi-mästare minns 123 000 decimaler,https://gp.se/nyheter/sverige/ny-svensk-pi-m%C3%A4stare-minns-123-000-decimaler-1.23235967
+2020-01-28,21:33,GP,Färjestads kapten: "Det är pinsamt",https://gp.se/sport/f%C3%A4rjestads-kapten-det-%C3%A4r-pinsamt-1.23236200
+2020-01-28,21:37,AB,Uppgifter: Intvingad i bil och rånad,https://live.aftonbladet.se/supernytt/news/5e309b5c85ec770011af71c0
+2020-01-28,21:37,AB,Svensk pi-mästare minns 123 000 decimaler,https://live.aftonbladet.se/supernytt/news/5e309b3ef4672b00129ba79b
+2020-01-28,21:39,AB,Pi-mästare minns 123 000 decimaler,https://live.aftonbladet.se/supernytt/news/5e309b3ef4672b00129ba79b
+2020-01-28,21:42,GP,Expert: Coronasmittan kan ha startat i höstas,https://gp.se/nyheter/v%C3%A4rlden/expert-coronasmittan-kan-ha-startat-i-h%C3%B6stas-1.23236379
+2020-01-28,21:48,AB,Äldre kvinna död efter brand,https://live.aftonbladet.se/supernytt/news/5e309deff4672b00129ba7b0
+2020-01-28,21:52,GP,Åtal efter legionelladödsfallen i Stockholm,https://gp.se/nyheter/sverige/%C3%A5tal-efter-legionellad%C3%B6dsfallen-i-stockholm-1.23236812
+2020-01-28,21:55,AB,Man attackerade kvinnor,https://live.aftonbladet.se/supernytt/news/5e309f7ff4672b00129ba7b2
+2020-01-28,22:01,GP,Två till sjukhus efter krock – förare saknade körkort,https://gp.se/nyheter/g%C3%B6teborg/tv%C3%A5-till-sjukhus-efter-krock-f%C3%B6rare-saknade-k%C3%B6rkort-1.23237249
+2020-01-28,22:04,AB,Man misshandlades med tillhygge,https://live.aftonbladet.se/supernytt/news/5e30a1b285ec770011af71d2
+2020-01-28,22:11,GP,Premier League-klubb med bud på Blåvitt-stjärnan,https://gp.se/sport/fotboll/premier-league-klubb-med-bud-p%C3%A5-bl%C3%A5vitt-stj%C3%A4rnan-1.23237482
+2020-01-28,22:11,GP,Gladare miner igen på New York-börsen,https://gp.se/ekonomi/gladare-miner-igen-p%C3%A5-new-york-b%C3%B6rsen-1.23237584
+2020-01-28,22:18,GP,Tungt slut för Myhrer – Jakobsen sjua,https://gp.se/sport/tungt-slut-f%C3%B6r-myhrer-jakobsen-sjua-1.23232208
+2020-01-28,22:18,GP,Blandade reaktioner på Trumps fredsplan,https://gp.se/nyheter/v%C3%A4rlden/blandade-reaktioner-p%C3%A5-trumps-fredsplan-1.23237891
+2020-01-28,22:18,GP,Stor sökinsats efter försvunnen kvinna,https://gp.se/nyheter/sverige/stor-s%C3%B6kinsats-efter-f%C3%B6rsvunnen-kvinna-1.23237787
+2020-01-28,22:36,GP,Palestinska protester mot Trumps fredsplan,https://gp.se/nyheter/v%C3%A4rlden/palestinska-protester-mot-trumps-fredsplan-1.23223378
+2020-01-28,22:39,GP,Barn hittade sprängdeg på skolgård i Malmö,https://gp.se/nyheter/sverige/barn-hittade-spr%C3%A4ngdeg-p%C3%A5-skolg%C3%A5rd-i-malm%C3%B6-1.23239006
+2020-01-28,22:51,GP,E45 avstängd efter busskrock – polis jagar smitare,https://gp.se/nyheter/v%C3%A4stsverige/e45-avst%C3%A4ngd-efter-busskrock-polis-jagar-smitare-1.23239589
+2020-01-28,22:51,GP,Kraftigt jordskalv skakade om flera länder,https://gp.se/nyheter/v%C3%A4rlden/kraftigt-jordskalv-skakade-om-flera-l%C3%A4nder-1.23234609
+2020-01-28,22:53,GP,Polisjakt efter busskrock – E45 avstängd,https://gp.se/nyheter/v%C3%A4stsverige/polisjakt-efter-busskrock-e45-avst%C3%A4ngd-1.23239589
+2020-01-28,22:57,AB,Barn hittade sprängdeg i sandlåda,https://live.aftonbladet.se/supernytt/news/5e30adff54ab5b00117275ec
+2020-01-28,23:04,GP,Rekordhög vinst för Apple,https://gp.se/ekonomi/rekordh%C3%B6g-vinst-f%C3%B6r-apple-1.23240204
+2020-01-28,23:04,GP,Trezeguet sköt Aston Villa till final,https://gp.se/sport/trezeguet-sk%C3%B6t-aston-villa-till-final-1.23239995
+2020-01-28,23:14,IDG,Forskare från IBM och CHDI Foundation har använt ett stort antal magnetröntgenbilder för att skapa en artificiell intelligens som klarar av att upptäcka den neurologiska sjukdomen i ett tidigt skede.,https://computersweden.idg.se/2.2683/1.729813/ai-huntingtons-sjukdom
+2020-01-28,23:23,GP,Netanyahu tar steg mot annektering,https://gp.se/nyheter/v%C3%A4rlden/netanyahu-tar-steg-mot-annektering-1.23240404
+2020-01-28,23:27,GP,Mycket stark rapport från Apple,https://gp.se/ekonomi/mycket-stark-rapport-fr%C3%A5n-apple-1.23240204
+2020-01-28,23:35,GP,Kobe Bryant ska hedras på Oscarsgalan,https://gp.se/kultur/kultur-n%C3%B6je/kobe-bryant-ska-hedras-p%C3%A5-oscarsgalan-1.23240781
+2020-01-28,23:40,GP,Zlatan målskytt när Bryant hedrades,https://gp.se/sport/zlatan-m%C3%A5lskytt-n%C3%A4r-bryant-hedrades-1.23240804
+2020-01-28,23:54,GP,Starbucks stänger caféer efter viruset,https://gp.se/ekonomi/starbucks-st%C3%A4nger-caf%C3%A9er-efter-viruset-1.23240970
+2020-01-28,23:57,GP,Starbucks stänger kaféer efter viruset,https://gp.se/ekonomi/starbucks-st%C3%A4nger-kaf%C3%A9er-efter-viruset-1.23240970

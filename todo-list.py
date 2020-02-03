@@ -1,11 +1,13 @@
 #-= First is most important =-
-# TODO: Hämta nyheter från AB
+# DONE: Hämta nyheter från AB
 # TODO: Spara ner texten från artiklar
 # TODO: Hämta inställningar från en ini fil
 # TODO: Publicera i Flask
 # TODO: Check write sound - does it work?
 # TODO: Check highlight in lowercase
 # TODO: Kolla om requests.get(inputURL) använder logger - https://gp.se:443 "GET / HTTP/1.1" 301 0
+# TODO: Highlighta i streamlit om artikeln finns i register
+# TODO: FIXA IDG länkar 
 
 #-= DONE =-
 # DONE: Fixa hjälpmeny

@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+
 class MyNews(object):
     def __init__(self,label,title,url,source):
         self.label = label
