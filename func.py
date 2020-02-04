@@ -63,7 +63,11 @@ def getPageInfoIDG(inputURL,inputClass,inputLabel,inputTitle):
                 title = link.get('title')
                 url = link.get('href')
 
-        url = f'https:{url}'
+        # IDG Link wierd if news from IDG
+        if '2.1085/' in url:
+            url = f'https://idg.se{url}'
+        else:
+            url = f'https:{url}'
         label = datetime.now().strftime('%H:%M')
         newsCollection.append(MyNews(label,title,url,source))
     

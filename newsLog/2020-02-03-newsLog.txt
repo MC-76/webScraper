@@ -607,3 +607,128 @@
 2020-02-03,19:20,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
 2020-02-03,19:20,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
 2020-02-03,19:20,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:21,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:21,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:22,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:22,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:23,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:23,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:23,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:23,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:23,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:23,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:23,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:23,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:23,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:23,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:23,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:23,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:23,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:23,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:23,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:23,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:23,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:23,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:23,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:23,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:23,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:23,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:23,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:23,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:23,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:24,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:24,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:24,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:24,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:24,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:24,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:24,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:24,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:24,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:24,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:27,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:27,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:27,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:27,GP,FN: Första nödflyget från Sana väcker hopp,https://gp.se/nyheter/v%C3%A4rlden/fn-f%C3%B6rsta-n%C3%B6dflyget-fr%C3%A5n-sana-v%C3%A4cker-hopp-1.23487332
+2020-02-03,19:27,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:27,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:27,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:27,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:27,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:27,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:29,GP,Äldre man dog – personal riskerar att få sparken,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-%C3%A4ldreboende-i-g%C3%B6teborg-hittad-d%C3%B6d-personal-riskerar-avsked-1.23487808
+2020-02-03,19:29,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:29,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:29,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:29,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:29,AB,Rånare gripna efter polisjakt,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:29,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:29,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:29,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:29,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3840226167fe0011097862
+2020-02-03,19:29,GP,Äldre man dog – personal riskerar att få sparken,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-%C3%A4ldreboende-i-g%C3%B6teborg-hittad-d%C3%B6d-personal-riskerar-avsked-1.23487808
+2020-02-03,19:29,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3866759adfbb0011f6c2d5
+2020-02-03,19:30,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3866759adfbb0011f6c2d5
+2020-02-03,19:35,GP,Äldre man dog – personal riskerar att få sparken,https://gp.se/nyheter/g%C3%B6teborg/man-p%C3%A5-%C3%A4ldreboende-i-g%C3%B6teborg-hittad-d%C3%B6d-personal-riskerar-avsked-1.23487808
+2020-02-03,19:35,GP,Flera skolbarn döda i panikträngsel i Kenya,https://gp.se/nyheter/v%C3%A4rlden/flera-skolbarn-d%C3%B6da-i-paniktr%C3%A4ngsel-i-kenya-1.23487003
+2020-02-03,19:35,GP,Miljonregn över Frölunda – så mycket står på spel,https://gp.se/sport/ishockey/miljonregn-%C3%B6ver-fr%C3%B6lunda-s%C3%A5-mycket-%C3%A4r-en-finalseger-v%C3%A4rd-1.23483489
+2020-02-03,19:35,GP,Stal insamlingsbössa – flera stölder utreds,https://gp.se/nyheter/sverige/stal-insamlingsb%C3%B6ssa-flera-st%C3%B6lder-utreds-1.23487563
+2020-02-03,19:35,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,19:35,AB,Fler fordon i olycka på E4,https://live.aftonbladet.se/supernytt/news/5e3866759adfbb0011f6c2d5
+2020-02-03,19:35,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3866759adfbb0011f6c2d5
+2020-02-03,19:35,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:35,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,19:35,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e384b156167fe0011097869
+2020-02-03,19:36,GP,Flera tusen utan el i Jämtland,https://gp.se/nyheter/sverige/flera-tusen-utan-el-i-j%C3%A4mtland-1.23477437
+2020-02-03,19:39,GP,Malawi upphäver omstritt valresultat,https://gp.se/nyheter/v%C3%A4rlden/malawi-upph%C3%A4ver-omstritt-valresultat-1.23488115
+2020-02-03,19:42,IDG,När du står på marken, tittar upp och ser en jetstrimma då och då är det svårt att förstå den otroliga mängden flygplan i luften. Hur tät trafiken egentligen är förstår man först när man tittar på den svenska webbtjänsten Flightradar24.,https://techworld.idg.se/2.2524/1.617195/flightradar24--svenska-succetjansten-gor-att-du-aldrig-missar-ett-flyg
+2020-02-03,19:45,GP,Svedjedal lämnar Natur & Kultur,https://gp.se/kultur/kultur-n%C3%B6je/svedjedal-l%C3%A4mnar-natur-kultur-1.23467100
+2020-02-03,19:45,GP,Planen: Bygga två nya höghus – intill Hagabion,https://gp.se/nyheter/g%C3%B6teborg/planen-bygga-h%C3%B6ghus-bredvid-hagabion-1.23488354
+2020-02-03,19:58,GP,Polis avlossade skott vid insats,https://gp.se/nyheter/sverige/polis-avlossade-skott-vid-insats-1.23488517
+2020-02-03,19:58,GP,Svedjedal lämnar Natur & Kultur,https://gp.se/kultur/kultur-n%C3%B6je/svedjedal-l%C3%A4mnar-natur-kultur-1.23467100
+2020-02-03,19:58,GP,Planen: Bygga nytt höghus – intill Hagabion,https://gp.se/nyheter/g%C3%B6teborg/planen-bygga-h%C3%B6ghus-bredvid-hagabion-1.23488354
+2020-02-03,19:58,GP,Malawi upphäver omstritt valresultat,https://gp.se/nyheter/v%C3%A4rlden/malawi-upph%C3%A4ver-omstritt-valresultat-1.23488115
+2020-02-03,19:58,IDG,När du står på marken, tittar upp och ser en jetstrimma då och då är det svårt att förstå den otroliga mängden flygplan i luften. Hur tät trafiken egentligen är förstår man först när man tittar på den svenska webbtjänsten Flightradar24.,https://techworld.idg.se/2.2524/1.617195/flightradar24--svenska-succetjansten-gor-att-du-aldrig-missar-ett-flyg
+2020-02-03,19:58,AB,Mordmisstänkt man försatt på fri fot,https://live.aftonbladet.se/supernytt/news/5e386c5ed5ff63001196bade
+2020-02-03,19:58,AB,Polis sköt efter rymling,https://live.aftonbladet.se/supernytt/news/5e386c5ed5ff63001196bade
+2020-02-03,19:58,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3866759adfbb0011f6c2d5
+2020-02-03,19:58,AB,Två alkoholutslag fällde pilot,https://live.aftonbladet.se/supernytt/news/5e38517e9adfbb0011f6c2b6
+2020-02-03,19:58,AB,Bomb från andra världskriget hittad – stort område avspärrat,https://live.aftonbladet.se/supernytt/news/5e3851026167fe0011097871
+2020-02-03,20:01,GP,Planen: Bygga höghus – intill Hagabion,https://gp.se/nyheter/g%C3%B6teborg/planen-bygga-h%C3%B6ghus-bredvid-hagabion-1.23488354
+2020-02-03,20:32,GP,"Vi har satt in alla resurser",https://gp.se/sport/vi-har-satt-in-alla-resurser-1.23489196
+2020-02-03,20:32,GP,Miljoner i bredbandsstöd till fyra regioner,https://gp.se/ekonomi/miljoner-i-bredbandsst%C3%B6d-till-fyra-regioner-1.23489155
+2020-02-03,20:32,GP,Lyckad nödlandning i Madrid,https://gp.se/nyheter/v%C3%A4rlden/lyckad-n%C3%B6dlandning-i-madrid-1.23485380
+2020-02-03,20:32,GP,Polis avlossade skott vid insats,https://gp.se/nyheter/sverige/polis-avlossade-skott-vid-insats-1.23488517
+2020-02-03,20:32,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,20:32,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:32,AB,Två döda efter skjutning på universitet,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:32,AB,Två till sjukhus efter krock,https://live.aftonbladet.se/supernytt/news/5e3871376167fe00110978a4
+2020-02-03,20:32,AB,Larm om hög smäll,https://live.aftonbladet.se/supernytt/news/5e3870146167fe00110978a2
+2020-02-03,20:32,AB,Polis sköt efter rymling,https://live.aftonbladet.se/supernytt/news/5e386c5ed5ff63001196bade
+2020-02-03,20:35,GP,Minskad dödlig noshörningsjakt i Sydafrika,https://gp.se/nyheter/v%C3%A4rlden/minskad-d%C3%B6dlig-nosh%C3%B6rningsjakt-i-sydafrika-1.23489376
+2020-02-03,20:36,GP,Efter avslöjandet – regionen stoppar samarbete,https://gp.se/nyheter/v%C3%A4stsverige/regionen-stoppar-samarbete-upphandling-kan-ha-varit-riggad-1.23489474
+2020-02-03,20:42,GP,Efter avslöjandet – regionen stoppar samarbete,https://gp.se/nyheter/v%C3%A4stsverige/regionen-stoppar-samarbete-upphandling-kan-ha-varit-riggad-1.23489474
+2020-02-03,20:42,GP,Minskad dödlig noshörningsjakt i Sydafrika,https://gp.se/nyheter/v%C3%A4rlden/minskad-d%C3%B6dlig-nosh%C3%B6rningsjakt-i-sydafrika-1.23489376
+2020-02-03,20:42,GP,"Vi har satt in alla resurser",https://gp.se/sport/vi-har-satt-in-alla-resurser-1.23489196
+2020-02-03,20:42,GP,Miljoner i bredbandsstöd till fyra regioner,https://gp.se/ekonomi/miljoner-i-bredbandsst%C3%B6d-till-fyra-regioner-1.23489155
+2020-02-03,20:42,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,20:42,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:42,AB,Två döda efter skjutning på universitet,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:42,AB,Två till sjukhus efter krock,https://live.aftonbladet.se/supernytt/news/5e3871376167fe00110978a4
+2020-02-03,20:42,AB,Larm om hög smäll,https://live.aftonbladet.se/supernytt/news/5e3870146167fe00110978a2
+2020-02-03,20:42,AB,Polis sköt efter rymling,https://live.aftonbladet.se/supernytt/news/5e386c5ed5ff63001196bade
+2020-02-03,20:48,GP,Stor dramatik när Sävehof och RIK kryssade,https://gp.se/sport/handboll/stor-dramatik-n%C3%A4r-s%C3%A4vehof-och-rik-kryssade-1.23489656
+2020-02-03,20:48,GP,Sju års fängelse för 78 grova bedrägerier,https://gp.se/nyheter/sverige/sju-%C3%A5rs-f%C3%A4ngelse-f%C3%B6r-78-grova-bedr%C3%A4gerier-1.23489712
+2020-02-03,20:48,GP,Efter avslöjandet – regionen stoppar samarbete,https://gp.se/nyheter/v%C3%A4stsverige/regionen-stoppar-samarbete-upphandling-kan-ha-varit-riggad-1.23489474
+2020-02-03,20:48,GP,Minskad dödlig noshörningsjakt i Sydafrika,https://gp.se/nyheter/v%C3%A4rlden/minskad-d%C3%B6dlig-nosh%C3%B6rningsjakt-i-sydafrika-1.23489376
+2020-02-03,20:48,IDG,Cyberkriminella har börjat hacka fysiska uppkopplade passersystem och system för smarta byggnader. Men i stället för att utnyttja sårbarheterna för att ta sig in i byggnaderna används enheterna för ddos-attacker.,https://techworld.idg.se/2.2524/1.730054/hackar-fysiska-passersystem-ddos
+2020-02-03,20:48,AB,Skolbarn döda i panikträngsel,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:48,AB,Två döda efter skjutning på universitet,https://live.aftonbladet.se/supernytt/news/5e3875472046810011faf7b2
+2020-02-03,20:48,AB,Två till sjukhus efter krock,https://live.aftonbladet.se/supernytt/news/5e3871376167fe00110978a4
+2020-02-03,20:48,AB,Larm om hög smäll,https://live.aftonbladet.se/supernytt/news/5e3870146167fe00110978a2
+2020-02-03,20:48,AB,Polis sköt efter rymling,https://live.aftonbladet.se/supernytt/news/5e386c5ed5ff63001196bade

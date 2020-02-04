@@ -1,15 +1,23 @@
 #-= First is most important =-
-# TODO: Fixa Lastest news
-# TODO: Rensa samtlig text varje dygn
+# TODO: Rensa samtlig text varje dygn i History
 # TODO: Spara ner texten från artiklar
 # TODO: Hämta inställningar från en ini fil
 # TODO: Publicera i Flask
 # TODO: Check write sound - does it work?
 # TODO: Kolla om requests.get(inputURL) använder logger - https://gp.se:443 "GET / HTTP/1.1" 301 0
-# TODO: Highlighta i streamlit om artikeln finns i register
 # TODO: FIXA IDG länkar 
+# TODO: Sluta spara nyheter efter varje nyhet, gör detta batchmässigt
+# TODO: Begräna History till x antal inputs
+# TODO: Gör en sidebar där man kan välja källa (tex visa endast IDG)
+# TODO: streamlit title bör visas i fulltext
+# TODO: Fixa min enhörning 
+# TODO: Gör att highlight lista kan editeras i sidebar
 
 #-= DONE =-
+# DONE: Kolla varför det inte blir ny rad efter label i latest news
+# DONE: Fixa en divader mellan latest news och history
+# DONE: Fixa Lastest news
+# DONE: Highlighta i streamlit om artikeln finns i register
 # DONE: Check highlight in lowercase
 # DONE: Highlighta i streamlit om artikeln finns i register
 # DONE: Fixa hjälpmeny

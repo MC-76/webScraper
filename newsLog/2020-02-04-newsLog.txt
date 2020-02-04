@@ -1,0 +1,313 @@
+2020-02-04,05:28,GP,Masker från Vatikanen till virusdrabbat Kina,https://gp.se/nyheter/v%C3%A4rlden/masker-fr%C3%A5n-vatikanen-till-virusdrabbat-kina-1.23497997
+2020-02-04,05:28,GP,Lång väntan på Iowa-resultaten,https://gp.se/nyheter/v%C3%A4rlden/l%C3%A5ng-v%C3%A4ntan-p%C3%A5-iowa-resultaten-1.23494941
+2020-02-04,05:28,GP,Rakt och ärligt om vägen in i sektvänstern,https://gp.se/kultur/recension-st%C3%A5l%C3%A5r-gunnar-lindstedt-1.23367633
+2020-02-04,05:28,GP,Frölunda har blivit hockeyns svar på Barcelona,https://gp.se/sport/fr%C3%B6lunda-har-blivit-hockeyns-svar-p%C3%A5-barcelona-1.23488024
+2020-02-04,05:28,IDG,88 procent av deltagarna sa att de kunde identifiera nätfiske, men bara 5 procent av dem kunde upptäcka alla bluffar.,https://computersweden.idg.se/2.2683/1.729989/usel-avgora-lurad-natet
+2020-02-04,05:28,AB,Ingen smittad på evakueringsplanet,https://live.aftonbladet.se/supernytt/news/5e38d4172046810011faf7e8
+2020-02-04,05:28,AB,Paris råttor firar den utdragna strejken,https://live.aftonbladet.se/supernytt/news/5e38d4172046810011faf7e8
+2020-02-04,05:28,AB,Guinea skjuter upp val – igen,https://live.aftonbladet.se/supernytt/news/5e38bb906167fe00110978cb
+2020-02-04,05:28,AB,Stopp i trafiken efter olycka,https://live.aftonbladet.se/supernytt/news/5e38abc4d5ff63001196bb14
+2020-02-04,05:28,AB,Polisen söker dementa Arne, 86,https://live.aftonbladet.se/supernytt/news/5e3896b42046810011faf7c6
+2020-02-04,05:28,GP,Masker från Vatikanen till virusdrabbat Kina,https://gp.se/nyheter/v%C3%A4rlden/masker-fr%C3%A5n-vatikanen-till-virusdrabbat-kina-1.23497997
+2020-02-04,05:28,GP,Lång väntan på Iowa-resultaten,https://gp.se/nyheter/v%C3%A4rlden/l%C3%A5ng-v%C3%A4ntan-p%C3%A5-iowa-resultaten-1.23494941
+2020-02-04,05:28,GP,Rakt och ärligt om vägen in i sektvänstern,https://gp.se/kultur/recension-st%C3%A5l%C3%A5r-gunnar-lindstedt-1.23367633
+2020-02-04,05:28,GP,Frölunda har blivit hockeyns svar på Barcelona,https://gp.se/sport/fr%C3%B6lunda-har-blivit-hockeyns-svar-p%C3%A5-barcelona-1.23488024
+2020-02-04,05:28,IDG,88 procent av deltagarna sa att de kunde identifiera nätfiske, men bara 5 procent av dem kunde upptäcka alla bluffar.,https://computersweden.idg.se/2.2683/1.729989/usel-avgora-lurad-natet
+2020-02-04,05:28,AB,Ingen smittad på evakueringsplanet,https://live.aftonbladet.se/supernytt/news/5e38d4172046810011faf7e8
+2020-02-04,05:28,AB,Paris råttor firar den utdragna strejken,https://live.aftonbladet.se/supernytt/news/5e38d4172046810011faf7e8
+2020-02-04,05:28,AB,Guinea skjuter upp val – igen,https://live.aftonbladet.se/supernytt/news/5e38bb906167fe00110978cb
+2020-02-04,05:28,AB,Stopp i trafiken efter olycka,https://live.aftonbladet.se/supernytt/news/5e38abc4d5ff63001196bb14
+2020-02-04,05:28,AB,Polisen söker dementa Arne, 86,https://live.aftonbladet.se/supernytt/news/5e3896b42046810011faf7c6
+2020-02-04,18:13,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:13,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:13,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:13,IDG,Innan filerna på infekterade datorer krypteras försöker Ekans aktivt stänga ner processer som används på fabriker, kraftverk, raffinaderier och sjukhus.,https://techworld.idg.se/2.2524/1.730140/gisslanprogrammet-ekans-infrastruktur
+2020-02-04,18:13,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:13,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:13,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:13,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:13,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:14,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:14,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:14,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:14,IDG,Innan filerna på infekterade datorer krypteras försöker Ekans aktivt stänga ner processer som används på fabriker, kraftverk, raffinaderier och sjukhus.,https://techworld.idg.se/2.2524/1.730140/gisslanprogrammet-ekans-infrastruktur
+2020-02-04,18:14,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:14,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:14,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:14,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:14,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:14,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:14,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:14,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:14,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,18:14,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:14,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:14,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:14,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:14,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:15,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:15,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:15,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:15,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,18:15,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:15,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:15,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:15,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:15,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:16,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https:/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,18:18,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:18,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:18,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:18,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,18:18,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:18,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:18,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:18,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:18,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:19,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:19,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:19,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:19,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,18:19,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:19,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:19,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:19,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:19,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:20,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se//2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,18:24,GP,"Vilsna" laxar hittade nytt hem i skånsk å,https://gp.se/nyheter/sverige/vilsna-laxar-hittade-nytt-hem-i-sk%C3%A5nsk-%C3%A5-1.23527778
+2020-02-04,18:25,IDG,Kinesiska mobiljätten Xiaomi fortsätter satsa stort på Sverige. Nu ska bolagets butikskoncept Mi Store slå upp portarna i Mall of Scandinavia.,https://computersweden.idg.se/2.2683/1.730121/xiaomi-flaggskeppsbutik
+2020-02-04,18:27,GP,"Vilsna" laxar hittade nytt hem i skånsk å,https://gp.se/nyheter/sverige/vilsna-laxar-hittade-nytt-hem-i-sk%C3%A5nsk-%C3%A5-1.23527778
+2020-02-04,18:27,GP,Friskolebolag tvingas återbetala bidrag,https://gp.se/nyheter/sverige/friskolebolag-tvingas-%C3%A5terbetala-bidrag-1.23527210
+2020-02-04,18:27,GP,Engvalls mardröm – knäskadad igen,https://gp.se/sport/fotboll/engvalls-mardr%C3%B6m-kn%C3%A4skadad-igen-1.23527068
+2020-02-04,18:27,GP,Verkstadsaktier gav börsen glädjelyft,https://gp.se/ekonomi/verkstadsaktier-gav-b%C3%B6rsen-gl%C3%A4djelyft-1.23504331
+2020-02-04,18:27,IDG,Kinesiska mobiljätten Xiaomi fortsätter satsa stort på Sverige. Nu ska bolagets butikskoncept Mi Store slå upp portarna i Mall of Scandinavia.,https://computersweden.idg.se/2.2683/1.730121/xiaomi-flaggskeppsbutik
+2020-02-04,18:27,AB,Nazister flyttar demonstration,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:27,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,18:27,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,18:27,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,18:27,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39855c154b5a001819fc72
+2020-02-04,18:28,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,18:29,GP,Förskola utrymd efter misstänkt bombfynd,https://gp.se/nyheter/sverige/f%C3%B6rskola-utrymd-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,18:34,GP,Frölunda-fansens finalilska – efter CHL:s blunder,https://gp.se/sport/ishockey/fr%C3%B6lunda-fansens-finalilska-efter-chl-s-blunder-1.23528050
+2020-02-04,18:41,GP,Nedläggningshotat hem för utsatta barn räddas,https://gp.se/nyheter/g%C3%B6teborg/nedl%C3%A4ggningshotat-hem-f%C3%B6r-utsatta-barn-r%C3%A4ddas-1.23528149
+2020-02-04,18:44,GP,Frölundafansens finalilska – efter CHL:s blunder,https://gp.se/sport/ishockey/fr%C3%B6lundafansens-finalilska-efter-chl-s-blunder-1.23528050
+2020-02-04,18:46,GP,Stoppas från landslagsspel: "Inte acceptabelt",https://gp.se/sport/stoppas-fr%C3%A5n-landslagsspel-inte-acceptabelt-1.23528332
+2020-02-04,18:50,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,19:08,GP,Skadad man i Landskrona troligen skjuten,https://gp.se/nyheter/sverige/skadad-man-i-landskrona-troligen-skjuten-1.23528782
+2020-02-04,19:13,GP,Skadad man i Landskrona troligen skjuten,https://gp.se/nyheter/sverige/skadad-man-i-landskrona-troligen-skjuten-1.23528782
+2020-02-04,19:13,GP,Stoppas från landslagsspel: "Inte acceptabelt",https://gp.se/sport/stoppas-fr%C3%A5n-landslagsspel-inte-acceptabelt-1.23528332
+2020-02-04,19:13,GP,Nedläggningshotat hem för utsatta barn räddas,https://gp.se/nyheter/g%C3%B6teborg/nedl%C3%A4ggningshotat-hem-f%C3%B6r-utsatta-barn-r%C3%A4ddas-1.23528149
+2020-02-04,19:13,GP,Frölundafansens finalilska – efter CHL:s blunder,https://gp.se/sport/ishockey/fr%C3%B6lundafansens-finalilska-efter-chl-s-blunder-1.23528050
+2020-02-04,19:13,IDG,Kinesiska mobiljätten Xiaomi fortsätter satsa stort på Sverige. Nu ska bolagets butikskoncept Mi Store slå upp portarna i Mall of Scandinavia.,https://computersweden.idg.se/2.2683/1.730121/xiaomi-flaggskeppsbutik
+2020-02-04,19:13,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,19:13,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,19:13,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,19:13,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,19:13,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,19:16,GP,Skadad man i Landskrona troligen skjuten,https://gp.se/nyheter/sverige/skadad-man-i-landskrona-troligen-skjuten-1.23528782
+2020-02-04,19:16,GP,Stoppas från landslagsspel: "Inte acceptabelt",https://gp.se/sport/stoppas-fr%C3%A5n-landslagsspel-inte-acceptabelt-1.23528332
+2020-02-04,19:16,GP,Nedläggningshotat hem för utsatta barn räddas,https://gp.se/nyheter/g%C3%B6teborg/nedl%C3%A4ggningshotat-hem-f%C3%B6r-utsatta-barn-r%C3%A4ddas-1.23528149
+2020-02-04,19:16,GP,Frölundafansens finalilska – efter CHL:s blunder,https://gp.se/sport/ishockey/fr%C3%B6lundafansens-finalilska-efter-chl-s-blunder-1.23528050
+2020-02-04,19:16,IDG,Kinesiska mobiljätten Xiaomi fortsätter satsa stort på Sverige. Nu ska bolagets butikskoncept Mi Store slå upp portarna i Mall of Scandinavia.,https://computersweden.idg.se/2.2683/1.730121/xiaomi-flaggskeppsbutik
+2020-02-04,19:16,AB,Fyra gripna för misstänkta bombplaner,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,19:16,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,19:16,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,19:16,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,19:16,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39a36f154b5a001819fc8e
+2020-02-04,19:18,GP,Ny Häcken-förlust – kan sluta sist i Atlantic Cup,https://gp.se/sport/fotboll/ny-h%C3%A4cken-f%C3%B6rlust-kan-sluta-sist-i-atlantic-cup-1.23528858
+2020-02-04,19:20,GP,Delar av valresultatet utlovas om några timmar,https://gp.se/nyheter/v%C3%A4rlden/delar-av-valresultatet-utlovas-om-n%C3%A5gra-timmar-1.23494941
+2020-02-04,19:20,GP,Strömwall: "Har inte sagt någonting",https://gp.se/sport/str%C3%B6mwall-har-inte-sagt-n%C3%A5gonting-1.23529125
+2020-02-04,19:20,GP,Lopez vill bli bättre än Karelin,https://gp.se/sport/lopez-vill-bli-b%C3%A4ttre-%C3%A4n-karelin-1.23528953
+2020-02-04,19:21,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,19:22,GP,Kristoffersson vill vinna svenskkampen,https://gp.se/sport/kristoffersson-vill-vinna-svenskkampen-1.23529390
+2020-02-04,19:27,GP,Ryska frågor om försvarsutgifter till Linde,https://gp.se/nyheter/sverige/ryska-fr%C3%A5gor-om-f%C3%B6rsvarsutgifter-till-linde-1.23529653
+2020-02-04,19:29,GP,Hade Kalasjnikov i bilen – och krockade med polisen,https://gp.se/nyheter/g%C3%B6teborg/hade-en-kalasjnikov-i-frams%C3%A4tet-och-krockade-med-polisbil-1.23513857
+2020-02-04,19:38,GP,Man skottskadad i Landskrona,https://gp.se/nyheter/sverige/man-skottskadad-i-landskrona-1.23528782
+2020-02-04,19:41,GP,WHO: Ingen pandemi – ännu,https://gp.se/nyheter/v%C3%A4rlden/who-ingen-pandemi-%C3%A4nnu-1.23494438
+2020-02-04,19:47,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,19:50,GP,Man allvarligt skottskadad i Landskrona,https://gp.se/nyheter/sverige/man-allvarligt-skottskadad-i-landskrona-1.23528782
+2020-02-04,19:58,GP,Jan Johansen tvekade inför att ersätta Flinck,https://gp.se/kultur/kultur-n%C3%B6je/jan-johansen-tvekade-inf%C3%B6r-att-ers%C3%A4tta-flinck-1.23530340
+2020-02-04,20:01,GP,Storstjärnan Woody Harrelson kommer till Göteborg,https://gp.se/kultur/kultur/woody-harrelson-till-g%C3%B6teborg-1.23530523
+2020-02-04,20:18,GP,Misstänkt farligt föremål i Herrljunga,https://gp.se/nyheter/v%C3%A4stsverige/misst%C3%A4nkt-farligt-f%C3%B6rem%C3%A5l-i-herrljunga-1.23530938
+2020-02-04,20:18,GP,TT-FLASH: Andersson kandiderar inte,https://gp.se/nyheter/sverige/tt-flash-andersson-kandiderar-inte-1.23530920
+2020-02-04,20:27,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:27,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:31,GP,Experten: Fladdermusen effektiv smittspridare,https://gp.se/nyheter/sverige/experten-fladdermusen-effektiv-smittspridare-1.23531289
+2020-02-04,20:37,GP,Sekunddrama i derbyt – Bardis avgjorde sent,https://gp.se/sport/handboll/sekunddrama-n%C3%A4r-%C3%B6nnered-vann-derbyt-1.23531550
+2020-02-04,20:37,GP,Lovordar mittfältaren: "Bra konstant",https://gp.se/sport/fotboll/lovordar-mittf%C3%A4ltaren-bra-konstant-1.23531498
+2020-02-04,20:40,GP,Mystiskt fynd i Herrljunga – bombskydd på väg,https://gp.se/nyheter/sverige/mystiskt-fynd-i-herrljunga-bombskydd-p%C3%A5-v%C3%A4g-1.23531669
+2020-02-04,20:47,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:47,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:47,GP,"En insats av yppersta klass – wow!",https://gp.se/sport/handboll/de-var-b%C3%A4st-i-rafflande-derbyt-mellan-%C3%B6nnered-och-heid-1.23531885
+2020-02-04,20:50,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:50,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:50,GP,"En insats av yppersta klass – wow!",https://gp.se/sport/handboll/de-var-b%C3%A4st-i-rafflande-derbyt-mellan-%C3%B6nnered-och-heid-1.23531885
+2020-02-04,20:50,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,20:50,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:50,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:50,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:50,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:50,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:51,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:51,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:51,GP,"En insats av yppersta klass – wow!",https://gp.se/sport/handboll/de-var-b%C3%A4st-i-rafflande-derbyt-mellan-%C3%B6nnered-och-heid-1.23531885
+2020-02-04,20:51,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,20:51,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:51,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:51,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:51,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:51,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:51,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:51,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:51,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:51,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:51,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,20:51,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:51,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:51,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:51,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:51,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:53,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:53,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:53,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:53,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:53,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:53,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:53,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:53,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:53,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:53,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:53,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:53,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:53,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:53,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:53,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:53,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:53,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:53,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:53,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:53,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:54,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:54,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:54,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:54,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:54,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:54,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:54,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:54,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:54,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:54,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:55,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:55,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:55,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:55,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:55,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:55,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:55,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:55,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:55,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:55,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:56,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:56,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:56,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:56,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:56,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:56,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:56,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:56,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:56,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:56,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:57,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:57,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:57,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:57,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:57,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:57,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:57,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:57,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:57,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:57,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:57,GP,Röriga Iowa riskerar sin förstaplats,https://gp.se/nyheter/v%C3%A4rlden/r%C3%B6riga-iowa-riskerar-sin-f%C3%B6rstaplats-1.23532310
+2020-02-04,20:57,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,20:57,GP,Leons modiga knep skrämde iväg inbrottstjuv,https://gp.se/nyheter/g%C3%B6teborg/10-%C3%A5rige-leons-knep-skr%C3%A4mde-iv%C3%A4g-inbrottstjuvarna-1.23526684
+2020-02-04,20:57,GP,Sicilianskt "maffiamord" förbryllar i Liège,https://gp.se/nyheter/v%C3%A4rlden/sicilianskt-maffiamord-f%C3%B6rbryllar-i-li%C3%A8ge-1.23531948
+2020-02-04,20:57,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,20:57,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:57,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,20:57,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,20:57,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,20:57,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,20:58,GP,Lesotholedares fru anklagas för mord,https://gp.se/nyheter/v%C3%A4rlden/lesotholedares-fru-anklagas-f%C3%B6r-mord-1.23532491
+2020-02-04,21:09,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:09,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:09,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:09,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:09,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,21:09,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:09,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:09,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:09,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:09,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:10,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:10,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:10,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:10,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:10,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,21:10,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:10,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:10,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:10,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:10,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:11,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,21:16,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:16,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:16,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:16,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:16,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,21:16,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:16,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:16,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:16,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:16,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:17,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:17,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:17,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:17,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:17,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:17,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:17,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:17,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:17,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:17,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:17,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:19,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:19,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:19,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:19,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:19,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:19,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:19,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:19,AB,Man skjuten i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:19,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:19,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:20,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:21,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:21,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:21,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:21,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:21,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:21,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:21,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:21,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:21,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:21,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:21,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:21,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:21,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:21,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:21,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:21,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:21,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:21,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:21,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:21,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85

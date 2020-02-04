@@ -12,7 +12,7 @@ import os                           # Check if folder exists
 import time                         # for sleep
 import datetime                     # for logfilename
 import sys,getopt                   # for args
-from misc import highLights         # Highlight file
+from misc import highLights, unicorn         # Highlight file
 import logging
 import streamlit as st
 
@@ -75,6 +75,7 @@ for opt, arg in opts:
 # Print headers
 if not flagSilent:
     last_updated = st.empty()
+    print(unicorn)
     print('Latest news from GP, IDG and Aftonbladet')
     st.title('Latest news from GP, IDG and Aftonbladet')
     #st.divide()
@@ -87,8 +88,13 @@ if not flagSilent:
 
 lastFileDate = datetime.date.today()
 
+#Sidebar test
+st.sidebar.subheader('WebScraper Settings')
+flagHiglights = st.sidebar.checkbox('Highlight news',value=flagHiglights)
+flagLinks = st.sidebar.checkbox('Show Links in output',value=flagLinks)
+
 # Placeholders
-st.subheader('Latest news:')
+st.success('Latest news')
 news1 = st.empty()
 news2 = st.empty()
 news3 = st.empty()
@@ -107,7 +113,7 @@ if not os.path.exists(path):
         logger.error(f'Error creating folder: {path}')
         sys.exit()
 
-st.subheader('History')
+st.success('History')
 while True: # Run forever
     logger.debug('Starting new loop')
     unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
@@ -160,10 +166,10 @@ while True: # Run forever
    
     top_news = len(newsFlow)-1
     #while top_news > 0:
-    news1.text(f'{newsFlow[top_news].label}\n{newsFlow[top_news].title}\n{newsFlow[top_news].url}')
-    news2.text(f'{newsFlow[top_news-1].label}\n{newsFlow[top_news-1].title}\n{newsFlow[top_news-1].url}')
-    news3.text(f'{newsFlow[top_news-2].label}\n{newsFlow[top_news-2].title}\n{newsFlow[top_news-2].url}')
-    news4.text(f'{newsFlow[top_news-3].label}\n{newsFlow[top_news-3].title}\n{newsFlow[top_news-3].url}')
+    news1.markdown(f'**{newsFlow[top_news].label}**  \n{newsFlow[top_news].title}\n{newsFlow[top_news].url}')
+    news2.markdown(f'**{newsFlow[top_news-1].label}**  \n{newsFlow[top_news-1].title}\n{newsFlow[top_news-1].url}')
+    news3.markdown(f'**{newsFlow[top_news-2].label}**  \n{newsFlow[top_news-2].title}\n{newsFlow[top_news-2].url}')
+    news4.markdown(f'**{newsFlow[top_news-3].label}**  \n{newsFlow[top_news-3].title}\n{newsFlow[top_news-3].url}')
   
         
 
