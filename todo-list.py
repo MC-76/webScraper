@@ -1,8 +1,7 @@
 #-= First is most important =-
-# TODO: Lägg API Nycklar i egen fil med gitignore
+
 # TODO: Ändra så att nyast new är överst i history
 # TODO: Ta bort print delen, endast streamlit
-
 # TODO: Kolla om man kan skapa en nedladdningslänk över history
 # TODO: Rensa samtlig text varje dygn i History
 # TODO: Spara ner texten från artiklar
@@ -18,6 +17,7 @@
 # TODO: Gör att highlight lista kan editeras i sidebar
 
 #-= DONE =-
+# DONE: Lägg API Nycklar i egen fil med gitignore
 # DONE: FIXA IDG länkar 
 # DONE: Kolla varför det inte blir ny rad efter label i latest news
 # DONE: Fixa en divader mellan latest news och history

@@ -1,6 +1,6 @@
-newslog
-venv
+newslog/
+venv/
 webScraper copy.py
 .vscode
 api-keys.yaml
-__pycache__
+__pycache__/

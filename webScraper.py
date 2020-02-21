@@ -116,6 +116,7 @@ if not os.path.exists(path):
         logger.error(f'Error creating folder: {path}')
         sys.exit()
 
+
 st.success('History')
 while True: # Run forever
     logger.debug('Starting new loop')
