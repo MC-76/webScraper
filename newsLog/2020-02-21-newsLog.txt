@@ -1,0 +1,1204 @@
+2020-02-21,00:57,GP,Norlander delad tvåa i Puerto Rico,https://gp.se/sport/norlander-delad-tv%C3%A5a-i-puerto-rico-1.24315134
+2020-02-21,00:57,GP,United kryssade i regnigt Belgien,https://gp.se/sport/united-kryssade-i-regnigt-belgien-1.24308845
+2020-02-21,00:57,GP,Larsson visade talangen i mötet med eliten,https://gp.se/sport/larsson-visade-talangen-i-m%C3%B6tet-med-eliten-1.24307938
+2020-02-21,00:57,GP,Kiese Thelin målskytt när MFF föll i EL,https://gp.se/sport/kiese-thelin-m%C3%A5lskytt-n%C3%A4r-mff-f%C3%B6ll-i-el-1.24314837
+2020-02-21,00:57,IDG,Beror enligt experterna på att stora biltillverkare håller fast vid logistiksystem de byggt upp över åren.,https://idg.se/2.1085/1.730811/tesla-teknik-fore-konkurrenter
+2020-02-21,00:57,AB,Man filmade kvinnor i duschrum på badhus,https://live.aftonbladet.se/supernytt/news/5e4f0eedadde6e00116bd2ac
+2020-02-21,00:57,AB,Polis stoppade smitare med spikmatta,https://live.aftonbladet.se/supernytt/news/5e4f0eedadde6e00116bd2ac
+2020-02-21,00:57,AB,Bloombergs debutdebatt slog tittarrekord,https://live.aftonbladet.se/supernytt/news/5e4ef302270d0a0011082d24
+2020-02-21,00:57,AB,Annie Lööf tillbaka 1 september,https://live.aftonbladet.se/supernytt/news/5e4ef097adde6e00116bd291
+2020-02-21,00:57,AB,Larm om smällar på Värmdö,https://live.aftonbladet.se/supernytt/news/5e4ee853adde6e00116bd28c
+2020-02-21,00:58,GP,Stora problemet för Frölunda – som spelarna får lösa,https://gp.se/sport/ishockey/stora-problemet-f%C3%B6r-fr%C3%B6lunda-som-spelarna-ska-l%C3%B6sa-1.24313561
+2020-02-21,00:59,GP,Norlander delad tvåa i Puerto Rico,https://gp.se/sport/norlander-delad-tv%C3%A5a-i-puerto-rico-1.24315134
+2020-02-21,01:07,IDG,Den franska konsultjätten Capgemini satsar stort i Sverige genom att köpa konsultbolaget Advectas, som nu blir en del av det globala affärsområdet Insights & Data.,https://computersweden.idg.se/2.2683/1.730861/datadriv-capgemini-kop-advectas
+2020-02-21,01:15,IDG,Google planerar enligt uppgift att flytta brittiska användare från EU:s dataskyddsregler efter Brexit och i stället lägga dem under amerikansk lag. Det ger enskilda mindre skydd men brittisk polis får lättare ut information.,https://computersweden.idg.se/2.2683/1.730899/brittiska-googleanvandare-flyttas
+2020-02-21,01:16,IDG,Linux Foundation släpper tre nya rapporter om öppen källkod där vi får veta vilka typer av öppen källkod som är vanligast och vad man bör tänka på när det gäller säkerhetsfrågor.,https://techworld.idg.se/2.2524/1.730921/linux-foundation-slapper-tre-nya-rapporter-om-oppen-kallkod
+2020-02-21,01:20,IDG,Ska användas för att modellera flyg och skepp och spana efter orkaner.,https://techworld.idg.se/2.2524/1.730881/usa-flotta-superdator
+2020-02-21,01:24,GP,Irlands premiärminister avgår,https://gp.se/nyheter/v%C3%A4rlden/irlands-premi%C3%A4rminister-avg%C3%A5r-1.24315358
+2020-02-21,01:36,IDG,Nu släpper Lenovo sin kanske flashigaste modell någonsin av den klassiska företagsdatorn Thinkpad: X1 Fold med vikbar skärm. CS träffade Lenovos pc-nestor Kevin Beck i samband med den svenska presentationen.,https://computersweden.idg.se/2.2683/1.730607/lenovo-thinkpad-x1-fold
+2020-02-21,02:09,IDG,Streamingtjänsten Spotifys årliga succétjänst Wrapped med användarnas mest lyssnade låtar är det största jobb som någonsin körts i Googles molnbaserade dataflödestjänst.,https://computersweden.idg.se/2.2683/1.730878/spotify-dataflode-google-moln
+2020-02-21,02:25,GP,Evakuerade smittade av coronavirus,https://gp.se/nyheter/v%C3%A4rlden/evakuerade-smittade-av-coronavirus-1.24315409
+2020-02-21,02:26,GP,Tung start för Kinhult i Mexiko,https://gp.se/sport/tung-start-f%C3%B6r-kinhult-i-mexiko-1.24315520
+2020-02-21,02:33,IDG,Nu har Riksbanken valt en teknisk lösning för den plattform för e-krona som tas fram tillsammans med Accenture i ett pilottest. Och det bygger på blockkedjeteknik.,https://computersweden.idg.se/2.2683/1.730926/blockkedja-riksbanken-e-krona
+2020-02-21,03:08,GP,Små rörelser på Asiens börser,https://gp.se/ekonomi/sm%C3%A5-r%C3%B6relser-p%C3%A5-asiens-b%C3%B6rser-1.24315833
+2020-02-21,03:09,IDG,Mölnlycke, som levererar medicinska produkter tar it-hjälp av Iver. Partnerna har tecknat ett globalt driftavtal som sträcker sig över tre och ett halvt år.,https://computersweden.idg.se/2.2683/1.730908/iver-molnlycke-drift
+2020-02-21,03:16,IDG,Coronavirusets utbrott i Kina följs intensivt i hela världen. Forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas. Och Mapbox har en karta där man kan se spridningen över tid.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-21,03:20,IDG,Juryn har surfat sig igenom tusentals sajter och accepterat så många cookies att vi tappat räkningen för länge sedan. Det är ett hårt jobb att utse Sveriges 100 bästa sajter, appar och nättjänster, men någon måste göra det. Här är Topp100 2019.,https://topp100.idg.se/2.39772/1.714254/topp100-2019-sveriges-basta-sajter
+2020-02-21,03:23,GP,Ökning av virussmittade i Sydkorea,https://gp.se/nyheter/v%C3%A4rlden/%C3%B6kning-av-virussmittade-i-sydkorea-1.24316778
+2020-02-21,03:49,GP,Ny sultan skriver om nationalsång,https://gp.se/nyheter/v%C3%A4rlden/ny-sultan-skriver-om-nationals%C3%A5ng-1.24317154
+2020-02-21,04:09,IDG,Nu väcks oro för att Ryssland ska ha möjlighet att skära av hela länders tillgång till internet.,https://idg.se/2.1085/1.730812/rysk-underrattelsetjanst-natkablar
+2020-02-21,04:20,IDG,Med hjälp av en handfull vanliga lösenord lyckades hackare få tag i känslig information om de anställdas betalkort, körkort och socialförsäkringsnummer.,https://techworld.idg.se/2.2524/1.730912/hackare-citrix-i-fem-manader
+2020-02-21,04:30,IDG,När du surfar på nätet lämnar du massor av digitala spår efter dig. Här är sex tekniker som hjälper dig att täcka över de spåren.,https://techworld.idg.se/2.2524/1.477534/sa-haller-du-dig-anonym-pa-natet
+2020-02-21,04:31,GP,Svensk man jagas i Filippinerna,https://gp.se/nyheter/sverige/svensk-man-jagas-i-filippinerna-1.24317540
+2020-02-21,04:33,AB,Svensk jagas för våldtäkt,https://live.aftonbladet.se/supernytt/news/5e4f4f56270d0a0011082d49
+2020-02-21,04:42,GP,Svensk misstänks för våldtäkt i Filippinerna,https://gp.se/nyheter/sverige/svensk-misst%C3%A4nks-f%C3%B6r-v%C3%A5ldt%C3%A4kt-i-filippinerna-1.24317576
+2020-02-21,04:54,GP,Smittade australier testade negativt i Japan,https://gp.se/nyheter/v%C3%A4rlden/smittade-australier-testade-negativt-i-japan-1.24315409
+2020-02-21,05:03,GP,Gustav fick ärr för livet – Serneke får böta 400 000,https://gp.se/ekonomi/gustav-fick-%C3%A4rr-f%C3%B6r-livet-serneke-f%C3%A5r-b%C3%B6ta-400-000-1.24295315
+2020-02-21,05:03,GP,Förhandstippade Mellostjärnan tillbaka där allt började,https://gp.se/kultur/kultur/f%C3%B6rhandsfavoriten-hanna-ferm-tillbaka-p%C3%A5-hisingen-d%C3%A4r-allt-b%C3%B6rjade-1.24135531
+2020-02-21,05:03,GP,"Ska du inte testa att gå till Hammarby i stället?",https://gp.se/sport/fotboll/v%C3%A4nnen-nikola-djurdjic-f%C3%B6rs%C3%B6kte-locka-alexander-s%C3%B6derlund-till-stockholm-1.24312904
+2020-02-21,05:08,GP,Trots snöbristen – nu inleds Vasaloppsveckan,https://gp.se/sport/trots-sn%C3%B6bristen-nu-inleds-vasaloppsveckan-1.24318240
+2020-02-21,05:14,GP,Domstol sätter stopp för Morales,https://gp.se/nyheter/v%C3%A4rlden/domstol-s%C3%A4tter-stopp-f%C3%B6r-morales-1.24318346
+2020-02-21,05:15,IDG,En bugg i kontohanteringen orsakade det driftstopp som sedan i tisdags orsakat att Bostadsförmedlingen i Stockholms sajt och onlinetjänst legat nere. Sajten är nu uppe i normal drift.,https://computersweden.idg.se/2.2683/1.730927/stopp-bugg-bostadsformedlingen
+2020-02-21,05:17,IDG,För att lyckas på jobbintervjun kan det vara bra att öva. Faktum är att även de frågor som verkar enkla kan vara de som avgör om du får jobbet eller inte. Amerikanska CIO har tipsen på hur du ska svara. ,https://computersweden.idg.se/2.2683/1.666232/fragor-anstallningsintervju-tips
+2020-02-21,05:23,GP,Teknikfiasko à la Iowa hotar Nevadaval,https://gp.se/nyheter/v%C3%A4rlden/teknikfiasko-%C3%A0-la-iowa-hotar-nevadaval-1.24318688
+2020-02-21,05:23,GP,115 nya coronavirusfall i Hubeiprovinsen,https://gp.se/nyheter/v%C3%A4rlden/115-nya-coronavirusfall-i-hubeiprovinsen-1.24318482
+2020-02-21,05:31,AB,Nevada bävar för röstkaos efter haveriet,https://live.aftonbladet.se/supernytt/news/5e4f5cd2adde6e00116bd2c7
+2020-02-21,05:37,IDG,Minidatorerna, med Raspberry Pi i spetsen, säljer som aldrig förr. Men konkurrensen blir allt tuffare när fler tillverkare ger sig in i kampen om datorbyggarnas gunst. Här är några av de nya konkurrenterna till Raspberry Pi.,https://techworld.idg.se/2.2524/1.654374/raspberry-pi-tips-guide-projekt
+2020-02-21,05:39,GP,Högt pris för högre pensioner,https://gp.se/ekonomi/h%C3%B6gt-pris-f%C3%B6r-h%C3%B6gre-pensioner-1.24318792
+2020-02-21,05:49,GP,Lagom högt valdeltagande önskas i Iran,https://gp.se/nyheter/v%C3%A4rlden/lagom-h%C3%B6gt-valdeltagande-%C3%B6nskas-i-iran-1.24318961
+2020-02-21,05:59,AB,Gummibåt med 91 passagerare saknas efter flykt,https://live.aftonbladet.se/supernytt/news/5e4f6348586298001174f7b8
+2020-02-21,06:05,GP,Låg lavinkunskap hos många snöskoterförare,https://gp.se/nyheter/sverige/l%C3%A5g-lavinkunskap-hos-m%C3%A5nga-sn%C3%B6skoterf%C3%B6rare-1.24319282
+2020-02-21,06:08,GP,Kameror minskade trakasserier mot poliser,https://gp.se/nyheter/sverige/kameror-minskade-trakasserier-mot-poliser-1.24319416
+2020-02-21,06:10,AB,Höjda pensioner kan tas från lönen,https://live.aftonbladet.se/supernytt/news/5e4f6619270d0a0011082d50
+2020-02-21,06:23,AB,Kroppskameror har minskat sexuella trakasserier,https://live.aftonbladet.se/supernytt/news/5e4f6906270d0a0011082d53
+2020-02-21,06:30,GP,Trump beklagar årets Oscarsval,https://gp.se/kultur/kultur-n%C3%B6je/trump-beklagar-%C3%A5rets-oscarsval-1.24319886
+2020-02-21,06:33,AB,Trump kritiserar Oscarsjuryns val: "Har tillräckligt med problem med Sydkorea",https://live.aftonbladet.se/supernytt/news/5e4f6b674d15ab00114beffa
+2020-02-21,06:39,GP,Långt till uppgörelse om EU-budget,https://gp.se/nyheter/v%C3%A4rlden/l%C3%A5ngt-till-uppg%C3%B6relse-om-eu-budget-1.24320258
+2020-02-21,06:39,GP,Rheborg och Fares möts i ny dramaserie,https://gp.se/kultur/kultur-n%C3%B6je/rheborg-och-fares-m%C3%B6ts-i-ny-dramaserie-1.24320240
+2020-02-21,06:42,AB,Underjordisk haschgömma avslöjad i charterparadis,https://live.aftonbladet.se/supernytt/news/5e4f6db3adde6e00116bd2cd
+2020-02-21,06:44,AB,Underjordisk fabrik avslöjad i charterparadis,https://live.aftonbladet.se/supernytt/news/5e4f6db3adde6e00116bd2cd
+2020-02-21,06:45,AB,Trump kritiserar Oscarsjuryns val: "Har tillräckliga problem med Sydkorea",https://live.aftonbladet.se/supernytt/news/5e4f6b674d15ab00114beffa
+2020-02-21,06:49,GP,Sarkola utforskar det nyttomaximerade livet,https://gp.se/kultur/kultur-n%C3%B6je/sarkola-utforskar-det-nyttomaximerade-livet-1.24320465
+2020-02-21,06:55,GP,Testad medicin mot alzheimer verklös,https://gp.se/nyheter/sverige/testad-medicin-mot-alzheimer-verkl%C3%B6s-1.24320536
+2020-02-21,06:55,GP,Därför saknar spårvagnarna linjenamn,https://gp.se/nyheter/g%C3%B6teborg/d%C3%A4rf%C3%B6r-saknar-sp%C3%A5rvagnarna-linjenamn-1.24205798
+2020-02-21,07:00,GP,Snö, blåst och halka – SMHI varnar: "Busväder",https://gp.se/nyheter/sverige/sn%C3%B6-bl%C3%A5st-och-halka-smhi-varnar-busv%C3%A4der-1.24320731
+2020-02-21,07:01,AB,Många IS-återvändare söker stöd,https://live.aftonbladet.se/supernytt/news/5e4f71f2586298001174f7c8
+2020-02-21,07:03,AB,Bakslag för ny medicin mot Alzheimers,https://live.aftonbladet.se/supernytt/news/5e4f72a1adde6e00116bd2d6
+2020-02-21,07:05,GP,Ovetjkin ett mål från exklusiva klubben,https://gp.se/sport/ovetjkin-ett-m%C3%A5l-fr%C3%A5n-exklusiva-klubben-1.24321087
+2020-02-21,07:05,GP,Briljanta noveller om jägare och rovdjur,https://gp.se/kultur/recension-den-sista-vargen-l%C3%A1szl%C3%B3-krasznahorkai-1.24291579
+2020-02-21,07:05,GP,Blåvitts besked – ökning av sålda årskort,https://gp.se/sport/fotboll/bl%C3%A5vitts-besked-%C3%B6kning-av-s%C3%A5lda-%C3%A5rskort-1.24295966
+2020-02-21,07:16,GP,Ingen effekt av testad alzheimermedicin,https://gp.se/nyheter/sverige/ingen-effekt-av-testad-alzheimermedicin-1.24320536
+2020-02-21,07:33,AB,SMHI varnar för blixthalka,https://live.aftonbladet.se/supernytt/news/5e4f7913586298001174f7ce
+2020-02-21,07:42,AB,Ung man allvarligt skadad efter bråk,https://live.aftonbladet.se/supernytt/news/5e4f7b964d15ab00114bf004
+2020-02-21,07:45,GP,Khamenei har lagt första rösten i Iran,https://gp.se/nyheter/v%C3%A4rlden/khamenei-har-lagt-f%C3%B6rsta-r%C3%B6sten-i-iran-1.24318961
+2020-02-21,07:46,GP,Mycket halt på vägar i Västsverige,https://gp.se/nyheter/v%C3%A4stsverige/flera-olyckor-i-morgontrafiken-mycket-halt-1.24321853
+2020-02-21,07:49,GP,Flera olyckor i morgontrafiken – mycket halt,https://gp.se/nyheter/v%C3%A4stsverige/flera-olyckor-i-morgontrafiken-mycket-halt-1.24321853
+2020-02-21,07:54,AB,Körde av vägen – förd till sjukhus i helikopter,https://live.aftonbladet.se/supernytt/news/5e4f7e88270d0a0011082d5e
+2020-02-21,07:56,GP,Coronaoro pressar Seoulbörsen,https://gp.se/ekonomi/coronaoro-pressar-seoulb%C3%B6rsen-1.24315833
+2020-02-21,07:56,GP,Insatser för IS-återvändare har gett resultat,https://gp.se/nyheter/sverige/insatser-f%C3%B6r-is-%C3%A5terv%C3%A4ndare-har-gett-resultat-1.24322218
+2020-02-21,08:11,GP,Avtal klart om nedtrappning i Afghanistan,https://gp.se/nyheter/v%C3%A4rlden/avtal-klart-om-nedtrappning-i-afghanistan-1.24322805
+2020-02-21,08:11,GP,Nylander slog pappas målrekord,https://gp.se/sport/nylander-slog-pappas-m%C3%A5lrekord-1.24322666
+2020-02-21,08:17,GP,Vita Bergen släpper nytt album i augusti,https://gp.se/kultur/kultur-n%C3%B6je/vita-bergen-sl%C3%A4pper-nytt-album-i-augusti-1.24322857
+2020-02-21,08:26,GP,Dadgostars enda motkandidat säger nej,https://gp.se/nyheter/sverige/dadgostars-enda-motkandidat-s%C3%A4ger-nej-1.24323246
+2020-02-21,08:31,GP,Hällde bensin på sonen – åtalas för mordbrand,https://gp.se/nyheter/sverige/h%C3%A4llde-bensin-p%C3%A5-sonen-%C3%A5talas-f%C3%B6r-mordbrand-1.24323555
+2020-02-21,08:31,GP,"The Joker" ställs mot förre UFC-mästaren,https://gp.se/sport/the-joker-st%C3%A4lls-mot-f%C3%B6rre-ufc-m%C3%A4staren-1.24323369
+2020-02-21,08:40,IDG,Allmännyttiga Familjebostäder ska införa elektroniska i alla sina hus. Lägenhetsdörren öppnas med en mobilapp. Säkerheten ska enligt bolaget inte vara något problem, men experter är tveksamma.,https://computersweden.idg.se/2.2683/1.730441/familjebostader-e-las
+2020-02-21,08:42,AB,Polis jagar beväpnad rånare,https://live.aftonbladet.se/supernytt/news/5e4f89e6adde6e00116bd2e5
+2020-02-21,08:47,GP,Tvärnit för Kinas bilförsäljning,https://gp.se/ekonomi/tv%C3%A4rnit-f%C3%B6r-kinas-bilf%C3%B6rs%C3%A4ljning-1.24323869
+2020-02-21,08:53,GP,Fler bostäder säljs utan annons på Hemnet,https://gp.se/ekonomi/fler-bost%C3%A4der-s%C3%A4ljs-utan-annons-p%C3%A5-hemnet-1.24324171
+2020-02-21,08:54,GP,Oro för virusspridning i kinesiska fängelser,https://gp.se/nyheter/v%C3%A4rlden/oro-f%C3%B6r-virusspridning-i-kinesiska-f%C3%A4ngelser-1.24318482
+2020-02-21,08:57,GP,Oväntat stort lyft för tysk försäkringsjätte,https://gp.se/ekonomi/ov%C3%A4ntat-stort-lyft-f%C3%B6r-tysk-f%C3%B6rs%C3%A4kringsj%C3%A4tte-1.24324506
+2020-02-21,09:01,GP,En varmare stad visar på kärlekens väg,https://gp.se/livsstil/en-varmare-stad-visar-p%C3%A5-k%C3%A4rlekens-v%C3%A4g-1.24217891
+2020-02-21,09:01,GP,MS-sjuka Janet drog i gång kafé för andra i samma sits,https://gp.se/livsstil/ms-sjuka-janet-drog-i-g%C3%A5ng-kaf%C3%A9-f%C3%B6r-andra-i-samma-sits-1.23860894
+2020-02-21,09:01,GP,Vann hästlotteri – nu rider hon i världscupen,https://gp.se/sport/vann-h%C3%A4stlotteri-nu-rider-hon-i-v%C3%A4rldscupen-1.24324600
+2020-02-21,09:06,AB,Strul för banken – går inte att logga in,https://live.aftonbladet.se/supernytt/news/5e4f8f61586298001174f7df
+2020-02-21,09:13,GP,Liseberg ska ta extra betalt för sina konserter,https://gp.se/kultur/kultur/liseberg-ska-ta-extra-betalt-f%C3%B6r-sina-konserter-1.24324882
+2020-02-21,09:14,GP,Här är Gais-talangerna som knackar på dörren till A-laget,https://gp.se/sport/fotboll/h%C3%A4r-%C3%A4r-gais-talangerna-som-knackar-p%C3%A5-d%C3%B6rren-till-a-laget-1.24314904
+2020-02-21,09:14,GP,De får chansen för Sverige i VM-stafetten,https://gp.se/sport/de-f%C3%A5r-chansen-f%C3%B6r-sverige-i-vm-stafetten-1.24324994
+2020-02-21,09:15,AB,Man föll fyra meter från tak – allvarligt skadad,https://live.aftonbladet.se/supernytt/news/5e4f9170adde6e00116bd2ee
+2020-02-21,09:18,GP,Peder Fredricson: "Bra minnen härifrån",https://gp.se/sport/peder-fredricson-vill-ta-sats-mot-os-med-framg%C3%A5ngsrikt-gothenburg-horse-show-1.24296941
+2020-02-21,09:18,GP,Börsen inleder nedåt på bred front,https://gp.se/ekonomi/b%C3%B6rsen-inleder-ned%C3%A5t-p%C3%A5-bred-front-1.24325096
+2020-02-21,09:22,GP,Volvobolagen spelar högt med Coronaviruset,https://gp.se/ekonomi/volvobolagen-spelar-h%C3%B6gt-med-coronaviruset-1.24292837
+2020-02-21,09:24,GP,Kvinna i religiös rörelse pekas ut som superspridare,https://gp.se/nyheter/v%C3%A4rlden/kvinna-pekas-ut-som-superspridare-av-nya-coronaviruset-i-religi%C3%B6s-r%C3%B6relse-1.24325487
+2020-02-21,09:24,GP,Pensionsmyndigheten överklagar Allra-domen,https://gp.se/ekonomi/pensionsmyndigheten-%C3%B6verklagar-allra-domen-1.24325465
+2020-02-21,09:24,IDG,Googles AI-verktyg kommer inte längre kategorisera könstillhörighet i bilder för att undvika fördomsfull och vinklad data.,https://idg.se/2.1085/1.730932/google-ai-kon
+2020-02-21,09:34,AB,Åtal för sprängning på Östermalm skjuts upp,https://live.aftonbladet.se/supernytt/news/5e4f95e9270d0a0011082d70
+2020-02-21,09:41,GP,OS-hjälten petas från VM-stafetten,https://gp.se/sport/os-hj%C3%A4lten-petas-fr%C3%A5n-vm-stafetten-1.24324994
+2020-02-21,09:41,GP,Norska hånet mot Sverige: "Spelar i en lägre division",https://gp.se/sport/norska-h%C3%A5net-mot-sverige-spelar-i-en-l%C3%A4gre-division-1.24325784
+2020-02-21,09:41,GP,30-tal IS-återvändare i Angered,https://gp.se/nyheter/sverige/insatser-f%C3%B6r-is-%C3%A5terv%C3%A4ndare-har-gett-resultat-1.24325918
+2020-02-21,09:53,GP,Man föll fyra meter – allvarligt skadad,https://gp.se/nyheter/sverige/man-f%C3%B6ll-fyra-meter-allvarligt-skadad-1.24326334
+2020-02-21,09:58,GP,Efter alliansens stålbad – Göteborg gör miljardvinst,https://gp.se/nyheter/g%C3%B6teborg/efter-alliansens-st%C3%A5lbad-g%C3%B6teborg-g%C3%B6r-miljardvinst-1.24278019
+2020-02-21,10:04,GP,Kvinnor lyfts fram på filmfestival,https://gp.se/kultur/kultur-n%C3%B6je/kvinnor-lyfts-fram-p%C3%A5-filmfestival-1.24326884
+2020-02-21,10:05,AB,Försäljningen av lössnus rasar,https://live.aftonbladet.se/supernytt/news/5e4f9d3b586298001174f7e5
+2020-02-21,10:10,IDG,Hundratals olika produkter med bluetooth är öppna för attacker på grund av en serie buggar i flera bluetooth low energy-chipp.,https://techworld.idg.se/2.2524/1.730934/bluetooth-medicinsk-utrustning
+2020-02-21,10:10,AB,Trappar upp utredning om död i tvättstuga,https://live.aftonbladet.se/supernytt/news/5e4f9e5d270d0a0011082d75
+2020-02-21,10:10,AB,Cyklist påkörd av bil,https://live.aftonbladet.se/supernytt/news/5e4f9e3e270d0a0011082d73
+2020-02-21,10:15,IDG,Google köper upp Cornerstone, specialist på migreringar från stordatorer till molnet. Är det ett hot mot stordatorn eller går trotjänaren rent av mot en ny vår?,https://computersweden.idg.se/2.2683/1.730931/google-stordator-framtid
+2020-02-21,10:16,AB,Larm om ko i bassäng,https://live.aftonbladet.se/supernytt/news/5e4f9fb3586298001174f7e7
+2020-02-21,10:18,GP,Oppositionsledare dödad i Nicaragua,https://gp.se/nyheter/v%C3%A4rlden/oppositionsledare-d%C3%B6dad-i-nicaragua-1.24327298
+2020-02-21,10:23,AB,Assange söker asyl i Frankrike,https://live.aftonbladet.se/supernytt/news/5e4fa1714d15ab00114bf026
+2020-02-21,10:42,AB,Man allvarligt skadad i husvagnsbrand,https://live.aftonbladet.se/supernytt/news/5e4fa5cd4d15ab00114bf031
+2020-02-21,10:43,GP,Hopp om effektiva alzheimermediciner grusat,https://gp.se/nyheter/sverige/hopp-om-effektiva-alzheimermediciner-grusat-1.24320536
+2020-02-21,10:58,AB,Ko sitter fast i gödeslbrunn,https://live.aftonbladet.se/supernytt/news/5e4f9fb3586298001174f7e7
+2020-02-21,10:59,GP,Hon får större Birgit Nilsson-stipendium,https://gp.se/kultur/kultur-n%C3%B6je/hon-f%C3%A5r-st%C3%B6rre-birgit-nilsson-stipendium-1.24328632
+2020-02-21,10:59,GP,Riksbanken är redo för bakslag,https://gp.se/ekonomi/riksbanken-%C3%A4r-redo-f%C3%B6r-bakslag-1.24328460
+2020-02-21,11:00,AB,Åtta personer har rymt från förvaret i Märsta,https://live.aftonbladet.se/supernytt/news/5e4faa39270d0a0011082d8a
+2020-02-21,11:00,AB,Ko sitter fast i gödselbrunn,https://live.aftonbladet.se/supernytt/news/5e4f9fb3586298001174f7e7
+2020-02-21,11:04,GP,Lisebergs beslut slår mot den unga konsertpubliken,https://gp.se/kultur/kultur/lisebergs-beslut-sl%C3%A5r-mot-den-unga-konsertpubliken-1.24328848
+2020-02-21,11:04,GP,Det här är ledarna oense om kring EU-budgeten,https://gp.se/nyheter/v%C3%A4rlden/det-h%C3%A4r-%C3%A4r-ledarna-oense-om-kring-eu-budgeten-1.24328739
+2020-02-21,11:08,IDG,Det amerikanska försvarsdepartementet har gått ut till sina medarbetare och varnar för att personuppgifter kan ha läckt ut i en dataläcka förra året.,https://techworld.idg.se/2.2524/1.730994/datalacka-amerikanska-forsvarsdepartementet
+2020-02-21,11:15,GP,Flera har rymt från förvaret i Märsta,https://gp.se/nyheter/sverige/flera-har-rymt-fr%C3%A5n-f%C3%B6rvaret-i-m%C3%A4rsta-1.24329328
+2020-02-21,11:15,GP,Sektledaren om virusutbrottet: Djävulens verk,https://gp.se/nyheter/v%C3%A4rlden/sektledaren-om-virusutbrottet-dj%C3%A4vulens-verk-1.24316778
+2020-02-21,11:15,GP,Virusoro slår mot Stockholmsbörsen,https://gp.se/ekonomi/virusoro-sl%C3%A5r-mot-stockholmsb%C3%B6rsen-1.24325096
+2020-02-21,11:15,GP,Gabriel Wikström blir nationell samordnare,https://gp.se/nyheter/sverige/gabriel-wikstr%C3%B6m-blir-nationell-samordnare-1.24329013
+2020-02-21,11:19,GP,"Jag orkar inte ens vara med barnen och leka med dem",https://gp.se/sport/wallberg-akut-till-sjukhus-igen-nu-v%C3%A4ntar-nya-tester-1.24328887
+2020-02-21,11:23,GP,Svenska landslagets krismöte: "Alla andra har lyckats bättre",https://gp.se/sport/svenska-landslagets-krism%C3%B6te-alla-andra-har-lyckats-b%C3%A4ttre-1.24330030
+2020-02-21,11:26,GP,Frida Wallberg akut till sjukhus – igen: "Fruktansvärt jobbigt",https://gp.se/sport/wallberg-akut-till-sjukhus-igen-nu-v%C3%A4ntar-nya-tester-1.24328887
+2020-02-21,11:39,GP,Allradomen överklagas: "Orimligt för sparare",https://gp.se/ekonomi/allradomen-%C3%B6verklagas-orimligt-f%C3%B6r-sparare-1.24330524
+2020-02-21,11:46,AB,Olja har kommit in i reningsverk,https://live.aftonbladet.se/supernytt/news/5e4fb4c3270d0a0011082d9c
+2020-02-21,12:00,GP,Trendbrott: Fler bostäder säljs utan Hemnet,https://gp.se/ekonomi/trendbrott-fler-bost%C3%A4der-s%C3%A4ljs-utan-hemnet-1.24324171
+2020-02-21,12:03,GP,Landslaget höll krismöte efter vallakritik,https://gp.se/sport/landslaget-h%C3%B6ll-krism%C3%B6te-efter-vallakritik-1.24330030
+2020-02-21,12:05,GP,Big Brother-haveriet följer bara mallen,https://gp.se/kultur/kultur/big-brother-haveriet-f%C3%B6ljer-bara-mallen-1.24329610
+2020-02-21,12:09,GP,Företag till krismöte hos regeringen,https://gp.se/ekonomi/f%C3%B6retag-till-krism%C3%B6te-hos-regeringen-1.24331504
+2020-02-21,12:09,GP,GP:s ölexpert testar billigaste ölen på Bolaget,https://gp.se/livsstil/tv%C3%A5-dagar/gp-s-%C3%B6lexpert-testar-systembolagets-billigaste-%C3%B6l-1.24171484
+2020-02-21,12:09,GP,Åtta ekologiska viner från Systembolaget i nytt test,https://gp.se/livsstil/tv%C3%A5-dagar/%C3%A5tta-ekologiska-viner-fr%C3%A5n-systembolaget-i-nytt-test-1.24171693
+2020-02-21,12:14,GP,Landslaget höll krismöte efter vallarkritik,https://gp.se/sport/landslaget-h%C3%B6ll-krism%C3%B6te-efter-vallarkritik-1.24330030
+2020-02-21,12:14,GP,Hårt slag mot den thailändska oppositionen,https://gp.se/nyheter/v%C3%A4rlden/h%C3%A5rt-slag-mot-den-thail%C3%A4ndska-oppositionen-1.24331720
+2020-02-21,12:14,GP,Nyckelspelaren saknades för Blåvitt,https://gp.se/sport/fotboll/calisir-saknades-p%C3%A5-sista-tr%C3%A4ningen-inf%C3%B6r-t%C3%A4vlingspremi%C3%A4ren-1.24331591
+2020-02-21,12:14,GP,Företag till virusmöte hos regeringen,https://gp.se/ekonomi/f%C3%B6retag-till-virusm%C3%B6te-hos-regeringen-1.24331504
+2020-02-21,12:18,AB,USA vill f med talibanerna,https://live.aftonbladet.se/supernytt/news/5e4fbc63270d0a0011082da5
+2020-02-21,12:19,AB,USA vill sluta fred med talibanerna,https://live.aftonbladet.se/supernytt/news/5e4fbc63270d0a0011082da5
+2020-02-21,12:20,IDG,Finska brukskoncernen Ahlstrom-Munksjö tar hjälp av Tietoevry för att digitalisera stora delar av verksamheten.,https://computersweden.idg.se/2.2683/1.730996/tietoevry-ahlstrom-munksjo
+2020-02-21,12:21,GP,Ikea öppnar fyra nya varuhus,https://gp.se/ekonomi/ikea-%C3%B6ppnar-fyra-nya-varuhus-1.24332186
+2020-02-21,12:21,GP,Högerextrema hotnivån "mycket hög" i Tyskland,https://gp.se/nyheter/v%C3%A4rlden/h%C3%B6gerextrema-hotniv%C3%A5n-mycket-h%C3%B6g-i-tyskland-1.24332116
+2020-02-21,12:21,GP,Dukat och klart för Dadgostar – enda kandidaten,https://gp.se/nyheter/sverige/dukat-och-klart-f%C3%B6r-dadgostar-enda-kandidaten-1.24332041
+2020-02-21,12:32,GP,Sävehof värvar dansk stortalang,https://gp.se/sport/handboll/s%C3%A4vehof-v%C3%A4rvar-danska-talangen-laura-jensen-1.24332366
+2020-02-21,12:35,GP,Bättre fart än väntat i eurozonen,https://gp.se/ekonomi/b%C3%A4ttre-fart-%C3%A4n-v%C3%A4ntat-i-eurozonen-1.24332452
+2020-02-21,12:37,AB,Gabriel Wikström ny samordnare för Agenda 2030,https://live.aftonbladet.se/supernytt/news/5e4fc0a74d15ab00114bf05c
+2020-02-21,12:41,GP,Flydde förvar i Märsta med hjälp av lakan,https://gp.se/nyheter/sverige/flydde-f%C3%B6rvar-i-m%C3%A4rsta-med-hj%C3%A4lp-av-lakan-1.24329328
+2020-02-21,12:46,GP,Sembrant förlänger med Juventus,https://gp.se/sport/sembrant-f%C3%B6rl%C3%A4nger-med-juventus-1.24332939
+2020-02-21,13:11,GP,Sverige är med och blockerar EU-budget,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%A4r-med-och-blockerar-eu-budget-1.24320258
+2020-02-21,13:15,GP,Påverkad man till attack mot polis – med golfklubba,https://gp.se/nyheter/v%C3%A4stsverige/p%C3%A5verkad-man-till-attack-mot-polis-p%C3%A5-tj%C3%B6rn-med-golfklubba-1.24333869
+2020-02-21,13:15,GP,Kalla: "Man måste kunna ge feedback",https://gp.se/sport/kalla-man-m%C3%A5ste-kunna-ge-feedback-1.24330030
+2020-02-21,13:26,AB,IS-kvinna erkänner: skulle bomba kyrka,https://live.aftonbladet.se/supernytt/news/5e4fcc56586298001174f81b
+2020-02-21,13:28,GP,Stjärnkrogen som borde kunna ännu bättre,https://gp.se/livsstil/tv%C3%A5-dagar/ute%C3%A4tarna-sk-mat-och-m%C3%A4nniskor-borde-kunna-%C3%A4nnu-b%C3%A4ttre-1.24171396
+2020-02-21,13:31,AB,Kvällsposten får ny chefredaktör,https://live.aftonbladet.se/supernytt/news/5e4fcd6a4d15ab00114bf065
+2020-02-21,13:35,GP,Nattfjäril hotar kinesiska majsodlingar,https://gp.se/ekonomi/nattfj%C3%A4ril-hotar-kinesiska-majsodlingar-1.24334628
+2020-02-21,13:38,GP,Gruppens nya video får appen att krascha,https://gp.se/kultur/kultur-n%C3%B6je/gruppens-nya-video-f%C3%A5r-appen-att-krascha-1.24334718
+2020-02-21,13:51,GP,EU-ledare väntar på nytt budgetbud,https://gp.se/nyheter/v%C3%A4rlden/eu-ledare-v%C3%A4ntar-p%C3%A5-nytt-budgetbud-1.24335173
+2020-02-21,13:52,GP,Influensan slår till mot Melodifestivalen,https://gp.se/kultur/kultur-n%C3%B6je/influensan-sl%C3%A5r-till-mot-melodifestivalen-1.24335275
+2020-02-21,13:58,GP,Oljepriset pressas i ny våg av virusoro,https://gp.se/ekonomi/oljepriset-pressas-i-ny-v%C3%A5g-av-virusoro-1.24335459
+2020-02-21,13:59,AB,IS-kvinna erkänner: Skulle bomba kyrka i London,https://live.aftonbladet.se/supernytt/news/5e4fcc56586298001174f81b
+2020-02-21,14:02,GP,"Det mest meningsfulla jag kan göra",https://gp.se/kultur/kultur/tomas-ledin-luftar-alla-hitsen-under-stor-sommarturn%C3%A9-1.24297647
+2020-02-21,14:02,GP,Tokfloppade i Blåvitt – klar för Öis,https://gp.se/sport/fotboll/abdul-razak-misslyckades-i-bl%C3%A5vitt-klar-f%C3%B6r-%C3%B6is-1.24334295
+2020-02-21,14:03,AB,Polisen: Operation Rimfrost lyckad,https://live.aftonbladet.se/supernytt/news/5e4fd52f270d0a0011082dc4
+2020-02-21,14:08,GP,Tomas Ledin gör sommarturné – "nådens sommar",https://gp.se/kultur/kultur-n%C3%B6je/tomas-ledin-g%C3%B6r-sommarturn%C3%A9-n%C3%A5dens-sommar-1.24336355
+2020-02-21,14:08,AB,Ko räddad ur bassäng,https://live.aftonbladet.se/supernytt/news/5e4fd61eadde6e00116bd335
+2020-02-21,14:09,AB,Ko räddad ur gödselbrunn,https://live.aftonbladet.se/supernytt/news/5e4fd61eadde6e00116bd335
+2020-02-21,14:13,GP,Åtalas för våldtäkt av två barn,https://gp.se/nyheter/sverige/%C3%A5talas-f%C3%B6r-v%C3%A5ldt%C3%A4kt-av-tv%C3%A5-barn-1.24336565
+2020-02-21,14:13,GP,Tomas Ledin luftar alla hitsen under stor sommarturné,https://gp.se/kultur/kultur/tomas-ledin-luftar-alla-hitsen-under-stor-sommarturn%C3%A9-1.24297647
+2020-02-21,14:15,GP,Världsmästare kräver 647 miljoner i skadestånd,https://gp.se/sport/v%C3%A4rldsm%C3%A4stare-kr%C3%A4ver-647-miljoner-i-skadest%C3%A5nd-1.24336739
+2020-02-21,14:19,AB,Polis misstänks för tjänstefel vid mord,https://live.aftonbladet.se/supernytt/news/5e4fd88e4d15ab00114bf07a
+2020-02-21,14:21,GP,Sjukdom och scenkaos i Malmö,https://gp.se/kultur/kultur-n%C3%B6je/sjukdom-och-scenkaos-i-malm%C3%B6-1.24337338
+2020-02-21,14:21,GP,Sverige skrotar utsläppsrätter,https://gp.se/nyheter/sverige/sverige-skrotar-utsl%C3%A4ppsr%C3%A4tter-1.24337286
+2020-02-21,14:27,GP,Knivmord på asylboende – man dömd till vård,https://gp.se/nyheter/sverige/knivmord-p%C3%A5-asylboende-man-d%C3%B6md-till-v%C3%A5rd-1.24337513
+2020-02-21,14:34,GP,Fem tågsträckor stängs när oväder drar in,https://gp.se/nyheter/v%C3%A4stsverige/t%C3%A5gstr%C3%A4ckor-avst%C3%A4ngda-i-helgen-p%C3%A5-grund-av-ov%C3%A4der-i-v%C3%A4stsverige-1.24337721
+2020-02-21,14:38,GP,En försmak på SD:s Sverige,https://gp.se/kultur/kultur/sd-s-f%C3%B6rs%C3%B6k-att-kalla-public-service-cheferna-till-riksdagen-%C3%A4r-historiskt-unikt-1.24334838
+2020-02-21,14:47,GP,Oro för virusets spridning i Iran,https://gp.se/nyheter/v%C3%A4rlden/oro-f%C3%B6r-virusets-spridning-i-iran-1.24338300
+2020-02-21,14:51,GP,Före detta proffsboxaren till sjukhus igen,https://gp.se/sport/f%C3%B6re-detta-proffsboxaren-till-sjukhus-igen-1.24338417
+2020-02-21,14:54,AB,Man i 20-årsåldern hittad död i sin cell,https://live.aftonbladet.se/supernytt/news/5e4fe0d54d15ab00114bf08d
+2020-02-21,14:55,AB,Man i 20-årsåldern omhändertogs för berusning – hittades död i sin cell,https://live.aftonbladet.se/supernytt/news/5e4fe0d54d15ab00114bf08d
+2020-02-21,14:57,AB,Ung man omhändertogs för berusning – hittades död i sin cell,https://live.aftonbladet.se/supernytt/news/5e4fe0d54d15ab00114bf08d
+2020-02-21,14:58,GP,Våldtog pojke i skog – döms till fängelse,https://gp.se/nyheter/sverige/v%C3%A5ldtog-pojke-i-skog-d%C3%B6ms-till-f%C3%A4ngelse-1.24338879
+2020-02-21,14:58,GP,Mordmisstänkt premiärminister undvek domstol,https://gp.se/nyheter/v%C3%A4rlden/mordmisst%C3%A4nkt-premi%C3%A4rminister-undvek-domstol-1.24338767
+2020-02-21,14:58,GP,Ellos öppnar outletbutik,https://gp.se/ekonomi/ellos-%C3%B6ppnar-outletbutik-i-bor%C3%A5s-1.24336872
+2020-02-21,14:58,AB,Man i 20-årsåldern dog i fyllecell,https://live.aftonbladet.se/supernytt/news/5e4fe0d54d15ab00114bf08d
+2020-02-21,15:02,GP,Dadgostar enda kandidaten efterträda Sjöstedt,https://gp.se/nyheter/sverige/dadgostar-enda-kandidaten-eftertr%C3%A4da-sj%C3%B6stedt-1.24332041
+2020-02-21,15:07,IDG,Nästa version av Googles mobila operativsystem ska vara betydligt säkrare än tidigare versioner. Nu återstår några månader med intensivt testande innan Android 11 skickas ut till allmänheten.,https://techworld.idg.se/2.2524/1.731003/android-sakerhet-5g
+2020-02-21,15:09,AB,Våldtog pojke i skogen – får fängelse,https://live.aftonbladet.se/supernytt/news/5e4fe4a2270d0a0011082ddb
+2020-02-21,15:18,GP,SVT om SD-kravet: En gräns har passerats,https://gp.se/kultur/kultur-n%C3%B6je/svt-om-sd-kravet-en-gr%C3%A4ns-har-passerats-1.24339703
+2020-02-21,15:22,AB,Nudlar återkallas – kan innehålla mjölk,https://live.aftonbladet.se/supernytt/news/5e4fe75c4d15ab00114bf09c
+2020-02-21,15:28,GP,Johnny Depp om nya filmen: Blev skräckslagen,https://gp.se/kultur/kultur-n%C3%B6je/johnny-depp-om-nya-filmen-blev-skr%C3%A4ckslagen-1.24340345
+2020-02-21,15:28,IDG,Enligt Andrea Nill Sánchez från AI Now Institute finns det en stor risk för att fördomar och stereotyper byggs in i system som använder sig av artificiell intelligens.,https://techworld.idg.se/2.2524/1.731011/forskare-varnar-ai-polis
+2020-02-21,15:32,AB,Man häktad – höll flera inlåsta i källare,https://live.aftonbladet.se/supernytt/news/5e4fe9ea4d15ab00114bf0a4
+2020-02-21,15:39,GP,Stor lavinfara i fjällen i Sydnorge,https://gp.se/nyheter/v%C3%A4rlden/stor-lavinfara-i-fj%C3%A4llen-i-sydnorge-1.24340642
+2020-02-21,15:40,GP,Museer får stöd vid återlämning av kvarlevor,https://gp.se/kultur/kultur-n%C3%B6je/museer-f%C3%A5r-st%C3%B6d-vid-%C3%A5terl%C3%A4mning-av-kvarlevor-1.24340848
+2020-02-21,15:40,GP,USA bjuder in till 5G-konferens,https://gp.se/ekonomi/usa-bjuder-in-till-5g-konferens-1.24340742
+2020-02-21,15:43,GP,15 småflickor kan ha utsatts av barnskötare,https://gp.se/nyheter/sverige/15-sm%C3%A5flickor-kan-ha-utsatts-av-barnsk%C3%B6tare-1.24341344
+2020-02-21,15:43,GP,Personbästa av Dahlin i GP-dressyren,https://gp.se/sport/personb%C3%A4sta-av-dahlin-i-gp-dressyren-1.24341173
+2020-02-21,15:50,GP,Varifrån kom Göteborgs överskottsmiljard?,https://gp.se/nyheter/gp-podcast/21-februari-varifr%C3%A5n-kom-g%C3%B6teborgs-%C3%B6verskottsmiljard-1.24341756
+2020-02-21,15:50,GP,Greta Thunberg – först skalbagge nu snigel,https://gp.se/nyheter/sverige/greta-thunberg-f%C3%B6rst-skalbagge-nu-snigel-1.24341719
+2020-02-21,15:51,GP,Nu är det vår i Göteborg – vintern hoppade över stan,https://gp.se/nyheter/g%C3%B6teborg/nu-%C3%A4r-det-v%C3%A5r-i-g%C3%B6teborg-vintern-hoppade-%C3%B6ver-stan-1.24340898
+2020-02-21,15:51,GP,Virusoro sänker börsen,https://gp.se/ekonomi/virusoro-s%C3%A4nker-b%C3%B6rsen-1.24325096
+2020-02-21,15:54,GP,Oro i norr för Löfvens "snåla" budgetlinje,https://gp.se/nyheter/sverige/oro-i-norr-f%C3%B6r-l%C3%B6fvens-sn%C3%A5la-budgetlinje-1.24342345
+2020-02-21,15:59,GP,Ridsporten öppnar för utökade dopningstester,https://gp.se/sport/ridsporten-%C3%B6ppnar-f%C3%B6r-ut%C3%B6kade-dopningstester-1.24342863
+2020-02-21,15:59,GP,Topplistorna: Justin Bieber ny etta,https://gp.se/kultur/kultur-n%C3%B6je/topplistorna-justin-bieber-ny-etta-1.24342464
+2020-02-21,16:04,GP,Förre Öis-profilen klar för allsvenskan,https://gp.se/sport/fotboll/stojan-lukic-klar-f%C3%B6r-varbergs-bois-1.24343192
+2020-02-21,16:04,GP,Återkallar nudlar – kan innehålla mjölk,https://gp.se/nyheter/sverige/%C3%A5terkallar-nudlar-kan-inneh%C3%A5lla-mj%C3%B6lk-1.24343290
+2020-02-21,16:12,GP,Iran förlänger vallokalernas öppettider,https://gp.se/nyheter/v%C3%A4rlden/iran-f%C3%B6rl%C3%A4nger-vallokalernas-%C3%B6ppettider-1.24318961
+2020-02-21,16:18,GP,Loreen uppträder i Andra chansen,https://gp.se/kultur/kultur-n%C3%B6je/loreen-upptr%C3%A4der-i-andra-chansen-1.24344361
+2020-02-21,16:18,GP,Klartecken för Öppet spår,https://gp.se/sport/klartecken-f%C3%B6r-%C3%B6ppet-sp%C3%A5r-1.24344147
+2020-02-21,16:20,GP,Malmös pengajubel – rikare än någonsin,https://gp.se/sport/malm%C3%B6s-pengajubel-rikare-%C3%A4n-n%C3%A5gonsin-1.24344467
+2020-02-21,16:29,GP,Planerna på nytt bad välkomnas,https://gp.se/sport/planerna-p%C3%A5-nytt-bad-v%C3%A4lkomnas-vill-bara-att-de-s%C3%A4tter-ig%C3%A5ng-1.24344224
+2020-02-21,16:29,GP,Öis-målvaktens bakslag – drabbad av körtelfeber,https://gp.se/sport/fotboll/david-olsson-drabbad-k%C3%B6rtelfeber-1.24344942
+2020-02-21,16:34,GP,Turkiet: Syriska rebeller på plats i Libyen,https://gp.se/nyheter/v%C3%A4rlden/turkiet-syriska-rebeller-p%C3%A5-plats-i-libyen-1.24345616
+2020-02-21,16:34,GP,Dahlin femma på personbästa i GP-dressyren,https://gp.se/sport/dahlin-femma-p%C3%A5-personb%C3%A4sta-i-gp-dressyren-1.24341173
+2020-02-21,16:39,GP,Göteborgska radiolegendaren gör sitt sista program,https://gp.se/kultur/kultur/radiolegendaren-slutar-i-etern-1.24345828
+2020-02-21,16:46,GP,AIK:s cupdilemma – kan få heja på rivalerna,https://gp.se/sport/aik-s-cupdilemma-kan-f%C3%A5-heja-p%C3%A5-rivalerna-1.24346104
+2020-02-21,16:51,GP,En häktad efter drama på Södermalm,https://gp.se/nyheter/sverige/en-h%C3%A4ktad-efter-drama-p%C3%A5-s%C3%B6dermalm-1.24346576
+2020-02-21,16:51,GP,Hårda vindar stoppar tåg i helgen,https://gp.se/nyheter/sverige/h%C3%A5rda-vindar-stoppar-t%C3%A5g-i-helgen-1.24320731
+2020-02-21,16:56,GP,Sverige enkelt till VM-final i bandy,https://gp.se/sport/sverige-enkelt-till-vm-final-i-bandy-1.24347195
+2020-02-21,16:56,GP,Oppositionen ställer krav för att försvarsförhandla,https://gp.se/nyheter/sverige/oppositionen-st%C3%A4ller-krav-f%C3%B6r-att-f%C3%B6rsvarsf%C3%B6rhandla-1.24347131
+2020-02-21,17:05,GP,Nya försök att lösa EU:s budgetstrid,https://gp.se/nyheter/v%C3%A4rlden/nya-f%C3%B6rs%C3%B6k-att-l%C3%B6sa-eu-s-budgetstrid-1.24335173
+2020-02-21,17:05,GP,Därför får pendlare vänta på tåget vid ”sen vändning”,https://gp.se/nyheter/g%C3%B6teborg/d%C3%A4rf%C3%B6r-f%C3%A5r-du-v%C3%A4nta-p%C3%A5-t%C3%A5get-efter-sen-v%C3%A4ndning-1.24336478
+2020-02-21,17:07,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,17:11,GP,15 klassiska ställen – det ligger på adresserna i dag,https://gp.se/nyheter/g%C3%B6teborg/15-klassiska-st%C3%A4llen-har-st%C3%A4ngt-det-ligger-p%C3%A5-adresserna-i-dag-1.24253757
+2020-02-21,17:30,GP,Man hittad död på Kronobergshäktet,https://gp.se/nyheter/sverige/man-hittad-d%C3%B6d-p%C3%A5-kronobergsh%C3%A4ktet-1.24348205
+2020-02-21,17:30,GP,Debutanten Dahlin: "Det finns mer att hämta",https://gp.se/sport/debutanten-dahlin-det-finns-mer-att-h%C3%A4mta-1.24341173
+2020-02-21,17:31,GP,Marin tonar ned miljötvist i regeringen,https://gp.se/nyheter/v%C3%A4rlden/marin-tonar-ned-milj%C3%B6tvist-i-regeringen-1.24348364
+2020-02-21,17:46,GP,Mordmisstänkt ska psykundersökas,https://gp.se/nyheter/sverige/mordmisst%C3%A4nkt-ska-psykunders%C3%B6kas-1.24349001
+2020-02-21,17:52,GP,Coronaviruset: "Fönstret på väg att stängas",https://gp.se/nyheter/v%C3%A4rlden/coronaviruset-f%C3%B6nstret-p%C3%A5-v%C3%A4g-att-st%C3%A4ngas-1.24318482
+2020-02-21,17:55,GP,Kodöd och brand kopplas till nedfallna träd,https://gp.se/nyheter/sverige/kod%C3%B6d-och-brand-kopplas-till-nedfallna-tr%C3%A4d-1.24349653
+2020-02-21,18:01,GP,The Guardian har fel – Andra långgatan är inte coolt,https://gp.se/kultur/kultur/the-guardian-har-fel-andra-l%C3%A5nggatan-%C3%A4r-inte-coolt-1.24289999
+2020-02-21,18:01,GP,Kvinna föder på McDonalds i Göteborg,https://gp.se/nyheter/g%C3%B6teborg/kvinna-f%C3%B6der-p%C3%A5-mcdonalds-i-g%C3%B6teborg-1.24350078
+2020-02-21,18:01,GP,"Finns en syn att du måste ligga på gränsen",https://gp.se/sport/finns-en-syn-att-du-m%C3%A5ste-ligga-p%C3%A5-gr%C3%A4nsen-1.24350010
+2020-02-21,18:01,GP,Öberg om hälsodebatten: "Frustrerande",https://gp.se/sport/%C3%B6berg-om-h%C3%A4lsodebatten-frustrerande-1.24349948
+2020-02-21,18:02,AB,Kvinna föder barn på McDonald's,https://live.aftonbladet.se/supernytt/news/5e500d04586298001174f86c
+2020-02-21,18:07,GP,Ytterligare förlängning av valet i Iran,https://gp.se/nyheter/v%C3%A4rlden/ytterligare-f%C3%B6rl%C3%A4ngning-av-valet-i-iran-1.24318961
+2020-02-21,18:27,GP,Lingmerth i gammalt gott slag – skuggar täten,https://gp.se/sport/lingmerth-i-gammalt-gott-slag-skuggar-t%C3%A4ten-1.24350795
+2020-02-21,18:27,GP,Kvinna påbörjade förlossning på McDonalds,https://gp.se/nyheter/g%C3%B6teborg/kvinna-p%C3%A5b%C3%B6rjade-f%C3%B6rlossning-p%C3%A5-mcdonalds-1.24350078
+2020-02-21,18:32,AB,Vägen avstängd efter flerbilskrock,https://live.aftonbladet.se/supernytt/news/5e5014004d15ab00114bf0cf
+2020-02-21,18:37,GP,Psykologikurs ställs in efter professorkritik,https://gp.se/nyheter/sverige/psykologikurs-st%C3%A4lls-in-efter-professorkritik-1.24351128
+2020-02-21,18:47,GP,Domarbasen om markeringen efter hoten,https://gp.se/sport/ishockey/domarbasen-om-domarnas-markering-och-klimatet-ute-p%C3%A5-isen-1.24346017
+2020-02-21,18:54,AB,Väg avstängd efter flerbilskrock,https://live.aftonbladet.se/supernytt/news/5e5014004d15ab00114bf0cf
+2020-02-21,18:58,GP,Björn rusade mot jägare – sköts på nära håll,https://gp.se/nyheter/sverige/bj%C3%B6rn-rusade-mot-j%C3%A4gare-sk%C3%B6ts-p%C3%A5-n%C3%A4ra-h%C3%A5ll-1.24351614
+2020-02-21,19:03,GP,Brand i lägenhet i Göteborg,https://gp.se/nyheter/g%C3%B6teborg/brand-i-l%C3%A4genhet-i-g%C3%B6teborg-1.24351706
+2020-02-21,19:05,AB,Lägenhetsbrand i Göteborg,https://live.aftonbladet.se/supernytt/news/5e501bb7adde6e00116bd3a9
+2020-02-21,19:14,GP,Sverige erbjuds oförändrad rabatt i EU,https://gp.se/nyheter/v%C3%A4rlden/sverige-erbjuds-of%C3%B6r%C3%A4ndrad-rabatt-i-eu-1.24320258
+2020-02-21,19:23,GP,Coronaviruset gör att bordtennis-VM är i fara,https://gp.se/sport/coronaviruset-g%C3%B6r-att-bordtennis-vm-%C3%A4r-i-fara-1.24352424
+2020-02-21,19:30,GP,Fullt utvecklad brand i Göteborg – spridningsrisk,https://gp.se/nyheter/g%C3%B6teborg/brand-i-l%C3%A4genhet-i-g%C3%B6teborg-1.24351706
+2020-02-21,19:30,AB,Allmäna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5021b8586298001174f884
+2020-02-21,19:33,GP,Terrorlagstiftning står i vägen för resor med tåg,https://gp.se/kultur/kultur/terrorlagstiftning-st%C3%A5r-i-v%C3%A4gen-f%C3%B6r-resor-med-t%C3%A5g-i-p%C3%A5-sp%C3%A5ret-1.24340981
+2020-02-21,19:38,GP,TT-FLASH: Ingen uppgörelse om EU-budget,https://gp.se/nyheter/v%C3%A4rlden/tt-flash-ingen-uppg%C3%B6relse-om-eu-budget-1.24352892
+2020-02-21,19:38,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5021b8586298001174f884
+2020-02-21,19:43,GP,Lindelöw snuvade kompisen på segern,https://gp.se/sport/lindel%C3%B6w-snuvade-kompisen-p%C3%A5-segern-1.24353265
+2020-02-21,19:45,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,19:48,GP,Eget beröm luktar fortfarande illa,https://gp.se/livsstil/tv%C3%A5-dagar/eget-ber%C3%B6m-luktar-fortfarande-illa-1.24171413
+2020-02-21,19:52,GP,Svensk mardrömsstart på EM-kvalet i basket,https://gp.se/sport/svensk-mardr%C3%B6msstart-p%C3%A5-em-kvalet-i-basket-1.24353578
+2020-02-21,20:00,GP,Budgetfiasko i Bryssel,https://gp.se/nyheter/v%C3%A4rlden/budgetfiasko-i-bryssel-1.24335173
+2020-02-21,20:04,GP,Brand i studentboende – en till sjukhus,https://gp.se/nyheter/sverige/brand-i-studentboende-en-till-sjukhus-1.24354006
+2020-02-21,20:08,GP,Försvaret stoppar anställningar,https://gp.se/nyheter/sverige/f%C3%B6rsvaret-stoppar-anst%C3%A4llningar-1.24354157
+2020-02-21,21:44,NYT,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,21:44,NYT,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,21:44,NYT,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,21:44,NYT,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,21:44,NYT,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,21:44,NYT,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,21:44,NYT,As U.S. Deals With Taliban Rollout, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,21:44,NYT,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,21:44,NYT,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,21:44,NYT,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,21:44,NYT,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,21:44,NYT,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,21:44,NYT,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,21:44,NYT,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,21:44,NYT,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,21:44,NYT,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,21:44,NYT,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,21:44,NYT,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,21:44,NYT,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,21:44,NYT,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,21:44,NYT,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,21:44,NYT,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,21:44,NYT,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,21:44,NYT,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,21:44,NYT,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,21:44,NYT,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,21:44,NYT,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,21:44,NYT,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,21:44,NYT,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,21:44,NYT,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,21:44,NYT,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,21:44,NYT,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,21:44,NYT,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,21:44,NYT,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,21:44,NYT,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,21:44,NYT,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,21:44,NYT,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,21:44,NYT,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,21:44,NYT,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,21:44,NYT,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,21:44,NYT,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,21:44,NYT,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,21:44,NYT,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,21:44,NYT,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,21:44,NYT,As U.S. Deals With Taliban Rollout, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,21:44,NYT,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,21:44,NYT,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,21:44,NYT,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,21:44,NYT,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,21:44,NYT,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,21:44,NYT,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,21:44,NYT,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,21:44,NYT,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,21:44,NYT,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,21:44,NYT,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,21:44,NYT,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,21:44,NYT,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,21:44,NYT,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,21:44,NYT,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,21:44,NYT,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,21:44,NYT,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,21:44,NYT,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,21:44,NYT,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,21:44,NYT,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,21:44,NYT,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,21:44,NYT,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,21:44,NYT,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,21:44,NYT,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,21:44,NYT,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,21:44,NYT,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,21:44,NYT,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,21:44,NYT,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,21:44,NYT,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,21:44,NYT,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,21:44,NYT,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,21:44,NYT,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,21:44,NYT,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,21:44,NYT,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,21:44,NYT,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,21:44,NYT,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,21:44,NYT,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,21:44,NYT,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,21:44,NYT,As U.S. Deals With Taliban Rollout, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,21:44,NYT,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,21:44,NYT,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,21:44,NYT,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,21:44,NYT,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,21:44,NYT,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,21:44,NYT,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,21:44,NYT,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,21:44,NYT,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,21:44,NYT,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,21:44,NYT,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,21:44,NYT,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,21:44,NYT,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,21:44,NYT,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,21:44,NYT,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,21:44,NYT,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,21:44,NYT,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,21:44,NYT,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,21:44,NYT,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,21:44,NYT,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,21:44,NYT,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,21:44,NYT,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,21:44,NYT,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,21:44,NYT,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,21:44,NYT,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,21:44,NYT,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,21:44,NYT,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,21:44,NYT,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,21:44,NYT,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,21:44,NYT,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,21:44,NYT,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,21:44,NYT,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:00,GP,NHL-stjärnan vårdades för alkoholmissbruk,https://gp.se/sport/ishockey/bobby-ryan-v%C3%A5rdades-f%C3%B6r-alkoholmissbruk-1.24358768
+2020-02-21,22:00,GP,Volvoingenjörerna varnar för samgåendet med Geely,https://gp.se/ekonomi/volvoingenj%C3%B6rerna-varnar-kring-samg%C3%A5endet-med-geely-1.24351396
+2020-02-21,22:00,GP,Stora förseningar efter tågtrassel,https://gp.se/nyheter/sverige/stora-f%C3%B6rseningar-efter-t%C3%A5gtrassel-1.24358545
+2020-02-21,22:00,GP,Nytt inomhusvärldsrekord i tresteg,https://gp.se/sport/nytt-inomhusv%C3%A4rldsrekord-i-tresteg-1.24357313
+2020-02-21,22:00,AB,Lägenhetsbrand i Göteborg,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:00,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:00,AB,Förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:00,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:00,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5021b8586298001174f884
+2020-02-21,22:00,NYT,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:00,NYT,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:00,NYT,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:00,NYT,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:00,NYT,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:00,NYT,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:00,NYT,As U.S. Deals With Taliban Rollout, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:00,NYT,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:00,NYT,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:00,NYT,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:00,NYT,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:00,NYT,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:00,NYT,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:00,NYT,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:00,NYT,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:00,NYT,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:00,NYT,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:00,NYT,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:00,NYT,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:00,NYT,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:00,NYT,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:00,NYT,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:00,NYT,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:00,NYT,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:00,NYT,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:00,NYT,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:00,NYT,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:00,NYT,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:00,NYT,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:00,NYT,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:00,NYT,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:00,NYT,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:00,NYT,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:00,NYT,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:00,NYT,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:00,NYT,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:00,NYT,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:00,NYT,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:12,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:12,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:12,GP,NHL-stjärnan vårdades för alkoholmissbruk,https://gp.se/sport/ishockey/bobby-ryan-v%C3%A5rdades-f%C3%B6r-alkoholmissbruk-1.24358768
+2020-02-21,22:12,GP,Volvoingenjörerna varnar för samgåendet med Geely,https://gp.se/ekonomi/volvoingenj%C3%B6rerna-varnar-kring-samg%C3%A5endet-med-geely-1.24351396
+2020-02-21,22:12,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,22:12,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:12,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:12,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:12,AB,Förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:12,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:12,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:12,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:12,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:12,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:12,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:12,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:12,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:12,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:12,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:12,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:12,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:12,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:12,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:12,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:12,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:12,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:12,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:12,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:12,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:12,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:12,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:12,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:12,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:12,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:12,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:12,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:12,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:12,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:12,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:12,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:12,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:12,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:12,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:12,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:12,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:12,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:12,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:12,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:13,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:13,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:13,GP,NHL-stjärnan vårdades för alkoholmissbruk,https://gp.se/sport/ishockey/bobby-ryan-v%C3%A5rdades-f%C3%B6r-alkoholmissbruk-1.24358768
+2020-02-21,22:13,GP,Volvoingenjörerna varnar för samgåendet med Geely,https://gp.se/ekonomi/volvoingenj%C3%B6rerna-varnar-kring-samg%C3%A5endet-med-geely-1.24351396
+2020-02-21,22:13,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,22:13,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:13,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:13,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:13,AB,Förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:13,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:13,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:13,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:13,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:13,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:13,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:13,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:13,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:13,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:13,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:13,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:13,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:13,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:13,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:13,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:13,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:13,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:13,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:13,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:13,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:13,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:13,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:13,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:13,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:13,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:13,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:13,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:13,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:13,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:13,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:13,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:13,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:13,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:13,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:13,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:13,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:13,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:13,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:13,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:15,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:15,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:15,GP,NHL-stjärnan vårdades för alkoholmissbruk,https://gp.se/sport/ishockey/bobby-ryan-v%C3%A5rdades-f%C3%B6r-alkoholmissbruk-1.24358768
+2020-02-21,22:15,GP,Volvoingenjörerna varnar för samgåendet med Geely,https://gp.se/ekonomi/volvoingenj%C3%B6rerna-varnar-kring-samg%C3%A5endet-med-geely-1.24351396
+2020-02-21,22:15,IDG,Google köper upp Cornerstone, specialist på migreringar från stordatorer till molnet. Är det ett hot mot stordatorn eller går trotjänaren rent av mot en ny vår?,https://computersweden.idg.se/2.2683/1.730931/google-stordator-framtid
+2020-02-21,22:15,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:15,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:15,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:15,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:15,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:15,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:15,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:15,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:15,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:15,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:15,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:15,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:15,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:15,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:15,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:15,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:15,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:15,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:15,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:15,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:15,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:15,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:15,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:15,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:15,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:15,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:15,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:15,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:15,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:15,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:15,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:15,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:15,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:15,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:15,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:15,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:15,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:15,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:15,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:15,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:15,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:15,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:15,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:16,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:16,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:16,GP,NHL-stjärnan vårdades för alkoholmissbruk,https://gp.se/sport/ishockey/bobby-ryan-v%C3%A5rdades-f%C3%B6r-alkoholmissbruk-1.24358768
+2020-02-21,22:16,GP,Volvoingenjörerna varnar för samgåendet med Geely,https://gp.se/ekonomi/volvoingenj%C3%B6rerna-varnar-kring-samg%C3%A5endet-med-geely-1.24351396
+2020-02-21,22:16,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,22:16,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:16,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:16,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:16,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:16,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:16,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:16,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:16,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:16,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:16,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:16,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:16,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:16,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:16,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:16,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:16,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:16,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:16,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:16,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:16,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:16,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:16,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:16,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:16,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:16,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:16,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:16,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:16,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:16,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:16,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:16,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:16,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:16,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:16,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:16,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:16,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:16,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:16,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:16,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:16,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:16,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:16,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:16,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:18,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:18,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:18,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:18,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:18,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,22:18,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:18,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:18,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:18,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:18,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:18,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:18,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:18,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:18,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:18,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:18,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:18,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:18,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:18,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:18,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:18,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:18,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:18,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:18,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:18,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:18,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:18,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:18,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:18,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:18,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:18,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:18,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:18,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:18,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:18,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:18,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:18,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:18,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:18,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:18,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:18,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:18,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:18,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:18,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:18,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:18,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:18,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:18,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:19,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:19,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:19,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:19,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:19,IDG,Den akuta bristen på it-kompetens i Sverige gör att polska konsultbolag turas om att öppna svenska kontor. Nu är det dags för Sii att etablera sig här på allvar.,https://computersweden.idg.se/2.2683/1.730874/kompetensbrist-polsk-konsultjatte
+2020-02-21,22:19,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:19,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:19,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:19,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:19,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:19,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:19,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:19,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:19,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:19,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:19,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:19,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:19,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:19,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:19,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:19,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:19,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:19,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:19,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:19,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:19,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:19,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:19,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:19,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:19,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:19,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:19,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:19,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:19,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:19,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:19,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:19,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:19,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:19,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:19,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:19,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:19,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:19,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:19,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:19,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:19,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:19,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:19,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:21,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:21,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:21,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:21,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:21,IDG,Nu har Riksbanken valt en teknisk lösning för den plattform för e-krona som tas fram tillsammans med Accenture i ett pilottest. Och det bygger på blockkedjeteknik.,https://computersweden.idg.se/2.2683/1.730926/blockkedja-riksbanken-e-krona
+2020-02-21,22:21,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:21,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:21,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:21,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:21,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:21,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:21,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:21,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:21,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:21,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:21,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:21,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:21,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:21,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:21,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:21,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:21,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:21,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:21,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:21,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:21,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:21,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:21,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:21,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:21,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:21,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:21,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:21,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:21,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:21,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:21,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:21,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:21,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:21,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:21,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:21,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:21,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:21,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:21,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:21,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:21,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:21,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:21,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:22,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:22,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:22,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:22,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:22,IDG,Nu har Riksbanken valt en teknisk lösning för den plattform för e-krona som tas fram tillsammans med Accenture i ett pilottest. Och det bygger på blockkedjeteknik.,https://computersweden.idg.se/2.2683/1.730926/blockkedja-riksbanken-e-krona
+2020-02-21,22:22,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:22,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:22,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:22,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:22,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:22,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:22,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:22,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:22,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:22,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:22,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:22,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:22,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:22,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:22,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:22,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:22,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:22,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:22,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:22,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:22,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:22,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:22,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:22,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:22,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:22,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:22,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:22,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:22,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:22,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:22,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:22,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:22,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:22,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:22,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:22,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:22,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:22,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:22,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:22,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:22,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:22,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:22,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:23,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:23,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:23,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:23,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:23,IDG,Nu har Riksbanken valt en teknisk lösning för den plattform för e-krona som tas fram tillsammans med Accenture i ett pilottest. Och det bygger på blockkedjeteknik.,https://computersweden.idg.se/2.2683/1.730926/blockkedja-riksbanken-e-krona
+2020-02-21,22:23,AB,Allmänna platser stängs i 10 italienska städer av coronarädsla,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:23,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:23,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:23,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:23,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e5024f9270d0a0011082e10
+2020-02-21,22:23,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:23,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:23,NYT-World,German Mayors Find Themselves on Front Lines of the ‘Politics of Hate’,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:23,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:23,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:23,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:23,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:23,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:23,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:23,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:23,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:23,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:23,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:23,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:23,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:23,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:23,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:23,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:23,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:23,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:23,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:23,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:23,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:23,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:23,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:23,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:23,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:23,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:23,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:23,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:23,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:23,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:23,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:23,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:23,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:23,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:23,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:23,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:26,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:26,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:26,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:26,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:26,IDG,Nu släpper Lenovo sin kanske flashigaste modell någonsin av den klassiska företagsdatorn Thinkpad: X1 Fold med vikbar skärm. CS träffade Lenovos pc-nestor Kevin Beck i samband med den svenska presentationen.,https://computersweden.idg.se/2.2683/1.730607/lenovo-thinkpad-x1-fold
+2020-02-21,22:26,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:26,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:26,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:26,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:26,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:26,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:26,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:26,NYT-World,‘Politics of Hate’ Takes a Toll in Germany, Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:26,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:26,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:26,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:26,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:26,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:26,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:26,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:26,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:26,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:26,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:26,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:26,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:26,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:26,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:26,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:26,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:26,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:26,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:26,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:26,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:26,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:26,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:26,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:26,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:26,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:26,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:26,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:26,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:26,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:26,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:26,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:26,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:26,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:26,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:26,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:29,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:29,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:29,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:29,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:29,IDG,Nu har Riksbanken valt en teknisk lösning för den plattform för e-krona som tas fram tillsammans med Accenture i ett pilottest. Och det bygger på blockkedjeteknik.,https://computersweden.idg.se/2.2683/1.730926/blockkedja-riksbanken-e-krona
+2020-02-21,22:29,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:29,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:29,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:29,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:29,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:29,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:29,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:29,NYT-World,‘Politics of Hate’ Takes a Toll in Germany, Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:29,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:29,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:29,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:29,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:29,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:29,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:29,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:29,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:29,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:29,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:29,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:29,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:29,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:29,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:29,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:29,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:29,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:29,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:29,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:29,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:29,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:29,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:29,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:29,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:29,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:29,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:29,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:29,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:29,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:29,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:29,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:29,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:29,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:29,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:29,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:29,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:29,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:29,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:29,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:29,IDG,Nu släpper Lenovo sin kanske flashigaste modell någonsin av den klassiska företagsdatorn Thinkpad: X1 Fold med vikbar skärm. CS träffade Lenovos pc-nestor Kevin Beck i samband med den svenska presentationen.,https://computersweden.idg.se/2.2683/1.730607/lenovo-thinkpad-x1-fold
+2020-02-21,22:29,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:29,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:29,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:29,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:29,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:29,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:29,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:29,NYT-World,‘Politics of Hate’ Takes a Toll in Germany, Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:29,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:29,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:29,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:29,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:29,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:29,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:29,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:29,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:29,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:29,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:29,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:29,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:29,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:29,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:29,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:29,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:29,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:29,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:29,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:29,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:29,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:29,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:29,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:29,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:29,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:29,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:29,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:29,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:29,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:29,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:29,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:29,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:29,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:29,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:29,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:30,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:30,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:30,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:30,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:30,IDG,Nu släpper Lenovo sin kanske flashigaste modell någonsin av den klassiska företagsdatorn Thinkpad: X1 Fold med vikbar skärm. CS träffade Lenovos pc-nestor Kevin Beck i samband med den svenska presentationen.,https://computersweden.idg.se/2.2683/1.730607/lenovo-thinkpad-x1-fold
+2020-02-21,22:30,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:30,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:30,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:30,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:30,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:30,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:30,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:30,NYT-World,‘Politics of Hate’ Takes a Toll in Germany, Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:30,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:30,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:30,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:30,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:30,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:30,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:30,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:30,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:30,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:30,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:30,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:30,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:30,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:30,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:30,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:30,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:30,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:30,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:30,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:30,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:30,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:30,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:30,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:30,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:30,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:30,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:30,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:30,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:30,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:30,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:30,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:30,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:30,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:30,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:30,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:30,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:30,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:30,GP,"Mardröm" i Syrien: Samtal hålls om nya samtal,https://gp.se/nyheter/v%C3%A4rlden/mardr%C3%B6m-i-syrien-samtal-h%C3%A5lls-om-nya-samtal-1.24358044
+2020-02-21,22:30,GP,Sverige öronmärker 40 miljoner till Idlib,https://gp.se/nyheter/v%C3%A4rlden/sverige-%C3%B6ronm%C3%A4rker-40-miljoner-till-idlib-1.24358967
+2020-02-21,22:30,IDG,Nu släpper Lenovo sin kanske flashigaste modell någonsin av den klassiska företagsdatorn Thinkpad: X1 Fold med vikbar skärm. CS träffade Lenovos pc-nestor Kevin Beck i samband med den svenska presentationen.,https://computersweden.idg.se/2.2683/1.730607/lenovo-thinkpad-x1-fold
+2020-02-21,22:30,AB,Ingen uppgörelse om EU-budgeten,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:30,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:30,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:30,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:30,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e503b09270d0a0011082e27
+2020-02-21,22:30,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:30,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:30,NYT-World,‘Politics of Hate’ Takes a Toll in Germany, Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:30,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:30,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:30,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:30,NYT-World,As U.S. Deal With Taliban Rolls Out, Can the Afghan Side Stay Together?,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:30,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:30,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:30,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:30,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:30,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:30,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:30,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:30,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:30,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:30,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:30,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:30,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:30,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:30,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:30,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:30,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:30,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:30,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:30,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:30,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:30,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:30,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:30,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:30,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:30,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:30,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:30,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:30,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:30,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:30,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:30,NYT-World,Jean Daniel, Leading French Journalist and Humanist, Dies at 99,https://www.nytimes.com/2020/02/20/business/media/jean-daniel-dead.html
+2020-02-21,22:35,NYT-World,Countdown Begins to Possible End of U.S. War in Afghanistan,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:40,GP,Wells Fargo betalar miljarder i uppgörelse,https://gp.se/ekonomi/wells-fargo-betalar-miljarder-i-uppg%C3%B6relse-1.24360196
+2020-02-21,22:40,AB,Uppgift: Ryssland stöttar Bernie Sanders i presidentvalet,https://live.aftonbladet.se/supernytt/news/5e504e3f270d0a0011082e46
+2020-02-21,22:40,NYT-World,‘Politics of Hate’ Takes a Toll in Germany Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:46,IDG,Nästa version av Googles mobila operativsystem ska vara betydligt säkrare än tidigare versioner. Nu återstår några månader med intensivt testande innan Android 11 skickas ut till allmänheten.,https://techworld.idg.se/2.2524/1.731003/android-sakerhet-5g
+2020-02-21,22:57,GP,Inget mer Sussex Royal för Harry och Megan,https://gp.se/nyheter/v%C3%A4rlden/inget-mer-sussex-royal-f%C3%B6r-harry-och-megan-1.24360487
+2020-02-21,22:57,GP,Wells Fargo betalar miljarder i uppgörelse,https://gp.se/ekonomi/wells-fargo-betalar-miljarder-i-uppg%C3%B6relse-1.24360196
+2020-02-21,22:57,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:57,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:57,IDG,Nästa version av Googles mobila operativsystem ska vara betydligt säkrare än tidigare versioner. Nu återstår några månader med intensivt testande innan Android 11 skickas ut till allmänheten.,https://techworld.idg.se/2.2524/1.731003/android-sakerhet-5g
+2020-02-21,22:57,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e504e3f270d0a0011082e46
+2020-02-21,22:57,AB,Uppgift: Ryssland stöttar Bernie Sanders i presidentvalet,https://live.aftonbladet.se/supernytt/news/5e504e3f270d0a0011082e46
+2020-02-21,22:57,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:57,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:57,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:57,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:57,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:57,NYT-World,‘Politics of Hate’ Takes a Toll in Germany Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:57,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:57,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:57,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:57,NYT-World,Countdown Begins to Possible End of U.S. War in Afghanistan,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:57,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:57,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:57,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:57,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:57,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:57,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:57,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:57,NYT-World,Harry and Meghan Give Up SussexRoyal Name,https://www.nytimes.com/2020/02/21/world/europe/harry-meghan-sussexroyal.html
+2020-02-21,22:57,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:57,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:57,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:57,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:57,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:57,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:57,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:57,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:57,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:57,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:57,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:57,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:57,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:57,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:57,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:57,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:57,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:57,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:57,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:57,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:57,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:57,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:57,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html
+2020-02-21,22:58,GP,Inget mer Sussex Royal för Harry och Megan,https://gp.se/nyheter/v%C3%A4rlden/inget-mer-sussex-royal-f%C3%B6r-harry-och-megan-1.24360487
+2020-02-21,22:58,GP,Wells Fargo betalar miljarder i uppgörelse,https://gp.se/ekonomi/wells-fargo-betalar-miljarder-i-uppg%C3%B6relse-1.24360196
+2020-02-21,22:58,GP,Wall Street avslutade veckan i moll,https://gp.se/ekonomi/wall-street-avslutade-veckan-i-moll-1.24359375
+2020-02-21,22:58,GP,Snuvigt och försiktigt under första genrepet,https://gp.se/kultur/kultur-n%C3%B6je/snuvigt-och-f%C3%B6rsiktigt-under-f%C3%B6rsta-genrepet-1.24359322
+2020-02-21,22:58,IDG,Nästa version av Googles mobila operativsystem ska vara betydligt säkrare än tidigare versioner. Nu återstår några månader med intensivt testande innan Android 11 skickas ut till allmänheten.,https://techworld.idg.se/2.2524/1.731003/android-sakerhet-5g
+2020-02-21,22:59,AB,Stora förseningar efter tågstopp,https://live.aftonbladet.se/supernytt/news/5e504e3f270d0a0011082e46
+2020-02-21,22:59,AB,Uppgift: Ryssland stöttar Bernie Sanders i presidentvalet,https://live.aftonbladet.se/supernytt/news/5e504e3f270d0a0011082e46
+2020-02-21,22:59,AB,Bloomberg erbjuder sig riva tystnadsavtal,https://live.aftonbladet.se/supernytt/news/5e504a65adde6e00116bd3d4
+2020-02-21,22:59,AB,En stickskadad under rånförsök,https://live.aftonbladet.se/supernytt/news/5e5044f2adde6e00116bd3ce
+2020-02-21,22:59,AB,Man knivstucken i bostad,https://live.aftonbladet.se/supernytt/news/5e5043a0adde6e00116bd3cc
+2020-02-21,22:59,NYT-World,Coronavirus Live Updates: Fears of Global Spread as Cases Accelerate in Iran and South Korea,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus.html
+2020-02-21,22:59,NYT-World,‘Like an Umbrella Had Covered the Sky’: Locust Swarms Despoil Kenya,https://www.nytimes.com/2020/02/21/world/africa/locusts-kenya-east-africa.html
+2020-02-21,22:59,NYT-World,‘Politics of Hate’ Takes a Toll in Germany Well Beyond Immigrants,https://www.nytimes.com/2020/02/21/world/europe/germany-mayors-far-right.html
+2020-02-21,22:59,NYT-World,India Set to Stage an Epic Show, With Trump as the Star,https://www.nytimes.com/2020/02/21/world/asia/trump-india-modi.html
+2020-02-21,22:59,NYT-World,A Kenyan Painter Casts a Critical Eye on China’s Role in Africa,https://www.nytimes.com/2020/02/21/world/africa/michael-soi-kenya-china.html
+2020-02-21,22:59,NYT-World,An Egyptian’s Arrest Rekindles an Italian Trauma,https://www.nytimes.com/2020/02/21/world/middleeast/egypt-student-italy-cairo.html
+2020-02-21,22:59,NYT-World,Countdown Begins to Possible End of U.S. War in Afghanistan,https://www.nytimes.com/2020/02/21/world/asia/afghanistan-cease-fire-peace-talks.html
+2020-02-21,22:59,NYT-World,More Than 500 Coronavirus Cases Confirmed in China’s Prisons,https://www.nytimes.com/2020/02/21/world/asia/china-coronavirus-iran.html
+2020-02-21,22:59,NYT-World,Shadowy Church Is at Center of Coronavirus Outbreak in South Korea,https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html
+2020-02-21,22:59,NYT-World,‘No More Hugging, No More Kissing.’ At Home in Hong Kong With 2 Frontline Doctors.,https://www.nytimes.com/2020/02/20/world/asia/coronavirus-hong-kong-doctor-SARS.html
+2020-02-21,22:59,NYT-World,Far-Right Terrorism Is No. 1 Threat, Germany Is Told After Attack,https://www.nytimes.com/2020/02/21/world/europe/germany-shooting-terrorism.html
+2020-02-21,22:59,NYT-World,Iran Remains on Antiterrorism Blacklist, Continuing Sanctions,https://www.nytimes.com/2020/02/21/world/asia/iran-blacklist-pakistan-terrorism.html
+2020-02-21,22:59,NYT-World,Thailand Court Disbands Popular Opposition Party,https://www.nytimes.com/2020/02/21/world/asia/future-forward-party-thailand.html
+2020-02-21,22:59,NYT-World,Notre-Dame’s Crypt and Square May Reopen in Spring,https://www.nytimes.com/2020/02/21/world/europe/notre-dame-reopen.html
+2020-02-21,22:59,NYT-World,Harry and Meghan Give Up SussexRoyal Name,https://www.nytimes.com/2020/02/21/world/europe/harry-meghan-sussexroyal.html
+2020-02-21,22:59,NYT-World,Russia, Nevada, Afghanistan: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-nevada-afghanistan.html
+2020-02-21,22:59,NYT-World,News Quiz: Presidential Pardons, Michael Bloomberg, Coronavirus,https://www.nytimes.com/interactive/2020/02/21/briefing/presidential-pardons-michael-bloomberg-coronavirus-news-quiz.html
+2020-02-21,22:59,NYT-World,Russia, Germany, Coronavirus: Your Friday Briefing,https://www.nytimes.com/2020/02/21/briefing/russia-germany-coronavirus.html
+2020-02-21,22:59,NYT-World,The Long, Slow Death of the Australian Auto Industry,https://www.nytimes.com/2020/02/20/world/australia/holden-australian-automotive-cars.html
+2020-02-21,22:59,NYT-World,Iran’s Stacked Election Is Expected to Produce a Hard-Line Parliament,https://www.nytimes.com/2020/02/20/world/middleeast/iran-2020-elections.html
+2020-02-21,22:59,NYT-World,Lesotho’s Leader Misses Court Date to Be Charged in Killing of Estranged Wife,https://www.nytimes.com/2020/02/20/world/africa/lesotho-thabane.html
+2020-02-21,22:59,NYT-World,South Sudan’s Feuding Leaders Announce Unity Deal, Amid War Crimes Report,https://www.nytimes.com/2020/02/20/world/africa/south-sudan-peace-deal.html
+2020-02-21,22:59,NYT-World,Your Friday Briefing,https://www.nytimes.com/2020/02/20/briefing/coronavirus-japan-diamond-princess-amazon.html
+2020-02-21,22:59,NYT-World,Why the Coronavirus Seems to Hit Men Harder Than Women,https://www.nytimes.com/2020/02/20/health/coronavirus-men-women.html
+2020-02-21,22:59,NYT-World,Shipwreck Yields Artifacts of Missing Seafarers in Canada’s Arctic,https://www.nytimes.com/2020/02/20/world/canada/hms-erebus-terror-artifacts.html
+2020-02-21,22:59,NYT-World,Netanyahu Announces New Homes in East Jerusalem, Days Before Election,https://www.nytimes.com/2020/02/20/world/middleeast/netanyahu-israel-jerusalem.html
+2020-02-21,22:59,NYT-World,Women Will Be Hit Hard by U.K.’s New Immigration Rules, Experts Warn,https://www.nytimes.com/2020/02/20/world/europe/uk-immigration-women.html
+2020-02-21,22:59,NYT-World,Enormous Pileup Near Montreal Injures Dozens and Kills Two,https://www.nytimes.com/2020/02/20/world/canada/montreal-car-pile-up.html
+2020-02-21,22:59,NYT-World,Suspect Arrested in Stabbing at London Mosque,https://www.nytimes.com/2020/02/20/world/europe/london-mosque-attack-stabbing.html
+2020-02-21,22:59,NYT-World,Answers to Travelers’ Questions About the Coronavirus,https://www.nytimes.com/2020/02/20/travel/coronavirus-advisory.html
+2020-02-21,22:59,NYT-World,U.S. and Allies Blame Russia for Cyberattack on Republic of Georgia,https://www.nytimes.com/2020/02/20/world/europe/georgia-cyberattack-russia.html
+2020-02-21,22:59,NYT-World,In a City Under Lockdown, Hope Arrives by Motorbike,https://www.nytimes.com/2020/02/20/business/china-coronavirus-wuhan-delivery.html
+2020-02-21,22:59,NYT-World,As China Fights the Coronavirus, Some Say It Has Gone Too Far,https://www.nytimes.com/2020/02/20/business/economy/china-economy-quarantine.html
+2020-02-21,22:59,NYT-World,2 Dead After Sydney to Melbourne Train Derails in Australia,https://www.nytimes.com/2020/02/20/world/australia/train-crash-dead.html
+2020-02-21,22:59,NYT-World,What a Party in Japan May Tell Us About the Coronavirus’s Spread,https://www.nytimes.com/2020/02/20/world/asia/japan-coronavirus-clusters.html
+2020-02-21,22:59,NYT-World,Democratic Party, Germany, Victoria’s Secret: Your Thursday Briefing,https://www.nytimes.com/2020/02/20/briefing/democratic-party-germany-victorias-secret.html
+2020-02-21,22:59,NYT-World,Clicking Buy on Amazon? It’s Trying to Prevent a Coronavirus Caveat,https://www.nytimes.com/2020/02/20/business/amazon-coronavirus-supplies.html
+2020-02-21,22:59,NYT-World,36 Hours in Basel,https://www.nytimes.com/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html

@@ -2,4 +2,5 @@ newslog
 venv
 webScraper copy.py
 .vscode
+api-keys.yaml
 __pycache__

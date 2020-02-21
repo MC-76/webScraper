@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import json
+import yaml
 
 
 class MyNews(object):
@@ -16,6 +18,12 @@ def checkIfExists(title, newsFlow):
         if item.title in title:
             return True
     return False
+
+def read_API_key(input_key):
+    with open(r'api-keys.yaml') as file:
+        api_keys = yaml.load(file, Loader=yaml.FullLoader)
+
+    return api_keys[input_key]
 
 def showOnlyHelp():
     print('WebSraper 1.0')
@@ -55,6 +63,7 @@ def getPageInfoIDG(inputURL,inputClass,inputLabel,inputTitle):
 
     page = requests.get(inputURL)
     soup = BeautifulSoup(page.text, 'html.parser')
+       
 
     for headlines in soup.find_all(class_='mostPopularList'):
         for label in headlines.find_all(class_=inputLabel):
@@ -104,3 +113,26 @@ def getPageInfoAB(inputURL,inputClass,inputLabel,inputTitle):
     
     return newsCollection
         
+def getPageInfoTimesNyTimes(inputURL,inputKEY,input_cat):
+    ''' Get latest news from:
+    nyTimes API
+    The Top Stories API returns an array of articles currently on the specified section (arts, business, ...)
+    '''
+    newsCollection = []
+    source = input_cat
+    title = ''
+    url = ''
+
+    page = requests.get(inputURL+inputKEY)
+    page.encoding = 'utf-8'
+    
+    myJson = json.loads(page.content)
+
+    for article in myJson['results']: 
+        title = article['title']
+        url = article['url']
+        label = datetime.now().strftime('%H:%M')
+        
+        newsCollection.append(MyNews(label,title,url,source))
+    
+    return newsCollection

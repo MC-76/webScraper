@@ -311,3 +311,59 @@
 2020-02-04,21:21,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
 2020-02-04,21:21,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
 2020-02-04,21:21,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:22,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:22,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:22,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:22,GP,Lesotholedares fru anklagas för mord,https://gp.se/nyheter/v%C3%A4rlden/lesotholedares-fru-anklagas-f%C3%B6r-mord-1.23532491
+2020-02-04,21:22,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:22,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:22,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:22,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:22,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:22,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:23,GP,Skicka CHL på en kurs hos mästaren Frölunda,https://gp.se/sport/skicka-chl-p%C3%A5-en-kurs-hos-m%C3%A4staren-fr%C3%B6lunda-1.23533195
+2020-02-04,21:23,GP,Fastigheter utrymdes efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fastigheter-utrymdes-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,21:23,GP,Man ihjälskjuten i Landskrona,https://gp.se/nyheter/sverige/man-ihj%C3%A4lskjuten-i-landskrona-1.23528782
+2020-02-04,21:23,GP,Fejkade strömningar ett gissel för Spotify,https://gp.se/ekonomi/fejkade-str%C3%B6mningar-ett-gissel-f%C3%B6r-spotify-1.23532719
+2020-02-04,21:23,IDG,Köp med bitcoin i onlinebutiker ökade kraftigt förra året visar statistik från två aktörer inom kryptobetalningar. Volymen är dock fortfarande försvinnande liten jämfört med kortbetalningar.,https://idg.se/2.1085/1.730119/bitcoin-okar-600-procent
+2020-02-04,21:23,AB,Äldre man död i frontalkrock,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:23,AB,Misstänkt föremål och narkotika hittat i bostad,https://live.aftonbladet.se/supernytt/news/5e39c566a2051a001834de96
+2020-02-04,21:23,AB,Man skjuten till döds i Landskrona,https://live.aftonbladet.se/supernytt/news/5e39ae9fb82a3e001889bdd6
+2020-02-04,21:23,AB,Nya gripanden efter Landvetterdådet,https://live.aftonbladet.se/supernytt/news/5e39a3c0b82a3e001889bdd1
+2020-02-04,21:23,AB,Vietnam rapporterar fall av fågelsjuka,https://live.aftonbladet.se/supernytt/news/5e39a39da2051a001834de85
+2020-02-04,21:24,GP,Jan Johansen tvekade inför att ersätta Flinck,https://gp.se/kultur/kultur-n%C3%B6je/jan-johansen-tvekade-inf%C3%B6r-att-ers%C3%A4tta-flinck-1.23530340
+2020-02-04,21:29,IDG,Kinesiska mobiljätten Xiaomi fortsätter satsa stort på Sverige. Nu ska bolagets butikskoncept Mi Store slå upp portarna i Mall of Scandinavia.,https://computersweden.idg.se/2.2683/1.730121/xiaomi-flaggskeppsbutik
+2020-02-04,21:31,GP,Frölunda gjorde det igen – vann CHL-titeln,https://gp.se/sport/fr%C3%B6lunda-gjorde-det-igen-vann-chl-titeln-1.23533868
+2020-02-04,21:31,GP,Telia tar in fem miljarder på grön obligation,https://gp.se/ekonomi/telia-tar-in-fem-miljarder-p%C3%A5-gr%C3%B6n-obligation-1.23533768
+2020-02-04,21:32,IDG,Virusutbrottet i Kina följs intensivt i hela världen. Och nu har forskare vid amerikanska Johns Hopkinsuniversitetet lagt ut en karta på nätet där den geografiska spridningen kan följas.,https://computersweden.idg.se/2.2683/1.729772/coronaviruset-spridning
+2020-02-04,21:34,GP,Ulla Andersson vill inte bli partiledare för V,https://gp.se/nyheter/sverige/ulla-andersson-vill-inte-bli-partiledare-f%C3%B6r-v-1.23531212
+2020-02-04,21:34,GP,Osämjan frodas efter Iowas appkaos,https://gp.se/nyheter/v%C3%A4rlden/os%C3%A4mjan-frodas-efter-iowas-appkaos-1.23494941
+2020-02-04,21:39,GP,Fansen firade CHL-guldet på Valand – GP sände direkt,https://gp.se/sport/ishockey/fansen-firade-chl-guldet-p%C3%A5-valand-gp-s%C3%A4nde-direkt-1.23534472
+2020-02-04,21:40,GP,Kungsbacka inför tiggeriförbud,https://gp.se/nyheter/kungsbacka-kommun-inf%C3%B6r-tiggerif%C3%B6rbud-1.23534533
+2020-02-04,21:42,GP,Internt bråk i Hyresgästföreningen,https://gp.se/nyheter/sverige/internt-br%C3%A5k-i-hyresg%C3%A4stf%C3%B6reningen-1.23520836
+2020-02-04,21:44,GP,Duplantis galna årsdebut: över sex meter,https://gp.se/sport/duplantis-galna-%C3%A5rsdebut-%C3%B6ver-sex-meter-1.23534806
+2020-02-04,21:44,AB,Tiggeriförbud i Kungsbacka,https://live.aftonbladet.se/supernytt/news/5e39d773154b5a001819fcb3
+2020-02-04,21:47,GP,Frölunda CHL-mästare – igen,https://gp.se/sport/fr%C3%B6lunda-chl-m%C3%A4stare-igen-1.23533868
+2020-02-04,21:50,GP,Unga kvinnor anklagas för våldtäkt av pojke,https://gp.se/nyheter/v%C3%A4rlden/unga-kvinnor-anklagas-f%C3%B6r-v%C3%A5ldt%C3%A4kt-av-pojke-1.23535168
+2020-02-04,21:55,AB,Kvinnor anklagas för våldtäkt av pojke,https://live.aftonbladet.se/supernytt/news/5e39d9eba2051a001834dea1
+2020-02-04,22:01,GP,Posthotellet bygger ut – med hjälp av jättekran,https://gp.se/nyheter/40-nya-hotellrum-byggs-p%C3%A5-clarion-hotel-post-1.23524216
+2020-02-04,22:01,GP,Drömstart för nygamle tränaren,https://gp.se/sport/handboll/dr%C3%B6mstart-f%C3%B6r-nygamle-tr%C3%A4naren-1.23535650
+2020-02-04,22:10,GP,De spelar huvudrollerna i Östlunds nya film,https://gp.se/kultur/kultur-n%C3%B6je/de-spelar-huvudrollerna-i-%C3%B6stlunds-nya-film-1.23536184
+2020-02-04,22:14,IDG,När Googles moderbolag Alphabet äntligen särredovisar resultatet för Youtube så var siffrorna en besvikelse. Även Google Cloud går sämre än väntat.,https://computersweden.idg.se/2.2683/1.730122/besvikelse-google-youtube
+2020-02-04,22:15,GP,Messi kritiserar Barcelonas klubbledning,https://gp.se/sport/messi-kritiserar-barcelonas-klubbledning-1.23536397
+2020-02-04,22:15,GP,Rakhshani fick följa finalen från sidan – igen,https://gp.se/sport/ishockey/rakhshani-fick-f%C3%B6lja-finalen-fr%C3%A5n-sidan-igen-mycket-b%C3%A4ttre-%C3%A4n-f%C3%B6rra-%C3%A5ret-1.23536084
+2020-02-04,22:20,GP,"Har höjt sig – men de hade flyt i dag",https://gp.se/sport/handboll/deppigt-f%C3%B6r-nasser-i-%C3%A5terkomsten-1.23536415
+2020-02-04,22:20,GP,USA-börser klättrar på minskad virusoro,https://gp.se/ekonomi/usa-b%C3%B6rser-kl%C3%A4ttrar-p%C3%A5-minskad-virusoro-1.23536498
+2020-02-04,22:20,IDG,Den amerikanska militären satsar miljontals dollar på ett nytt system som ska kunna fånga misstänkta drönare innan de utfört en attack.,https://techworld.idg.se/2.2524/1.730143/pentagon-dronare
+2020-02-04,22:25,IDG,Israel hör till toppnationerna i världen på cybersäkerhet, men orsakerna är fler än bara det geopolitiska läget och de ständiga attackerna. I Israel blomstrar it-säkerhetsindustrin, och försvarsmakten är aldrig långt borta.,https://techworld.idg.se/2.2524/1.729888/it-sakerhet-israel
+2020-02-04,22:33,GP,Fyra anhållna efter misstänkt bombfynd,https://gp.se/nyheter/sverige/fyra-anh%C3%A5llna-efter-misst%C3%A4nkt-bombfynd-1.23521975
+2020-02-04,22:35,GP,Duplantis nära världsrekord: "Var coolt",https://gp.se/sport/duplantis-n%C3%A4ra-v%C3%A4rldsrekord-var-coolt-1.23534806
+2020-02-04,22:40,GP,Duon vände hem till Frölunda – för att vinna guld: "Otroligt",https://gp.se/sport/ishockey/sundstr%C3%B6m-och-lasu-v%C3%A4nde-hem-f%C3%B6r-att-vinna-guld-fick-fira-direkt-helt-otroligt-1.23536610
+2020-02-04,23:12,IDG,En variant av programmeringsgränssnittet Vulkan är på väg till minidatorn.,https://techworld.idg.se/2.2524/1.730102/battre-grafik-raspberry-pi-4
+2020-02-04,23:21,GP,Begåvat och bångstyrigt med Angel Olsen,https://gp.se/kultur/musik/recension-angel-olsen-pustervik-1.23537110
+2020-02-04,23:21,GP,En person misshandlad vid Stenpiren,https://gp.se/nyheter/g%C3%B6teborg/en-person-misshandlad-vid-stenpiren-1.23537128
+2020-02-04,23:22,IDG,Innan filerna på infekterade datorer krypteras försöker Ekans aktivt stänga ner processer som används på fabriker, kraftverk, raffinaderier och sjukhus.,https://techworld.idg.se/2.2524/1.730140/gisslanprogrammet-ekans-infrastruktur
+2020-02-04,23:24,GP,Disney rapporterade bättre än väntat,https://gp.se/ekonomi/disney-rapporterade-b%C3%A4ttre-%C3%A4n-v%C3%A4ntat-1.23537170
+2020-02-04,23:32,AB,Lastbil körde av vägen och välte,https://live.aftonbladet.se/supernytt/news/5e39f0dfa2051a001834deaf
+2020-02-04,23:49,GP,U23-laget säkrade Liverpools avancemang,https://gp.se/sport/u23-laget-s%C3%A4krade-liverpools-avancemang-1.23537283
+2020-02-04,23:55,GP,Buttigieg leder – men många röster återstår,https://gp.se/nyheter/v%C3%A4rlden/buttigieg-leder-men-m%C3%A5nga-r%C3%B6ster-%C3%A5terst%C3%A5r-1.23494941

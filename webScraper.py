@@ -7,7 +7,7 @@
 # Moved to public GIT: https://github.com/MC-76/webScraper
 
 
-from func import MyNews, getPageInfoGP, checkIfExists, getPageInfoIDG, getPageInfoAB, showOnlyHelp            
+from func import MyNews, getPageInfoGP, checkIfExists, getPageInfoIDG, getPageInfoTimesNyTimes, getPageInfoAB, showOnlyHelp, read_API_key           
 import os                           # Check if folder exists
 import time                         # for sleep
 import datetime                     # for logfilename
@@ -46,7 +46,7 @@ flagHIT = False
 
 # Variables
 path = './newsLog/'                 # Where newslog is stored
-waitTime = 60                       # Wait in sec between polling
+waitTime = 300                       # Wait in sec between polling (300=5min)
 logger.info(f'Application setting: path={path}') 
 logger.info(f'Application setting: waitTime={waitTime}') 
 
@@ -88,6 +88,9 @@ if not flagSilent:
 
 lastFileDate = datetime.date.today()
 
+# Read API keys
+NYT_key = read_API_key('NYT')
+
 #Sidebar test
 st.sidebar.subheader('WebScraper Settings')
 flagHiglights = st.sidebar.checkbox('Highlight news',value=flagHiglights)
@@ -119,6 +122,7 @@ while True: # Run forever
     unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
     unProcessedNews += getPageInfoIDG('https://idg.se','mostPopularList','articleDate','not_used')
     unProcessedNews += getPageInfoAB('https://aftonbladet.se','HLf1C','c-teaser-list__item__title','not-used')
+    unProcessedNews += getPageInfoTimesNyTimes('https://api.nytimes.com/svc/topstories/v2/world.json?api-key=',NYT_key,'NYT-World')
     # ... Other news
     
     for news in unProcessedNews:
@@ -126,7 +130,10 @@ while True: # Run forever
             newsFlow.append(news)
 
             trimmed_title = "{:<80}".format(news.title[:80]) 
-            output = f'{news.label}\t{news.source}\t{trimmed_title}\t'
+            #output = f'{news.label}\t{news.source}\n{trimmed_title}'
+            output = f'{news.label} \n'
+            output += f'{trimmed_title}\n'
+            
 
             flagHIT = False
             if flagSilent:
@@ -166,10 +173,10 @@ while True: # Run forever
    
     top_news = len(newsFlow)-1
     #while top_news > 0:
-    news1.markdown(f'**{newsFlow[top_news].label}**  \n{newsFlow[top_news].title}\n{newsFlow[top_news].url}')
-    news2.markdown(f'**{newsFlow[top_news-1].label}**  \n{newsFlow[top_news-1].title}\n{newsFlow[top_news-1].url}')
-    news3.markdown(f'**{newsFlow[top_news-2].label}**  \n{newsFlow[top_news-2].title}\n{newsFlow[top_news-2].url}')
-    news4.markdown(f'**{newsFlow[top_news-3].label}**  \n{newsFlow[top_news-3].title}\n{newsFlow[top_news-3].url}')
+    news1.markdown(f'**{newsFlow[top_news].label}**  \n{newsFlow[top_news].title}  \n{newsFlow[top_news].url}')
+    news2.markdown(f'**{newsFlow[top_news-1].label}**  \n{newsFlow[top_news-1].title}  \n{newsFlow[top_news-1].url}')
+    news3.markdown(f'**{newsFlow[top_news-2].label}**  \n{newsFlow[top_news-2].title}  \n{newsFlow[top_news-2].url}')
+    news4.markdown(f'**{newsFlow[top_news-3].label}**  \n{newsFlow[top_news-3].title}  \n{newsFlow[top_news-3].url}')
   
         
 
