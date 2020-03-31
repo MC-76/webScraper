@@ -43,6 +43,10 @@ flagSilent = False
 flagLinks = True                   # display links in output?
 flagHiglights = True           # If True, only print if news is in highlight list
 flagHIT = False
+flagGP = True
+flagIDG = True
+flagAB = False
+flagNYT = False
 
 # Variables
 path = './newsLog/'                 # Where newslog is stored
@@ -95,6 +99,10 @@ NYT_key = read_API_key('NYT')
 st.sidebar.subheader('WebScraper Settings')
 flagHiglights = st.sidebar.checkbox('Highlight news',value=flagHiglights)
 flagLinks = st.sidebar.checkbox('Show Links in output',value=flagLinks)
+flagGP = st.sidebar.checkbox('Collect news from GP',value=flagGP)
+flagIDG = st.sidebar.checkbox('Collect news from IDG',value=flagIDG)
+flagAB = st.sidebar.checkbox('Collect news from AB',value=flagAB)
+flagNYT = st.sidebar.checkbox('Collect news from NYT',value=flagNYT)
 
 # Placeholders
 st.success('Latest news')
@@ -120,10 +128,14 @@ if not os.path.exists(path):
 st.success('History')
 while True: # Run forever
     logger.debug('Starting new loop')
-    unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
-    unProcessedNews += getPageInfoIDG('https://idg.se','mostPopularList','articleDate','not_used')
-    unProcessedNews += getPageInfoAB('https://aftonbladet.se','HLf1C','c-teaser-list__item__title','not-used')
-    unProcessedNews += getPageInfoTimesNyTimes('https://api.nytimes.com/svc/topstories/v2/world.json?api-key=',NYT_key,'NYT-World')
+    if flagGP == True:
+        unProcessedNews += getPageInfoGP('https://gp.se','c-teaser-list__item','c-teaser-list__item__label','c-teaser-list__item__title')
+    if flagIDG == True:
+        unProcessedNews += getPageInfoIDG('https://idg.se','mostPopularList','articleDate','not_used')
+    if flagAB == True:
+        unProcessedNews += getPageInfoAB('https://aftonbladet.se','HLf1C','c-teaser-list__item__title','not-used')
+    if flagNYT == True:
+        unProcessedNews += getPageInfoTimesNyTimes('https://api.nytimes.com/svc/topstories/v2/world.json?api-key=',NYT_key,'NYT-World')
     # ... Other news
     
     for news in unProcessedNews:

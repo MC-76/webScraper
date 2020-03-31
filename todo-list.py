@@ -11,12 +11,13 @@
 # TODO: Kolla om requests.get(inputURL) använder logger - https://gp.se:443 "GET / HTTP/1.1" 301 0
 # TODO: Sluta spara nyheter efter varje nyhet, gör detta batchmässigt
 # TODO: Begräna History till x antal inputs
-# TODO: Gör en sidebar där man kan välja källa (tex visa endast IDG)
 # TODO: streamlit title bör visas i fulltext
 # TODO: Fixa min enhörning 
 # TODO: Gör att highlight lista kan editeras i sidebar
+# TODO: Fixa en divider i sidebar
 
 #-= DONE =-
+# DONE: Gör en sidebar där man kan välja källa (tex visa endast IDG)
 # DONE: Lägg API Nycklar i egen fil med gitignore
 # DONE: FIXA IDG länkar 
 # DONE: Kolla varför det inte blir ny rad efter label i latest news
